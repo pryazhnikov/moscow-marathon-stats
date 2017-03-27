@@ -5,8 +5,8 @@ CURL=`which curl`
 SCRAPY=`which scrapy`
 
 # 2016
-$CURL 'http://moscowmarathon.org/media/filer_public/16/20160925_mosmarathon_f_42km.json' > $DATA_DIR/2016_male_42km.json
-$CURL 'http://moscowmarathon.org/media/filer_public/16/20160925_mosmarathon_m_42km.json' > $DATA_DIR/2016_female_42km.json
+$CURL 'http://moscowmarathon.org/media/filer_public/16/20160925_mosmarathon_m_42km.json' > $DATA_DIR/2016_male_42km.json
+$CURL 'http://moscowmarathon.org/media/filer_public/16/20160925_mosmarathon_f_42km.json' > $DATA_DIR/2016_female_42km.json
 
 # 2015
 $CURL 'http://2015.moscowmarathon.org/static/protocols/2015/moscowmarathon/42km-men.json' > $DATA_DIR/2015_male_42km.json
