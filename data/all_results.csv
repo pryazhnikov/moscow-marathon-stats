@@ -38,10 +38,10 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Female,Finished,3:33:38,37.0,Россия,Москва,
 2014,Female,Finished,3:34:02,38.0,Россия,Москва,
 2014,Female,Finished,3:34:05,39.0,Россия,Тверь,
-2014,Female,Finished,3:35:05,40.0,Россия,КАШИРА,IRC 
+2014,Female,Finished,3:35:05,40.0,Россия,КАШИРА,IRC
 2014,Female,Finished,3:35:18,41.0,Россия,Москва,Лада
 2014,Female,Finished,3:35:19,42.0,Австрия,Леондинг,Club Supermmarathon Austria
-2014,Female,Finished,3:35:54,43.0,Россия,Москва, ЦФКиС по ВАО ; КЛБ Мещера
+2014,Female,Finished,3:35:54,43.0,Россия,Москва,ЦФКиС по ВАО ; КЛБ Мещера
 2014,Female,Finished,3:37:24,44.0,Россия,Париж,
 2014,Female,Finished,3:37:44,45.0,Россия,Курск,КБП
 2014,Female,Finished,3:37:52,46.0,Россия,Москва,OneginRun
@@ -50,12 +50,12 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Female,Finished,3:39:29,49.0,Россия,Белгород,
 2014,Female,Finished,3:39:54,50.0,Россия,Москва,Charge your life
 2014,Female,Finished,3:40:08,51.0,Россия,Москва,Oneginrun
-2014,Female,Finished,3:40:15,52.0,США,Москва,Mesa Monument Striders 
+2014,Female,Finished,3:40:15,52.0,США,Москва,Mesa Monument Striders
 2014,Female,Finished,3:40:29,53.0,Украина,Москва,нет
 2014,Female,Finished,3:40:29,53.0,Россия,Москва,
 2014,Female,Finished,3:40:30,55.0,Россия,Москва,
 2014,Female,Finished,3:41:32,56.0,Россия,Москва,MIPT running club
-2014,Female,Finished,3:42:02,57.0,Россия,Москва,Jessica Soliz 
+2014,Female,Finished,3:42:02,57.0,Россия,Москва,Jessica Soliz
 2014,Female,Finished,3:42:18,58.0,Россия,Москва,
 2014,Female,Finished,3:42:32,59.0,Россия,Москва,
 2014,Female,Finished,3:43:31,60.0,Россия,Москва,Гепард
@@ -71,7 +71,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Female,Finished,3:45:39,70.0,Россия,Москва,RUNLAB
 2014,Female,Finished,3:45:51,71.0,Россия,Москва,
 2014,Female,Finished,3:45:51,71.0,Россия,Москва,
-2014,Female,Finished,3:45:51,71.0,Россия,Москва,Ultra girl 
+2014,Female,Finished,3:45:51,71.0,Россия,Москва,Ultra girl
 2014,Female,Finished,3:46:00,74.0,Россия,МЦЕНСК,
 2014,Female,Finished,3:46:12,75.0,Россия,Лион,
 2014,Female,Finished,3:46:18,76.0,Россия,Москва,I love running
@@ -86,7 +86,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Female,Finished,3:49:31,85.0,Россия,Москва,Genya
 2014,Female,Finished,3:49:48,86.0,Россия,КОНАКОВО,Марафонец
 2014,Female,Finished,3:50:01,87.0,Латвия,Москва,
-2014,Female,Finished,3:50:31,88.0,Россия,Киров, ВятОСДЮСШОР
+2014,Female,Finished,3:50:31,88.0,Россия,Киров,ВятОСДЮСШОР
 2014,Female,Finished,3:50:58,89.0,Россия,Москва,Ironpie
 2014,Female,Finished,3:50:58,89.0,Россия,Москва,
 2014,Female,Finished,3:50:58,89.0,Россия,Белгород,ДРУЖБА
@@ -130,7 +130,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Female,Finished,3:59:55,129.0,Россия,Москва,Планета Фитнес
 2014,Female,Finished,3:59:58,130.0,Россия,Жигулевск,
 2014,Female,Finished,4:00:10,131.0,Россия,Москва,
-2014,Female,Finished,4:01:50,132.0,Россия,Москва,Girl&sole 
+2014,Female,Finished,4:01:50,132.0,Россия,Москва,Girl&sole
 2014,Female,Finished,4:02:27,133.0,Россия,Москва,
 2014,Female,Finished,4:02:43,134.0,Россия,Москва,
 2014,Female,Finished,4:02:43,134.0,Россия,Москва,Аэропорт Шереметьево
@@ -153,7 +153,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Female,Finished,4:08:34,152.0,Россия,Москва,
 2014,Female,Finished,4:08:37,153.0,Россия,Москва,
 2014,Female,Finished,4:08:40,154.0,Россия,Москва,Спарта
-2014,Female,Finished,4:08:41,155.0,Россия,Москва,I love running 
+2014,Female,Finished,4:08:41,155.0,Россия,Москва,I love running
 2014,Female,Finished,4:08:54,156.0,Россия,Москва,
 2014,Female,Finished,4:09:50,157.0,Россия,Москва,
 2014,Female,Finished,4:10:24,158.0,Россия,Москва,Парсек
@@ -200,7 +200,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Female,Finished,4:19:29,199.0,Россия,Москва,
 2014,Female,Finished,4:19:31,200.0,Россия,Москва,
 2014,Female,Finished,4:19:34,201.0,Россия,Москва,
-2014,Female,Finished,4:19:35,202.0,Россия,Москва,I Love Running 
+2014,Female,Finished,4:19:35,202.0,Россия,Москва,I Love Running
 2014,Female,Finished,4:20:33,203.0,Россия,Москва,
 2014,Female,Finished,4:20:39,204.0,Россия,Москва,Girl&Sole
 2014,Female,Finished,4:21:22,205.0,Австрия,Москва,
@@ -214,7 +214,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Female,Finished,4:25:26,213.0,Россия,Тюмень,
 2014,Female,Finished,4:25:35,214.0,Россия,Москва,
 2014,Female,Finished,4:25:35,214.0,Россия,Москва,
-2014,Female,Finished,4:25:39,216.0,Россия,,World Class Нижний Новгород 
+2014,Female,Finished,4:25:39,216.0,Россия,,World Class Нижний Новгород
 2014,Female,Finished,4:25:42,217.0,Россия,Москва,
 2014,Female,Finished,4:25:48,218.0,Россия,Азов,Rostov Runners
 2014,Female,Finished,4:25:58,219.0,Россия,Москва,РХТУ
@@ -311,10 +311,10 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Female,Finished,4:44:58,310.0,Россия,Москва,
 2014,Female,Finished,4:44:58,310.0,Россия,Москва,
 2014,Female,Finished,4:45:08,312.0,Россия,Москва,
-2014,Female,Finished,4:45:24,313.0,Россия,Москва,I love running 
+2014,Female,Finished,4:45:24,313.0,Россия,Москва,I love running
 2014,Female,Finished,4:45:35,314.0,Россия,Москва,
 2014,Female,Finished,4:45:41,315.0,Россия,Москва,Московский Институт Физической Культуры и Спорта
-2014,Female,Finished,4:46:18,316.0,Россия,,Gorky Park Runners 
+2014,Female,Finished,4:46:18,316.0,Россия,,Gorky Park Runners
 2014,Female,Finished,4:46:28,317.0,Россия,Киров,Вят ОСДЮСШОР
 2014,Female,Finished,4:46:33,318.0,Россия,Москва,OneginRun
 2014,Female,Finished,4:46:43,319.0,Россия,Москва,Stream
@@ -567,7 +567,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Female,Did not finished,,,Россия,Москва,нет
 2014,Female,Did not finished,,,Россия,Москва,
 2014,Female,Did not finished,,,Россия,Москва,-
-2014,Female,Did not finished,,,Россия,Москва,Blond power 
+2014,Female,Did not finished,,,Россия,Москва,Blond power
 2014,Female,Did not finished,,,Россия,Москва,
 2014,Female,Did not finished,,,Россия,Москва,Gepard
 2014,Female,Did not finished,,,Россия,Москва,
@@ -674,7 +674,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,2:58:12,79.0,Россия,Москва,Энергия
 2014,Male,Finished,2:58:14,80.0,Россия,Москва,FitFashion
 2014,Male,Finished,2:58:15,81.0,Россия,Киров,
-2014,Male,Finished,2:58:31,82.0,Россия,Железнодорожный, Сенеж
+2014,Male,Finished,2:58:31,82.0,Россия,Железнодорожный,Сенеж
 2014,Male,Finished,2:58:36,83.0,Россия,Кемерово,Кемеровский легкоатлетический манеж
 2014,Male,Finished,2:58:39,84.0,Россия,Москва,Локомотив
 2014,Male,Finished,2:58:43,85.0,Россия,Москва,CUBE Russia Team
@@ -949,7 +949,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,3:21:03,354.0,Россия,ЛЮБЕРЦЫ,Клуб обожателей хаотичного бега
 2014,Male,Finished,3:21:12,355.0,Россия,Москва,adidas Boost team
 2014,Male,Finished,3:21:21,356.0,Россия,Москва,
-2014,Male,Finished,3:21:24,357.0,Россия,Москва,ЛК Измайлово 
+2014,Male,Finished,3:21:24,357.0,Россия,Москва,ЛК Измайлово
 2014,Male,Finished,3:21:31,358.0,Россия,Москва,n/a
 2014,Male,Finished,3:21:38,359.0,Россия,ТОРЖОК,Новотор
 2014,Male,Finished,3:21:38,359.0,Россия,Сочи,
@@ -1032,7 +1032,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,3:25:19,437.0,Россия,Москва,
 2014,Male,Finished,3:25:22,438.0,Россия,Москва,ЛК Измайлово
 2014,Male,Finished,3:25:23,439.0,Россия,Калуга,
-2014,Male,Finished,3:25:30,440.0,Россия,Химки,www.trilife.ru 
+2014,Male,Finished,3:25:30,440.0,Россия,Химки,www.trilife.ru
 2014,Male,Finished,3:25:32,441.0,Россия,Москва,runopolis.ru
 2014,Male,Finished,3:25:42,442.0,Россия,Москва,
 2014,Male,Finished,3:25:53,443.0,Россия,ДУБНА,
@@ -1109,7 +1109,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,3:28:56,514.0,Россия,Москва,
 2014,Male,Finished,3:29:03,515.0,Россия,Жигулевск,
 2014,Male,Finished,3:29:03,515.0,Россия,Воронеж,Звездный Десант
-2014,Male,Finished,3:29:05,517.0,Россия,Москва, World class Пресня
+2014,Male,Finished,3:29:05,517.0,Россия,Москва,World class Пресня
 2014,Male,Finished,3:29:05,517.0,Россия,Москва,
 2014,Male,Finished,3:29:08,519.0,Россия,Москва,Гепард
 2014,Male,Finished,3:29:08,519.0,Россия,Москва,
@@ -1137,7 +1137,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,3:29:51,541.0,Россия,Москва,
 2014,Male,Finished,3:30:03,543.0,Россия,Кимовск,
 2014,Male,Finished,3:30:06,544.0,Россия,Москва,
-2014,Male,Finished,3:30:07,545.0,Россия,Владимир,rruns33 
+2014,Male,Finished,3:30:07,545.0,Россия,Владимир,rruns33
 2014,Male,Finished,3:30:11,546.0,Россия,Москва,
 2014,Male,Finished,3:30:13,547.0,Россия,Железнодорожный,
 2014,Male,Finished,3:30:15,548.0,Россия,Москва,Higher School of Economics
@@ -1364,7 +1364,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,3:38:13,769.0,Россия,ОБНИНСК,ПРОТВА
 2014,Male,Finished,3:38:16,770.0,Россия,Москва,-
 2014,Male,Finished,3:38:20,771.0,Россия,Климовск,
-2014,Male,Finished,3:38:22,772.0,Россия,Москва,Хромая черепаха 
+2014,Male,Finished,3:38:22,772.0,Россия,Москва,Хромая черепаха
 2014,Male,Finished,3:38:27,773.0,Россия,ТОЛЬЯТТИ,Тольятти-триатлон
 2014,Male,Finished,3:38:29,774.0,Россия,Москва,
 2014,Male,Finished,3:38:35,775.0,Украина,Харьков,
@@ -1427,7 +1427,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,3:40:38,832.0,Россия,Москва,Москва
 2014,Male,Finished,3:40:38,832.0,Россия,Москва,БИМ
 2014,Male,Finished,3:40:39,834.0,Россия,Москва,
-2014,Male,Finished,3:40:40,835.0,Россия,Егорьевск,МЕЩЕРА 
+2014,Male,Finished,3:40:40,835.0,Россия,Егорьевск,МЕЩЕРА
 2014,Male,Finished,3:40:41,836.0,Украина,Москва,Gorky Park Runners
 2014,Male,Finished,3:40:41,836.0,Россия,Москва,
 2014,Male,Finished,3:40:43,838.0,Россия,Москва,
@@ -1457,7 +1457,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,3:41:50,862.0,Россия,Москва,
 2014,Male,Finished,3:41:52,863.0,Россия,Москва,
 2014,Male,Finished,3:41:54,864.0,Япония,Тверь,HITACHI long distance running Club at TVER
-2014,Male,Finished,3:41:57,865.0,Россия,Москва, Volga Ghetto Runners
+2014,Male,Finished,3:41:57,865.0,Россия,Москва,Volga Ghetto Runners
 2014,Male,Finished,3:41:58,866.0,Россия,Москва,21 runners
 2014,Male,Finished,3:42:03,867.0,Россия,Москва,
 2014,Male,Finished,3:42:03,867.0,Россия,Москва,
@@ -1577,7 +1577,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,3:45:33,982.0,Россия,Москва,21runners
 2014,Male,Finished,3:45:34,983.0,Россия,Москва,
 2014,Male,Finished,3:45:34,983.0,Литва,Висагинас,Visagino DUAL
-2014,Male,Finished,3:45:36,985.0,Россия,Москва,нет 
+2014,Male,Finished,3:45:36,985.0,Россия,Москва,нет
 2014,Male,Finished,3:45:37,986.0,Россия,Москва,
 2014,Male,Finished,3:45:38,987.0,Россия,Москва,
 2014,Male,Finished,3:45:40,988.0,Россия,Москва,I Love Running
@@ -1707,7 +1707,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,3:49:23,1112.0,Россия,Москва,I love Running
 2014,Male,Finished,3:49:23,1112.0,Россия,Москва,Nike +
 2014,Male,Finished,3:49:23,1112.0,Россия,Москва,Белоцерковский марафон
-2014,Male,Finished,3:49:24,1115.0,Хорватия,Сплит,Maraton Klub Marjan 
+2014,Male,Finished,3:49:24,1115.0,Хорватия,Сплит,Maraton Klub Marjan
 2014,Male,Finished,3:49:35,1116.0,Россия,Москва,Сенеж
 2014,Male,Finished,3:49:36,1117.0,Россия,Москва,
 2014,Male,Finished,3:49:37,1118.0,Россия,Москва,
@@ -2360,7 +2360,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,4:07:29,1765.0,Россия,Химки,IRC
 2014,Male,Finished,4:07:34,1766.0,Россия,Москва,
 2014,Male,Finished,4:07:35,1767.0,Россия,Москва,
-2014,Male,Finished,4:07:38,1768.0,Россия,Белгород,Freya 
+2014,Male,Finished,4:07:38,1768.0,Россия,Белгород,Freya
 2014,Male,Finished,4:07:41,1769.0,Россия,Москва,
 2014,Male,Finished,4:07:41,1769.0,Россия,Москва,ASTHMA TEAM
 2014,Male,Finished,4:07:42,1771.0,Россия,Москва,
@@ -2649,7 +2649,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,4:16:28,2054.0,Россия,Москва,
 2014,Male,Finished,4:16:30,2055.0,Россия,Москва,МГУ
 2014,Male,Finished,4:16:31,2056.0,Россия,Москва,Nike + running club
-2014,Male,Finished,4:16:34,2057.0,Россия,Королев,Связной 
+2014,Male,Finished,4:16:34,2057.0,Россия,Королев,Связной
 2014,Male,Finished,4:16:35,2058.0,Россия,Москва,No
 2014,Male,Finished,4:16:36,2059.0,Россия,Москва,
 2014,Male,Finished,4:16:38,2060.0,Канада,Гонконг,
@@ -2777,7 +2777,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,4:20:12,2182.0,Россия,Москва,Бутовские Волки
 2014,Male,Finished,4:20:14,2183.0,Беларусь,Москва,
 2014,Male,Finished,4:20:19,2184.0,Беларусь,Москва,RunLepraRun
-2014,Male,Finished,4:20:19,2184.0,Россия,Москва, Беговой клуб Nike в Парке Горького
+2014,Male,Finished,4:20:19,2184.0,Россия,Москва,Беговой клуб Nike в Парке Горького
 2014,Male,Finished,4:20:21,2186.0,Россия,Краснознаменск,Alex Baryga Ski Team
 2014,Male,Finished,4:20:22,2187.0,Россия,Москва,trilife.ru
 2014,Male,Finished,4:20:25,2188.0,Россия,ПУЩИНО,
@@ -2791,7 +2791,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,4:20:47,2196.0,Россия,Москва,21 runners
 2014,Male,Finished,4:20:48,2197.0,Россия,Москва,
 2014,Male,Finished,4:20:49,2198.0,Россия,Москва,
-2014,Male,Finished,4:20:50,2199.0,Россия,Москва,Хромая черепаха 
+2014,Male,Finished,4:20:50,2199.0,Россия,Москва,Хромая черепаха
 2014,Male,Finished,4:20:51,2200.0,Россия,Москва,
 2014,Male,Finished,4:20:53,2201.0,Россия,Москва,[pilorams]
 2014,Male,Finished,4:20:54,2202.0,Австрия,Грац,Club Supermarathon Austria
@@ -2835,7 +2835,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,4:22:21,2239.0,Швеция,None,Canon
 2014,Male,Finished,4:22:22,2241.0,Россия,Подольск,
 2014,Male,Finished,4:22:24,2242.0,Россия,Москва,
-2014,Male,Finished,4:22:25,2243.0,Россия,Москва, I LOVERUNNING
+2014,Male,Finished,4:22:25,2243.0,Россия,Москва,I LOVERUNNING
 2014,Male,Finished,4:22:25,2243.0,Россия,Череповец,
 2014,Male,Finished,4:22:28,2245.0,Россия,Москва,
 2014,Male,Finished,4:22:29,2246.0,Россия,Москва,
@@ -3462,7 +3462,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,4:50:05,2867.0,Россия,Москва,111
 2014,Male,Finished,4:50:05,2867.0,Россия,Москва,21 runners
 2014,Male,Finished,4:50:14,2869.0,Беларусь,Москва,runcotic
-2014,Male,Finished,4:50:17,2870.0,Россия,Москва,Факел 
+2014,Male,Finished,4:50:17,2870.0,Россия,Москва,Факел
 2014,Male,Finished,4:50:18,2871.0,Россия,Москва,
 2014,Male,Finished,4:50:20,2872.0,Россия,Москва,
 2014,Male,Finished,4:50:20,2872.0,Россия,Ульяновск,
@@ -3707,7 +3707,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,5:05:14,3112.0,Россия,Москва,Аллерген
 2014,Male,Finished,5:05:15,3113.0,Россия,ДОЛГОПРУДНЫЙ,
 2014,Male,Finished,5:05:18,3114.0,Россия,Москва,
-2014,Male,Finished,5:05:39,3115.0,Россия,Москва,I love running 
+2014,Male,Finished,5:05:39,3115.0,Россия,Москва,I love running
 2014,Male,Finished,5:05:42,3116.0,Россия,Москва,
 2014,Male,Finished,5:05:44,3117.0,Россия,Москва,
 2014,Male,Finished,5:06:01,3118.0,Россия,Москва,
@@ -3773,7 +3773,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,5:11:15,3178.0,Россия,Москва,iloverunning
 2014,Male,Finished,5:11:18,3179.0,Россия,Москва,Мир
 2014,Male,Finished,5:11:20,3180.0,Россия,Москва,
-2014,Male,Finished,5:11:21,3181.0,Россия,Москва,I love running 
+2014,Male,Finished,5:11:21,3181.0,Россия,Москва,I love running
 2014,Male,Finished,5:11:29,3182.0,Россия,Подольск,
 2014,Male,Finished,5:11:31,3183.0,Россия,НОВОМОСКОВСК,My self
 2014,Male,Finished,5:11:39,3184.0,Франция,Москва,
@@ -4005,7 +4005,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,5:37:28,3410.0,Россия,БРОННИЦЫ,
 2014,Male,Finished,5:38:01,3411.0,Беларусь,Брест,
 2014,Male,Finished,5:38:17,3412.0,Россия,Москва,
-2014,Male,Finished,5:38:27,3413.0,Россия,Москва,беговой клуб Major 
+2014,Male,Finished,5:38:27,3413.0,Россия,Москва,беговой клуб Major
 2014,Male,Finished,5:38:40,3414.0,Япония,Дубай,
 2014,Male,Finished,5:38:50,3415.0,Россия,Москва,
 2014,Male,Finished,5:38:51,3416.0,Россия,Москва,
@@ -4020,7 +4020,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Finished,5:40:09,3425.0,Россия,Москва,
 2014,Male,Finished,5:40:35,3426.0,Россия,Москва,
 2014,Male,Finished,5:40:41,3427.0,Россия,Москва,
-2014,Male,Finished,5:40:50,3428.0,Россия,Москва,seibukai ibuki 
+2014,Male,Finished,5:40:50,3428.0,Россия,Москва,seibukai ibuki
 2014,Male,Finished,5:40:52,3429.0,Россия,Москва,
 2014,Male,Finished,5:41:24,3430.0,Россия,Москва,Adidas Boost team
 2014,Male,Finished,5:41:46,3431.0,Россия,Москва,нет
@@ -4098,7 +4098,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Did not finished,,,Россия,Москва,I love running
 2014,Male,Did not finished,,,Россия,Москва,
 2014,Male,Did not finished,,,Россия,Москва,David Warden Coaching
-2014,Male,Did not finished,,,Россия,ПУШКИНО,Adidas Boost Team 
+2014,Male,Did not finished,,,Россия,ПУШКИНО,Adidas Boost Team
 2014,Male,Did not finished,,,Россия,Москва,NIKE+
 2014,Male,Did not finished,,,Россия,Москва,IRON Club
 2014,Male,Did not finished,,,Россия,Липецк,
@@ -4223,7 +4223,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2014,Male,Did not finished,,,Россия,Москва,
 2014,Male,Did not finished,,,Россия,Москва,
 2014,Male,Did not finished,,,Россия,Москва,
-2014,Male,Did not finished,,,Россия,Москва,PlaceYouLike 
+2014,Male,Did not finished,,,Россия,Москва,PlaceYouLike
 2014,Male,Did not finished,,,Россия,Москва,
 2014,Male,Did not finished,,,Россия,Одинцово,
 2014,Male,Did not finished,,,Россия,Москва,perovo-running
@@ -4271,7 +4271,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,2:53:40,11.0,Россия,Калуга,veloman.org
 2015,Female,Finished,2:54:11,12.0,Россия,Москва,MC Gepard
 2015,Female,Finished,2:55:44,13.0,Россия,Пермь,РФСО Локомотив
-2015,Female,Finished,3:02:56,14.0,Россия,ТРОИЦК,Спортивно-оздоровительная база 
+2015,Female,Finished,3:02:56,14.0,Россия,ТРОИЦК,Спортивно-оздоровительная база
 2015,Female,Finished,3:06:59,15.0,Россия,Воркута,Аэробия
 2015,Female,Finished,3:11:24,16.0, Россия,Екатеринбург,
 2015,Female,Finished,3:11:54,17.0,Россия,Москва,
@@ -4280,7 +4280,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,3:15:20,20.0,Исландия,Рейкьявик,ÍR
 2015,Female,Finished,3:17:30,21.0,Россия,Москва,ЦФКС ВАО
 2015,Female,Finished,3:17:30,21.0,Россия,РОСЛАВЛЬ,
-2015,Female,Finished,3:18:36,23.0,Россия,Калуга,КЛБ 
+2015,Female,Finished,3:18:36,23.0,Россия,Калуга,КЛБ
 2015,Female,Finished,3:23:16,24.0,Беларусь,Минск,Виктория
 2015,Female,Finished,3:23:38,25.0,Великобритания,Уорик,Spa Striders
 2015,Female,Finished,3:26:02,26.0,Россия,Санкт-Петербург,
@@ -4292,7 +4292,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,3:29:37,32.0,Россия,Москва,NIKE+
 2015,Female,Finished,3:30:13,33.0,Россия,Москва,OneginRun
 2015,Female,Finished,3:31:27,34.0,Россия,Петрозаводск,
-2015,Female,Finished,3:31:45,35.0,Россия,Москва,Марафонский Клуб 
+2015,Female,Finished,3:31:45,35.0,Россия,Москва,Марафонский Клуб
 2015,Female,Finished,3:33:20,36.0,Россия,Москва,
 2015,Female,Finished,3:33:51,37.0,Россия,Москва,
 2015,Female,Finished,3:33:56,38.0,Россия,Ростов-на-Дону,#бегиРостовбеги
@@ -4300,7 +4300,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,3:34:41,40.0, Россия,Москва,RRUNS
 2015,Female,Finished,3:36:03,41.0,Россия,КАШИРА,IRC
 2015,Female,Finished,3:36:14,42.0,Россия,Нижний Новгород,ILOVERUNNING НИЖНИЙ НОВГОРОД
-2015,Female,Finished,3:36:34,43.0,Россия,Москва, ЦФКиС по ВАО 
+2015,Female,Finished,3:36:34,43.0,Россия,Москва,ЦФКиС по ВАО
 2015,Female,Finished,3:36:54,44.0,Россия,Москва,adidas runclub
 2015,Female,Finished,3:37:26,45.0,Россия,КАЗАНЬ,
 2015,Female,Finished,3:37:36,46.0,Россия,Москва,Лада
@@ -4308,21 +4308,21 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,3:39:20,48.0, Россия,Москва,
 2015,Female,Finished,3:39:25,49.0,США,Бойсе,Ramkamhaeng Runners
 2015,Female,Finished,3:39:29,50.0,Россия,Москва,КБП
-2015,Female,Finished,3:39:50,51.0,Россия,Москва,Jessica Soliz 
+2015,Female,Finished,3:39:50,51.0,Россия,Москва,Jessica Soliz
 2015,Female,Finished,3:39:50,51.0,Россия,Москва,MC Gepard
 2015,Female,Finished,3:40:01,53.0,Норвегия,Осло,
 2015,Female,Finished,3:40:31,54.0,Россия,Москва,
 2015,Female,Finished,3:40:33,55.0,Россия,Москва,
 2015,Female,Finished,3:40:53,56.0,Россия,Москва,"Nike, unityruncamp"
 2015,Female,Finished,3:41:57,57.0,Россия,Москва,МК Гепард
-2015,Female,Finished,3:42:42,58.0,Россия,Москва,Московский беговой клуб 
+2015,Female,Finished,3:42:42,58.0,Россия,Москва,Московский беговой клуб
 2015,Female,Finished,3:42:52,59.0,Россия,Москва,Клуб Спелеологов МГУ
 2015,Female,Finished,3:42:55,60.0,Россия,Москва,Трилайф
 2015,Female,Finished,3:43:33,61.0,Россия,Москва,Новатор
 2015,Female,Finished,3:43:39,62.0,Россия,Москва,
 2015,Female,Finished,3:44:19,63.0,Россия,Москва,лично
 2015,Female,Finished,3:44:22,64.0,Россия,Москва,Московский Беговой клуб
-2015,Female,Finished,3:44:49,65.0,Россия,Санкт-Петербург,piranha 
+2015,Female,Finished,3:44:49,65.0,Россия,Санкт-Петербург,piranha
 2015,Female,Finished,3:45:25,66.0,Россия,Москва,
 2015,Female,Finished,3:45:35,67.0,Россия,Москва,
 2015,Female,Finished,3:45:50,68.0,Россия,Москва,
@@ -4331,7 +4331,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,3:46:34,71.0,Россия,Ульяновск,Ювенис
 2015,Female,Finished,3:47:02,72.0,Россия,Лесной,
 2015,Female,Finished,3:47:35,73.0,Россия,Тула,
-2015,Female,Finished,3:47:36,74.0,Россия,Москва,adidas runbase 
+2015,Female,Finished,3:47:36,74.0,Россия,Москва,adidas runbase
 2015,Female,Finished,3:47:48,75.0,Россия,СЕВЕРОДВИНСК,
 2015,Female,Finished,3:47:59,76.0,Россия,Москва,
 2015,Female,Finished,3:48:08,77.0,Россия,ЙОШКАР-ОЛА,
@@ -4358,7 +4358,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,3:52:50,98.0,Германия,Дюссельдорф,
 2015,Female,Finished,3:53:00,99.0,Россия,Москва,
 2015,Female,Finished,3:53:13,100.0,Россия,Москва,adidas runclub
-2015,Female,Finished,3:54:03,101.0,Россия,Москва,World class 
+2015,Female,Finished,3:54:03,101.0,Россия,Москва,World class
 2015,Female,Finished,3:54:07,102.0,Россия,Москва,Муравей
 2015,Female,Finished,3:54:08,103.0,Россия,Москва,Unity run camp
 2015,Female,Finished,3:54:11,104.0,Россия,Москва,
@@ -4372,7 +4372,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,3:55:13,111.0,Россия,Москва,
 2015,Female,Finished,3:55:35,113.0,Россия,Москва,SelfmamaRun
 2015,Female,Finished,3:55:51,114.0,Эстония,Таллин,HERMES
-2015,Female,Finished,3:56:10,115.0,Россия,Москва,ЦФКиС ВАО 
+2015,Female,Finished,3:56:10,115.0,Россия,Москва,ЦФКиС ВАО
 2015,Female,Finished,3:56:14,116.0,Россия,Балашиха,MOSCOW Trail Running
 2015,Female,Finished,3:56:18,117.0,Россия,Москва,No tag runners
 2015,Female,Finished,3:56:44,118.0,Россия,Москва,21runners
@@ -4387,7 +4387,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,3:58:08,127.0,Россия,Москва,Nike+ Парк Горького
 2015,Female,Finished,3:58:11,128.0,Россия,Петрозаводск,
 2015,Female,Finished,3:58:14,129.0,Россия,Москва,
-2015,Female,Finished,3:58:20,130.0,Россия,Санкт-Петербург,КЛБ 
+2015,Female,Finished,3:58:20,130.0,Россия,Санкт-Петербург,КЛБ
 2015,Female,Finished,3:58:21,131.0,Россия,Москва,
 2015,Female,Finished,3:58:27,132.0,Россия,Москва,
 2015,Female,Finished,3:58:31,133.0,Россия,Москва,CastoramaRun
@@ -4429,7 +4429,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,4:03:50,169.0,Россия,Москва,ЛК Измайлово
 2015,Female,Finished,4:03:58,170.0,Россия,Москва,
 2015,Female,Finished,4:04:45,171.0,Россия,ДОЛГОПРУДНЫЙ,
-2015,Female,Finished,4:05:41,172.0,Россия,Москва,команда 
+2015,Female,Finished,4:05:41,172.0,Россия,Москва,команда
 2015,Female,Finished,4:05:41,172.0,Россия,Москва,
 2015,Female,Finished,4:05:48,174.0,Россия,Москва,
 2015,Female,Finished,4:05:54,175.0,Россия,Москва,
@@ -4460,7 +4460,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,4:08:57,200.0,Россия,Москва,Planet Fitness
 2015,Female,Finished,4:09:22,201.0,Россия,Москва,
 2015,Female,Finished,4:09:26,202.0,Россия,Москва,
-2015,Female,Finished,4:09:32,203.0,Россия,Москва,Fitness one 
+2015,Female,Finished,4:09:32,203.0,Россия,Москва,Fitness one
 2015,Female,Finished,4:09:32,203.0,Россия,Красноярск,I LOVE RUNNING
 2015,Female,Finished,4:09:38,205.0,Россия,Москва,21runners парсек
 2015,Female,Finished,4:09:44,206.0,Россия,Москва,
@@ -4556,7 +4556,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,4:22:31,296.0,Россия,Москва,
 2015,Female,Finished,4:22:39,297.0,Россия,Москва,
 2015,Female,Finished,4:22:55,298.0,ОбъединенныеАрабскиеЭмираты,Дубай,
-2015,Female,Finished,4:23:01,299.0,Россия,Волгоград,Волгоградский государственный аграрный университет 
+2015,Female,Finished,4:23:01,299.0,Россия,Волгоград,Волгоградский государственный аграрный университет
 2015,Female,Finished,4:23:19,300.0,Нидерланды,Эйндховен,OSS Volo
 2015,Female,Finished,4:23:22,301.0,Россия,Москва,
 2015,Female,Finished,4:23:24,302.0,Швейцария,Винтертур,
@@ -4577,7 +4577,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,4:24:49,317.0,Россия,Москва,СК МГУ им. М. В. Ломоносова
 2015,Female,Finished,4:24:53,318.0,Россия,Москва,
 2015,Female,Finished,4:24:54,319.0,Россия,Москва,
-2015,Female,Finished,4:24:59,320.0,Россия,Москва,I love running tyumen 
+2015,Female,Finished,4:24:59,320.0,Россия,Москва,I love running tyumen
 2015,Female,Finished,4:25:32,321.0,Россия,Москва,runleprarun
 2015,Female,Finished,4:25:59,322.0,Россия,Москва,ЦФКиС ВАО
 2015,Female,Finished,4:26:07,323.0,США,Нью-Йорк,
@@ -4607,7 +4607,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,4:28:31,347.0,Россия,Москва,iloverunning
 2015,Female,Finished,4:28:49,348.0,Россия,Москва,i love running
 2015,Female,Finished,4:29:20,349.0,Россия,Москва,
-2015,Female,Finished,4:29:26,350.0,Россия,Киров, ВятОСДЮСШОР
+2015,Female,Finished,4:29:26,350.0,Россия,Киров,ВятОСДЮСШОР
 2015,Female,Finished,4:29:28,351.0,Россия,Москва,Тихоходы
 2015,Female,Finished,4:29:29,352.0,Россия,Москва,Sport project
 2015,Female,Finished,4:29:35,353.0,Россия,Москва,
@@ -4632,7 +4632,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,4:31:39,371.0,Россия,Москва,I love running
 2015,Female,Finished,4:31:53,373.0,Россия,Волгоград,
 2015,Female,Finished,4:32:07,374.0,Россия,Москва,
-2015,Female,Finished,4:32:13,375.0,Россия,Нижний Новгород,Беговой клуб 
+2015,Female,Finished,4:32:13,375.0,Россия,Нижний Новгород,Беговой клуб
 2015,Female,Finished,4:32:52,376.0,Россия,Москва,
 2015,Female,Finished,4:32:55,377.0,Россия,Москва,G&P
 2015,Female,Finished,4:32:55,377.0,Россия,Москва,Parkrun Russia
@@ -4643,9 +4643,9 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,4:33:35,383.0,Россия,Мытищи,
 2015,Female,Finished,4:33:55,384.0, Россия,Москва,
 2015,Female,Finished,4:34:04,385.0,Россия,Москва,
-2015,Female,Finished,4:34:05,386.0,Россия,Москва,Трилайф 
+2015,Female,Finished,4:34:05,386.0,Россия,Москва,Трилайф
 2015,Female,Finished,4:34:11,387.0,Россия,Москва,
-2015,Female,Finished,4:34:12,388.0,Россия,Москва,Girl&sole 
+2015,Female,Finished,4:34:12,388.0,Россия,Москва,Girl&sole
 2015,Female,Finished,4:34:15,389.0,Россия,Москва,Бег да Любовь
 2015,Female,Finished,4:34:18,390.0,Россия,Москва,Школа бега
 2015,Female,Finished,4:34:26,391.0,Россия,Москва,
@@ -4676,7 +4676,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,4:37:46,415.0,Россия,Москва,LR
 2015,Female,Finished,4:37:52,417.0,Россия,Сыктывкар,
 2015,Female,Finished,4:37:57,418.0,Россия,Москва,TanGORUNners
-2015,Female,Finished,4:38:08,419.0,Россия,Москва,Фитнес-клуб 
+2015,Female,Finished,4:38:08,419.0,Россия,Москва,Фитнес-клуб
 2015,Female,Finished,4:38:14,420.0,Россия,Калуга,
 2015,Female,Finished,4:38:16,421.0,Россия,Калининград,
 2015,Female,Finished,4:38:28,422.0,Россия,Москва,
@@ -4761,7 +4761,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,4:47:52,501.0,Россия,Воронеж,
 2015,Female,Finished,4:47:53,502.0,Россия,Москва,I Love Running
 2015,Female,Finished,4:48:06,503.0,Россия,Москва,
-2015,Female,Finished,4:48:08,504.0,Россия,Москва,БЕГУЩИЕ ЧЕЛОВЕКИ 
+2015,Female,Finished,4:48:08,504.0,Россия,Москва,БЕГУЩИЕ ЧЕЛОВЕКИ
 2015,Female,Finished,4:48:08,504.0,Россия,Нижний Новгород,Сормович
 2015,Female,Finished,4:48:09,506.0,Россия,Киров,
 2015,Female,Finished,4:48:17,507.0,Россия,Москва,
@@ -4827,7 +4827,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,4:54:57,567.0,Россия,Москва,
 2015,Female,Finished,4:55:02,568.0,Россия,Москва,Nike running
 2015,Female,Finished,4:55:05,569.0, Россия,Москва,Adidas runclub
-2015,Female,Finished,4:55:07,570.0,Россия,Москва,I LOVE RUNNING 
+2015,Female,Finished,4:55:07,570.0,Россия,Москва,I LOVE RUNNING
 2015,Female,Finished,4:55:21,571.0,Россия,Москва,World Class
 2015,Female,Finished,4:55:32,572.0,Россия,Москва,
 2015,Female,Finished,4:55:38,573.0,Россия,Сочи,
@@ -4874,7 +4874,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,5:01:40,614.0,Россия,Москва,
 2015,Female,Finished,5:01:52,615.0,Россия,Москва,
 2015,Female,Finished,5:02:04,616.0,Россия,Новосибирск,Авантел
-2015,Female,Finished,5:02:14,617.0,Россия,Москва,AQUALIBRIUM 
+2015,Female,Finished,5:02:14,617.0,Россия,Москва,AQUALIBRIUM
 2015,Female,Finished,5:02:14,617.0,Россия,Москва,
 2015,Female,Finished,5:02:24,619.0,Россия,Москва,нет
 2015,Female,Finished,5:02:27,620.0,Польша,Вроцлав,WKB Meta Lubliniec
@@ -4921,7 +4921,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,5:10:16,661.0,Россия,Москва,
 2015,Female,Finished,5:10:30,662.0,Россия,Москва,
 2015,Female,Finished,5:11:07,663.0,Россия,Москва,Ракета Team
-2015,Female,Finished,5:11:10,664.0,Россия,Москва,Iloverunning 
+2015,Female,Finished,5:11:10,664.0,Россия,Москва,Iloverunning
 2015,Female,Finished,5:11:11,665.0,Россия,Москва,I Love Running
 2015,Female,Finished,5:11:21,666.0,Россия,Москва,
 2015,Female,Finished,5:11:28,667.0,Россия,ГАГАРИН,
@@ -4930,7 +4930,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,5:11:47,670.0,Россия,Москва,
 2015,Female,Finished,5:13:17,671.0,Россия,Москва,
 2015,Female,Finished,5:13:18,672.0,Россия,Москва,
-2015,Female,Finished,5:13:19,673.0,Россия,Москва,Unity 
+2015,Female,Finished,5:13:19,673.0,Россия,Москва,Unity
 2015,Female,Finished,5:13:27,674.0, Россия,Москва,ВИКИНГИ
 2015,Female,Finished,5:13:30,675.0,Россия,Ставрополь,
 2015,Female,Finished,5:13:33,676.0,Россия,Пермь,
@@ -4955,7 +4955,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,5:17:29,695.0,Россия,Москва,
 2015,Female,Finished,5:17:29,695.0,Россия,Самара,
 2015,Female,Finished,5:17:52,697.0,Россия,Одинцово,
-2015,Female,Finished,5:17:58,698.0,Россия,Москва,Кайт-клуб 
+2015,Female,Finished,5:17:58,698.0,Россия,Москва,Кайт-клуб
 2015,Female,Finished,5:18:37,699.0,Россия,Москва,Girl&Sole
 2015,Female,Finished,5:18:42,700.0,Россия,Москва,
 2015,Female,Finished,5:18:48,701.0,Россия,Москва,
@@ -4977,7 +4977,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Finished,5:21:49,717.0,Россия,Киров,терпрофжел-3
 2015,Female,Finished,5:21:50,718.0,Россия,Киров,
 2015,Female,Finished,5:22:15,719.0,Россия,Курск,Меркурий
-2015,Female,Finished,5:22:24,720.0,Россия,Москва,Girls&sole 
+2015,Female,Finished,5:22:24,720.0,Россия,Москва,Girls&sole
 2015,Female,Finished,5:22:27,721.0,Россия,Тюмень,Строительный двор
 2015,Female,Finished,5:22:34,722.0,Россия,Москва,
 2015,Female,Finished,5:22:50,723.0,Китай,Шэньчжэнь,42TRIP
@@ -5187,7 +5187,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Did not finished,,,Россия,Москва,
 2015,Female,Did not finished,,,Россия,Москва,
 2015,Female,Did not finished,,,Россия,Москва,
-2015,Female,Did not finished,,,Россия,Москва,RTeam 
+2015,Female,Did not finished,,,Россия,Москва,RTeam
 2015,Female,Did not finished,,,Россия,Москва,
 2015,Female,Did not finished,,,Россия,Москва,
 2015,Female,Did not finished,,,Россия,Москва,
@@ -5224,7 +5224,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Did not finished,,, Россия,Москва,
 2015,Female,Did not finished,,, Россия,Краснодар,Top liga club
 2015,Female,Did not finished,,, Россия,Тверь,Adidas Boost team
-2015,Female,Did not finished,,, Россия,Краснодар, Topliga
+2015,Female,Did not finished,,, Россия,Краснодар,Topliga
 2015,Female,Did not finished,,, Россия,Москва,
 2015,Female,Did not finished,,, Россия,Москва,ЦСП по л/а
 2015,Female,Did not finished,,, Россия,Москва,
@@ -5247,7 +5247,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Disqualified,,,Россия,Москва,
 2015,Female,Disqualified,,,Россия,Москва,
 2015,Female,Disqualified,,,Россия,Москва,ART
-2015,Female,Disqualified,,,Россия,Москва,Клуб 
+2015,Female,Disqualified,,,Россия,Москва,Клуб
 2015,Female,Disqualified,,,Россия,Москва,I Love Running
 2015,Female,Disqualified,,,Россия,Москва,
 2015,Female,Disqualified,,,Россия,Москва,
@@ -5257,24 +5257,24 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Female,Disqualified,,,Россия,Рязань,parkrun Рязань
 2015,Female,Disqualified,,,Россия,Москва,
 2015,Female,Disqualified,,,Россия,Москва,
-2015,Female,Disqualified,,,Россия,Москва,Kristina Knyazeva 
+2015,Female,Disqualified,,,Россия,Москва,Kristina Knyazeva
 2015,Female,Disqualified,,, Россия,Москва,
 2015,Female,Disqualified,,, Россия,Москва,
 2015,Female,Disqualified,,, Россия,Москва,
 2015,Female,Disqualified,,, Россия,Москва,
 2015,Male,Finished,2:19:36,1.0,Кения,Элдорет,
-2015,Male,Finished,2:19:58,2.0,Россия,Москва,adidas Boost team_КЛБ Мы вместе_МК 
-2015,Male,Finished,2:20:52,3.0,Украина,Одесса,МК 
+2015,Male,Finished,2:19:58,2.0,Россия,Москва,adidas Boost team_КЛБ Мы вместе_МК
+2015,Male,Finished,2:20:52,3.0,Украина,Одесса,МК
 2015,Male,Finished,2:21:35,4.0,Россия,Абакан,SDYUSHOR Abakan
-2015,Male,Finished,2:22:26,5.0,Украина,Киев,Марафонский клуб 
+2015,Male,Finished,2:22:26,5.0,Украина,Киев,Марафонский клуб
 2015,Male,Finished,2:25:59,6.0,Россия,Москва,РФСО Локомотив
-2015,Male,Finished,2:27:47,7.0,Россия,Санкт-Петербург,МК 
+2015,Male,Finished,2:27:47,7.0,Россия,Санкт-Петербург,МК
 2015,Male,Finished,2:28:27,8.0,Россия,Санкт-Петербург,"Красногвардеец, СКА"
 2015,Male,Finished,2:30:06,9.0,Россия,Москва,Марафонский клуб ГЕПАРД
 2015,Male,Finished,2:31:12,10.0,Россия,Белгород,
 2015,Male,Finished,2:31:34,11.0,Россия,Москва,КЛБ Факел
 2015,Male,Finished,2:32:57,12.0,Россия,Москва,
-2015,Male,Finished,2:34:09,13.0,Россия,Санкт-Петербург,МК 
+2015,Male,Finished,2:34:09,13.0,Россия,Санкт-Петербург,МК
 2015,Male,Finished,2:35:23,14.0,Беларусь,Минск,КЛБ Виктория
 2015,Male,Finished,2:36:39,15.0,Россия,Нижний Новгород,Авангард
 2015,Male,Finished,2:36:46,16.0,Россия,Москва,московская биржа moexrun
@@ -5310,7 +5310,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,2:48:31,46.0,Россия,КУБИНКА,Энергия
 2015,Male,Finished,2:48:44,47.0,Турция,Стамбул,Lüks Belinay
 2015,Male,Finished,2:49:27,48.0,Россия,Челябинск,
-2015,Male,Finished,2:49:30,49.0,Россия,СУРГУТ,Клуб любителей лыжного спорта 
+2015,Male,Finished,2:49:30,49.0,Россия,СУРГУТ,Клуб любителей лыжного спорта
 2015,Male,Finished,2:49:37,50.0,Россия,Москва,
 2015,Male,Finished,2:49:43,51.0,Россия,Москва,Парсек
 2015,Male,Finished,2:49:44,52.0,Россия,КИРОВО-ЧЕПЕЦК,
@@ -5382,7 +5382,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,2:58:32,118.0,Россия,Москва,Быстрые ноги!
 2015,Male,Finished,2:58:43,119.0,Россия,Москва,Мосрентген
 2015,Male,Finished,2:58:52,120.0,Россия,Москва,
-2015,Male,Finished,2:58:54,121.0,Россия,Москва,СК 
+2015,Male,Finished,2:58:54,121.0,Россия,Москва,СК
 2015,Male,Finished,2:58:58,122.0,Россия,Белгород,
 2015,Male,Finished,2:59:04,123.0,Россия,Москва,temptraining.ru
 2015,Male,Finished,2:59:07,124.0,Россия,Москва,Не время улыбаться
@@ -5485,7 +5485,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:08:08,221.0,Россия,Москва,
 2015,Male,Finished,3:08:12,222.0,Россия,Москва,adidas runclub> moscow
 2015,Male,Finished,3:08:14,223.0,Россия,Москва,PHOTORUN.RU
-2015,Male,Finished,3:08:18,224.0,Россия,Санкт-Петербург,ОАО 
+2015,Male,Finished,3:08:18,224.0,Россия,Санкт-Петербург,ОАО
 2015,Male,Finished,3:08:23,225.0,Россия,РОСЛАВЛЬ,МЧС
 2015,Male,Finished,3:08:23,225.0,Россия,Москва,
 2015,Male,Finished,3:08:27,227.0,Россия,Чебоксары,Элара
@@ -5496,7 +5496,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:08:44,232.0,Россия,Ростов-на-Дону,Happyrunner
 2015,Male,Finished,3:08:46,233.0,Россия,Челябинск,
 2015,Male,Finished,3:08:47,234.0,Россия,Владимир,Asics run Moscow
-2015,Male,Finished,3:08:56,235.0,Россия,Пермь,КЛБ 
+2015,Male,Finished,3:08:56,235.0,Россия,Пермь,КЛБ
 2015,Male,Finished,3:09:06,236.0,Россия,Москва,I LOVE RUNNING
 2015,Male,Finished,3:09:11,237.0,Россия,Санкт-Петербург,
 2015,Male,Finished,3:09:15,238.0,Россия,Москва,Московский Беговой Клуб
@@ -5506,7 +5506,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:09:23,242.0,Германия,Констанц,Hamburger SV
 2015,Male,Finished,3:09:29,243.0,Россия,Москва,Speed Runners
 2015,Male,Finished,3:09:35,244.0,Россия,Москва,
-2015,Male,Finished,3:09:42,245.0,Россия,Москва, I love running
+2015,Male,Finished,3:09:42,245.0,Россия,Москва,I love running
 2015,Male,Finished,3:09:44,246.0,Россия,Тамбов,
 2015,Male,Finished,3:09:58,247.0,Россия,Одинцово,
 2015,Male,Finished,3:10:05,248.0,Россия,Москва,
@@ -5575,7 +5575,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:13:10,311.0,Россия,Москва,Russian Academy of Sciences
 2015,Male,Finished,3:13:11,312.0,Россия,Москва,ЛК Измайлово
 2015,Male,Finished,3:13:12,313.0,Россия,Москва,21runners
-2015,Male,Finished,3:13:16,314.0,Россия,Москва,Хромая черепаха 
+2015,Male,Finished,3:13:16,314.0,Россия,Москва,Хромая черепаха
 2015,Male,Finished,3:13:17,315.0,Россия,Одинцово,
 2015,Male,Finished,3:13:18,316.0,Россия,Москва,ЛЕРАКТ
 2015,Male,Finished,3:13:19,317.0,Россия,Новосибирск,Авантел
@@ -5597,14 +5597,14 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:14:16,333.0,Россия,Архангельск,Гандвик
 2015,Male,Finished,3:14:16,333.0,Россия,Москва,Sport Project
 2015,Male,Finished,3:14:22,335.0,Россия,КАЗАНЬ,Мотор
-2015,Male,Finished,3:14:23,336.0,Россия,Невьянск,СК 
+2015,Male,Finished,3:14:23,336.0,Россия,Невьянск,СК
 2015,Male,Finished,3:14:24,337.0,Россия,Каменск-Уральский,Исеть- Каменск-Уральский
-2015,Male,Finished,3:14:26,338.0,Россия,Таганрог,КЛБ 
+2015,Male,Finished,3:14:26,338.0,Россия,Таганрог,КЛБ
 2015,Male,Finished,3:14:28,339.0,Россия,Москва,
 2015,Male,Finished,3:14:29,340.0,Россия,Москва,Nike+ Running Club Moscow
 2015,Male,Finished,3:14:29,340.0,Россия,Москва,СК Красная Пахра
 2015,Male,Finished,3:14:30,342.0,Россия,Москва,
-2015,Male,Finished,3:14:30,342.0,Россия,Пермь,КЛБ 
+2015,Male,Finished,3:14:30,342.0,Россия,Пермь,КЛБ
 2015,Male,Finished,3:14:31,344.0,Россия,Москва,
 2015,Male,Finished,3:14:31,344.0,Россия,Москва,Мещера
 2015,Male,Finished,3:14:38,346.0,Россия,Москва,
@@ -5651,7 +5651,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:16:38,387.0,Россия,Москва,
 2015,Male,Finished,3:16:39,388.0,Россия,Самара,I Love Running
 2015,Male,Finished,3:16:52,389.0,Россия,Самара,
-2015,Male,Finished,3:16:52,389.0,Россия,ОБНИНСК,КЛБ 
+2015,Male,Finished,3:16:52,389.0,Россия,ОБНИНСК,КЛБ
 2015,Male,Finished,3:16:55,391.0,Россия,НИЖНЕКАМСК,
 2015,Male,Finished,3:17:01,392.0,Россия,Москва,Adidas runclub>
 2015,Male,Finished,3:17:05,393.0,Россия,Москва,
@@ -5691,14 +5691,14 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:18:37,426.0,Россия,Тула,
 2015,Male,Finished,3:18:41,428.0,Россия,Москва,
 2015,Male,Finished,3:18:43,429.0,Россия,Москва,
-2015,Male,Finished,3:18:59,430.0,Россия,Москва,Smart Action 
+2015,Male,Finished,3:18:59,430.0,Россия,Москва,Smart Action
 2015,Male,Finished,3:19:02,431.0,Россия,Москва,Iloverunning
 2015,Male,Finished,3:19:05,432.0,Россия,Москва,
 2015,Male,Finished,3:19:07,433.0,Россия,Москва,
 2015,Male,Finished,3:19:15,434.0,Россия,Егорьевск,Мещера
 2015,Male,Finished,3:19:16,435.0,Россия,Мытищи,Сенеж
 2015,Male,Finished,3:19:19,436.0,Россия,Nerekhta,
-2015,Male,Finished,3:19:20,437.0,Россия,Москва,HSE Athletes 
+2015,Male,Finished,3:19:20,437.0,Россия,Москва,HSE Athletes
 2015,Male,Finished,3:19:22,438.0,Россия,Москва,Ис еть
 2015,Male,Finished,3:19:27,439.0,Россия,Москва,
 2015,Male,Finished,3:19:33,440.0,Россия,Рязань,Мещера
@@ -5717,7 +5717,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:20:11,453.0,Россия,Москва,RUNCLUB DALLAS ADIDAS
 2015,Male,Finished,3:20:13,454.0,Россия,Москва,
 2015,Male,Finished,3:20:13,454.0,Россия,Москва,
-2015,Male,Finished,3:20:13,454.0,Россия,СТРЕЖЕВОЙ,Спортивный клуб 
+2015,Male,Finished,3:20:13,454.0,Россия,СТРЕЖЕВОЙ,Спортивный клуб
 2015,Male,Finished,3:20:15,457.0,Россия,Рязань,
 2015,Male,Finished,3:20:15,457.0,Россия,КРАСНОГОРСК,
 2015,Male,Finished,3:20:16,459.0,Россия,Батайск,Ростов Дон Бегущий
@@ -5730,7 +5730,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:20:40,466.0,Россия,Москва,Petrovich вперед :)
 2015,Male,Finished,3:20:45,467.0,Россия,Москва,
 2015,Male,Finished,3:20:47,468.0,Россия,Ульяновск,
-2015,Male,Finished,3:20:47,468.0,Россия,Москва,СК 
+2015,Male,Finished,3:20:47,468.0,Россия,Москва,СК
 2015,Male,Finished,3:20:52,470.0,Россия,ЖУКОВСКИЙ,
 2015,Male,Finished,3:20:54,471.0,Россия,Москва,TRIKO.CLUB
 2015,Male,Finished,3:20:55,472.0,Россия,РЫБНОЕ,
@@ -5749,7 +5749,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:21:38,485.0,Россия,Москва,
 2015,Male,Finished,3:21:41,486.0,Россия,Москва,
 2015,Male,Finished,3:21:41,486.0,Россия,Москва,
-2015,Male,Finished,3:21:42,488.0,Россия,Москва,Московский Беговой Клуб 
+2015,Male,Finished,3:21:42,488.0,Россия,Москва,Московский Беговой Клуб
 2015,Male,Finished,3:21:45,489.0,Россия,Москва,КЛЭБ
 2015,Male,Finished,3:21:48,490.0,Россия,Москва,БИМ
 2015,Male,Finished,3:21:49,491.0,Россия,Санкт-Петербург,Galaxy
@@ -5772,7 +5772,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:22:48,508.0,Россия,Санкт-Петербург,
 2015,Male,Finished,3:22:52,509.0,Россия,Москва,Fast Legs Team
 2015,Male,Finished,3:22:52,509.0,Россия,Калининград,
-2015,Male,Finished,3:22:57,511.0,Россия,Москва,МК 
+2015,Male,Finished,3:22:57,511.0,Россия,Москва,МК
 2015,Male,Finished,3:23:01,512.0,Россия,Москва,СК Ромашково
 2015,Male,Finished,3:23:05,513.0,Россия,Москва,CRAFT_ORIENTA
 2015,Male,Finished,3:23:05,513.0,Россия,Москва,adidas runclub
@@ -5789,7 +5789,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:23:29,525.0,Исландия,Рейкьявик,Ithrottafelag Reykjavikur
 2015,Male,Finished,3:23:36,526.0,Россия,Москва,
 2015,Male,Finished,3:23:37,527.0,Россия,Москва,олимп домодедово
-2015,Male,Finished,3:23:38,528.0,Россия,ТРОИЦК,лыжная база 
+2015,Male,Finished,3:23:38,528.0,Россия,ТРОИЦК,лыжная база
 2015,Male,Finished,3:23:39,529.0,Россия,Омск,"КЛБ Бумеранг, г. Омск"
 2015,Male,Finished,3:23:40,530.0,Россия,Москва,
 2015,Male,Finished,3:23:41,531.0,Россия,Москва,Sberbank Triathlon Team
@@ -5863,7 +5863,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:26:39,599.0,Россия,Москва,Boost Runclub Moscow
 2015,Male,Finished,3:26:41,600.0,Россия,Москва,
 2015,Male,Finished,3:26:47,601.0,Россия,Москва,
-2015,Male,Finished,3:26:47,601.0,Россия,Нижний Новгород,КЛБ 
+2015,Male,Finished,3:26:47,601.0,Россия,Нижний Новгород,КЛБ
 2015,Male,Finished,3:26:48,603.0,Россия,Москва,#3котлеты
 2015,Male,Finished,3:26:49,604.0,Россия,Ульяновск,
 2015,Male,Finished,3:26:50,605.0,Россия,Ярославль,ЯрГУ
@@ -5924,7 +5924,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:28:26,660.0,Россия,Москва,
 2015,Male,Finished,3:28:27,661.0,Россия,Москва,
 2015,Male,Finished,3:28:28,662.0,Россия,Москва,Trilife
-2015,Male,Finished,3:28:31,663.0,Россия,Томск,АО 
+2015,Male,Finished,3:28:31,663.0,Россия,Томск,АО
 2015,Male,Finished,3:28:35,664.0,Россия,Москва,SKOLKOVO Triathlon Team
 2015,Male,Finished,3:28:36,665.0,Россия,Москва,
 2015,Male,Finished,3:28:37,666.0,Россия,Москва,
@@ -5941,7 +5941,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:29:02,677.0,Россия,Москва,лично
 2015,Male,Finished,3:29:03,678.0,Россия,Москва,НПО Энергомаш
 2015,Male,Finished,3:29:04,679.0,Россия,Череповец,Команда LR
-2015,Male,Finished,3:29:06,680.0,Россия,Москва, World class Пресня
+2015,Male,Finished,3:29:06,680.0,Россия,Москва,World class Пресня
 2015,Male,Finished,3:29:07,681.0,Россия,Москва,СК Ромашково
 2015,Male,Finished,3:29:18,682.0,Россия,ДОЛГОПРУДНЫЙ,МФТИ
 2015,Male,Finished,3:29:19,683.0,Россия,Тула,
@@ -5967,13 +5967,13 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:29:50,701.0,Россия,Санкт-Петербург,ТОЛСТЫЕ ДЕВОЧКИ
 2015,Male,Finished,3:29:56,704.0,Россия,Москва,
 2015,Male,Finished,3:29:57,705.0,Россия,Москва,FitFashion Active Club
-2015,Male,Finished,3:29:59,706.0,Россия,Ярославль, Ski76Team-2
+2015,Male,Finished,3:29:59,706.0,Россия,Ярославль,Ski76Team-2
 2015,Male,Finished,3:29:59,706.0,Россия,КЛИН,NP-WHEELS.RU
 2015,Male,Finished,3:30:05,708.0,Россия,Москва,Бегуший человек
 2015,Male,Finished,3:30:07,709.0,Россия,Москва,
 2015,Male,Finished,3:30:09,710.0,Россия,Москва,NoTagRunners / Nike+
 2015,Male,Finished,3:30:18,711.0,Россия,Москва,
-2015,Male,Finished,3:30:19,712.0,Швеция,Гётеборг,Málaga 
+2015,Male,Finished,3:30:19,712.0,Швеция,Гётеборг,Málaga
 2015,Male,Finished,3:30:20,713.0,Россия,Москва,Team TRIATHLON
 2015,Male,Finished,3:30:24,714.0,Китай,Шэньчжэнь,42TRIP
 2015,Male,Finished,3:30:26,715.0,Россия,Одинцово,
@@ -6012,13 +6012,13 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:31:26,747.0,Швеция,Гётеборг,"På Gatan, Kungsbacka"
 2015,Male,Finished,3:31:26,747.0,Россия,Москва,Кры
 2015,Male,Finished,3:31:27,750.0,Россия,Москва,I love runnining
-2015,Male,Finished,3:31:30,751.0,Россия,Нижний Новгород,СК 
+2015,Male,Finished,3:31:30,751.0,Россия,Нижний Новгород,СК
 2015,Male,Finished,3:31:37,752.0,Россия,Москва,
 2015,Male,Finished,3:31:38,753.0,Россия,Москва,
 2015,Male,Finished,3:31:41,754.0,Россия,МОНИНО,
 2015,Male,Finished,3:31:47,755.0,Россия,Москва,
 2015,Male,Finished,3:31:48,756.0,Россия,Москва,AG Runners
-2015,Male,Finished,3:31:49,757.0,Россия,Москва,СБ 
+2015,Male,Finished,3:31:49,757.0,Россия,Москва,СБ
 2015,Male,Finished,3:31:49,757.0,Россия,Москва,
 2015,Male,Finished,3:31:51,759.0,Россия,Москва,с/к Подвал
 2015,Male,Finished,3:31:52,760.0,Россия,Санкт-Петербург,
@@ -6058,7 +6058,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:32:43,794.0,Россия,Москва,runopolis.ru
 2015,Male,Finished,3:32:43,794.0,Россия,Москва,
 2015,Male,Finished,3:32:46,796.0,Россия,Москва,Троицк - Лесная
-2015,Male,Finished,3:32:50,797.0,Россия,Москва,www.r-dump.com - Ваш успешный проводник в мире IT-решений! 
+2015,Male,Finished,3:32:50,797.0,Россия,Москва,www.r-dump.com - Ваш успешный проводник в мире IT-решений!
 2015,Male,Finished,3:32:50,797.0,Россия,Тверь,
 2015,Male,Finished,3:32:52,799.0,Россия,Москва,
 2015,Male,Finished,3:32:54,800.0,Россия,Тверь,
@@ -6075,7 +6075,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:33:10,811.0,Россия,Москва,Nike+
 2015,Male,Finished,3:33:13,812.0,Россия,Москва,Sinergia Sports Team
 2015,Male,Finished,3:33:15,813.0,Россия,Санкт-Петербург,лично
-2015,Male,Finished,3:33:16,814.0,Россия,Москва,КЛБ 
+2015,Male,Finished,3:33:16,814.0,Россия,Москва,КЛБ
 2015,Male,Finished,3:33:19,815.0,Россия,Москва,БИМ
 2015,Male,Finished,3:33:19,815.0,Россия,Москва,Сам себе клуб
 2015,Male,Finished,3:33:20,817.0,Россия,Москва,
@@ -6124,7 +6124,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:34:37,860.0,Россия,Москва,
 2015,Male,Finished,3:34:37,860.0,Россия,Самара,Вверх тормашками
 2015,Male,Finished,3:34:42,862.0,Россия,Саратов,
-2015,Male,Finished,3:34:48,863.0,Россия,Химки,ФГУП 
+2015,Male,Finished,3:34:48,863.0,Россия,Химки,ФГУП
 2015,Male,Finished,3:34:49,864.0,Россия,Москва,Московский Беговой Клуб
 2015,Male,Finished,3:34:49,864.0,Россия,Москва,
 2015,Male,Finished,3:34:50,866.0,Россия,Москва,адидас
@@ -6134,7 +6134,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:34:56,870.0,Россия,Москва,Сенеж
 2015,Male,Finished,3:35:00,871.0,Norway,Sandnes,Ganddal
 2015,Male,Finished,3:35:05,872.0,Россия,Москва,
-2015,Male,Finished,3:35:06,873.0,Россия,Белгород,КАМ 
+2015,Male,Finished,3:35:06,873.0,Россия,Белгород,КАМ
 2015,Male,Finished,3:35:06,873.0,Россия,Москва,
 2015,Male,Finished,3:35:07,875.0,Россия,Москва,
 2015,Male,Finished,3:35:10,876.0,Россия,ЯКУТСК,
@@ -6146,7 +6146,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:35:21,881.0,Россия,Москва,
 2015,Male,Finished,3:35:21,881.0,Россия,Москва,I love running
 2015,Male,Finished,3:35:22,884.0,Россия,Москва,ЛК Измайлово
-2015,Male,Finished,3:35:22,884.0, Украина,Киев,МК 
+2015,Male,Finished,3:35:22,884.0, Украина,Киев,МК
 2015,Male,Finished,3:35:23,886.0,Россия,Москва,Trilife
 2015,Male,Finished,3:35:23,886.0,Россия,Москва,Марафонский клуб Гепард
 2015,Male,Finished,3:35:24,888.0,Россия,Москва,TRIKO.CLUB / Динамо Отдыхает
@@ -6185,7 +6185,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:36:37,920.0,Россия,Москва,
 2015,Male,Finished,3:36:39,922.0,Россия,Москва,
 2015,Male,Finished,3:36:43,923.0,Россия,Москва,Zveno
-2015,Male,Finished,3:36:43,923.0,Россия,Москва,КЛБ 
+2015,Male,Finished,3:36:43,923.0,Россия,Москва,КЛБ
 2015,Male,Finished,3:36:45,925.0,Россия,Москва,
 2015,Male,Finished,3:36:47,926.0,Россия,Санкт-Петербург,
 2015,Male,Finished,3:36:48,927.0,Румыния,Бухарест,
@@ -6264,7 +6264,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:38:51,1000.0,Россия,Нижний Новгород,нижегородская школа бега
 2015,Male,Finished,3:38:52,1001.0,Россия,Москва,Pro Trener
 2015,Male,Finished,3:38:54,1002.0,Россия,Москва,Трилайф
-2015,Male,Finished,3:38:56,1003.0,Россия,Москва,Сивка-бурка 
+2015,Male,Finished,3:38:56,1003.0,Россия,Москва,Сивка-бурка
 2015,Male,Finished,3:39:00,1004.0,Россия,Москва,ЛИЧНО
 2015,Male,Finished,3:39:01,1005.0,Россия,Москва,ОбиRUNовка
 2015,Male,Finished,3:39:01,1005.0,Россия,Москва,
@@ -6277,7 +6277,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:39:06,1013.0,Россия,Москва,
 2015,Male,Finished,3:39:10,1014.0,Россия,Москва,KEEP MOVING FORWARD
 2015,Male,Finished,3:39:11,1015.0,Россия,Ярославль,ski76team
-2015,Male,Finished,3:39:13,1016.0,Россия,Екатеринбург,Клуб любителей бега 
+2015,Male,Finished,3:39:13,1016.0,Россия,Екатеринбург,Клуб любителей бега
 2015,Male,Finished,3:39:13,1016.0,Россия,КРАСНОГОРСК,Luxoft
 2015,Male,Finished,3:39:17,1018.0,Великобритания,Лондон,100 Marathon Club
 2015,Male,Finished,3:39:18,1019.0,Россия,Москва,
@@ -6325,7 +6325,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:40:02,1061.0,Япония,Токио,
 2015,Male,Finished,3:40:06,1062.0,Россия,Москва,
 2015,Male,Finished,3:40:08,1063.0,Россия,Москва,Трилайф
-2015,Male,Finished,3:40:08,1063.0,Россия,Москва,ЛК 
+2015,Male,Finished,3:40:08,1063.0,Россия,Москва,ЛК
 2015,Male,Finished,3:40:09,1065.0,Россия,Москва,ROSNEFT Triathlon Team
 2015,Male,Finished,3:40:09,1065.0,Россия,Москва,
 2015,Male,Finished,3:40:10,1067.0,Россия,Саратов,Сокол
@@ -6381,7 +6381,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:41:23,1117.0,Россия,Москва,IRC
 2015,Male,Finished,3:41:23,1117.0,Россия,Москва,Skhodnya Trail Runners
 2015,Male,Finished,3:41:23,1117.0,Россия,Санкт-Петербург,ILOVERUNNING
-2015,Male,Finished,3:41:25,1120.0,Тайланд,Сураттхани,Surathani hospital 
+2015,Male,Finished,3:41:25,1120.0,Тайланд,Сураттхани,Surathani hospital
 2015,Male,Finished,3:41:25,1120.0,Россия,Москва,
 2015,Male,Finished,3:41:27,1122.0,Россия,Жигулевск,Лада
 2015,Male,Finished,3:41:27,1122.0,Россия,ЕЛИЗОВО,
@@ -6452,7 +6452,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:42:59,1188.0,Россия,Москва,
 2015,Male,Finished,3:43:00,1189.0,Россия,Москва,
 2015,Male,Finished,3:43:01,1190.0,Россия,Москва,
-2015,Male,Finished,3:43:02,1191.0,Россия,Москва,CrossFit RGUFK 
+2015,Male,Finished,3:43:02,1191.0,Россия,Москва,CrossFit RGUFK
 2015,Male,Finished,3:43:08,1192.0,Россия,Москва,
 2015,Male,Finished,3:43:09,1193.0,Россия,Москва,Парсек
 2015,Male,Finished,3:43:10,1194.0,Беларусь,Минск,
@@ -6488,7 +6488,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:43:49,1223.0,Россия,Пермь,
 2015,Male,Finished,3:43:51,1225.0,Россия,Москва,
 2015,Male,Finished,3:43:51,1225.0,Россия,Москва,
-2015,Male,Finished,3:43:52,1227.0,Россия,Нижний Новгород,smilerunners 
+2015,Male,Finished,3:43:52,1227.0,Россия,Нижний Новгород,smilerunners
 2015,Male,Finished,3:43:55,1228.0,Россия,Москва,G-Energy
 2015,Male,Finished,3:43:56,1229.0,Россия,Москва,лично
 2015,Male,Finished,3:44:01,1230.0,Россия,ПАВЛОВСКИЙ ПОСАД,ПАВЛОВСКИЙ ПОСАД
@@ -6537,7 +6537,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:45:01,1273.0,Россия,Москва,Sberbank Triathlon Team
 2015,Male,Finished,3:45:01,1273.0,Россия,Москва,
 2015,Male,Finished,3:45:07,1275.0,Россия,Москва,
-2015,Male,Finished,3:45:07,1275.0,Россия,Гусь-Хрустальный,СК 
+2015,Male,Finished,3:45:07,1275.0,Россия,Гусь-Хрустальный,СК
 2015,Male,Finished,3:45:07,1275.0,Россия,Москва,
 2015,Male,Finished,3:45:13,1278.0,Россия,Москва,
 2015,Male,Finished,3:45:16,1279.0,Россия,Таганрог,
@@ -6594,7 +6594,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:46:11,1330.0,Россия,Москва,ТушиНоги
 2015,Male,Finished,3:46:12,1331.0,Россия,Москва,
 2015,Male,Finished,3:46:12,1331.0,Россия,ПУШКИНО,
-2015,Male,Finished,3:46:14,1333.0,Россия,Санкт-Петербург,не состою 
+2015,Male,Finished,3:46:14,1333.0,Россия,Санкт-Петербург,не состою
 2015,Male,Finished,3:46:15,1334.0,Россия,Москва,
 2015,Male,Finished,3:46:19,1335.0,Россия,Москва,Les Ch'tis
 2015,Male,Finished,3:46:20,1336.0,Россия,Петрозаводск,
@@ -6641,7 +6641,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:47:10,1376.0,Россия,Москва,
 2015,Male,Finished,3:47:14,1378.0,Россия,Арзамас,
 2015,Male,Finished,3:47:15,1379.0,Россия,Саратов,
-2015,Male,Finished,3:47:15,1379.0,Россия,Москва,КЛВ 
+2015,Male,Finished,3:47:15,1379.0,Россия,Москва,КЛВ
 2015,Male,Finished,3:47:19,1381.0,Великобритания,Норидж,Hrew Runners
 2015,Male,Finished,3:47:20,1382.0,Россия,Воронеж,Trilife.ru
 2015,Male,Finished,3:47:23,1383.0,Россия,Москва,РГШ-Столица
@@ -6689,7 +6689,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:48:19,1425.0,Россия,Братск,Надежда
 2015,Male,Finished,3:48:22,1426.0,Россия,Москва,RRUNS
 2015,Male,Finished,3:48:23,1427.0,Россия,Пушкин,
-2015,Male,Finished,3:48:25,1428.0,Россия,БРОННИЦЫ,ЗЭТ ЭНЕРГО 
+2015,Male,Finished,3:48:25,1428.0,Россия,БРОННИЦЫ,ЗЭТ ЭНЕРГО
 2015,Male,Finished,3:48:26,1429.0,Россия,Москва,
 2015,Male,Finished,3:48:27,1430.0,Россия,Москва,
 2015,Male,Finished,3:48:30,1431.0,Россия,Москва,
@@ -6717,7 +6717,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:48:56,1453.0,Россия,Москва,Кижняев Дмитрий
 2015,Male,Finished,3:48:56,1453.0,Россия,Курган,Trilife
 2015,Male,Finished,3:48:57,1455.0,Россия,Волгоград,
-2015,Male,Finished,3:49:01,1456.0,Россия,ДУБНА,NUTRILITE 
+2015,Male,Finished,3:49:01,1456.0,Россия,ДУБНА,NUTRILITE
 2015,Male,Finished,3:49:03,1457.0,Россия,Москва,Глобус-сталь
 2015,Male,Finished,3:49:04,1458.0,Россия,Нижний Новгород,Здоровье
 2015,Male,Finished,3:49:06,1459.0,Россия,Балашиха,
@@ -6735,7 +6735,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:49:23,1471.0,Россия,Москва,
 2015,Male,Finished,3:49:23,1471.0,Израиль,Тель-Авив,Spirit 10-10-10
 2015,Male,Finished,3:49:24,1473.0,Россия,Оренбург,
-2015,Male,Finished,3:49:24,1473.0,Россия,Нижний Новгород,Беговой клуб 
+2015,Male,Finished,3:49:24,1473.0,Россия,Нижний Новгород,Беговой клуб
 2015,Male,Finished,3:49:25,1475.0,Россия,Москва,Mangazeya Gold
 2015,Male,Finished,3:49:26,1476.0,Россия,Москва,Ski.ru
 2015,Male,Finished,3:49:29,1477.0,Россия,Москва,Nike SPB
@@ -6749,7 +6749,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:49:44,1485.0,Россия,Москва,21runners
 2015,Male,Finished,3:49:44,1485.0,Китай,Гуанчжоу,42trip
 2015,Male,Finished,3:49:45,1487.0,Россия,Москва,
-2015,Male,Finished,3:49:45,1487.0,Россия,УДОМЛЯ,ОАО 
+2015,Male,Finished,3:49:45,1487.0,Россия,УДОМЛЯ,ОАО
 2015,Male,Finished,3:49:46,1489.0,Россия,Москва,Iloverunning
 2015,Male,Finished,3:49:48,1490.0,Россия,Челябинск,
 2015,Male,Finished,3:49:49,1491.0,Россия,Москва,
@@ -6794,7 +6794,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:50:43,1530.0,Россия,Москва,nike+
 2015,Male,Finished,3:50:43,1530.0,Россия,Москва,СДЮШОР - 12
 2015,Male,Finished,3:50:44,1532.0,Россия,Москва,
-2015,Male,Finished,3:50:47,1533.0,Россия,Москва,Cosmo Cookies 
+2015,Male,Finished,3:50:47,1533.0,Россия,Москва,Cosmo Cookies
 2015,Male,Finished,3:50:48,1534.0,Россия,Белгород,
 2015,Male,Finished,3:50:51,1535.0,Россия,Москва,
 2015,Male,Finished,3:50:51,1535.0,Россия,Москва,
@@ -6812,7 +6812,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:51:17,1548.0,Россия,Москва,
 2015,Male,Finished,3:51:21,1549.0,Россия,Москва,
 2015,Male,Finished,3:51:23,1550.0,Украина,Донецк,
-2015,Male,Finished,3:51:23,1550.0,Россия,Нижний Новгород,ООО 
+2015,Male,Finished,3:51:23,1550.0,Россия,Нижний Новгород,ООО
 2015,Male,Finished,3:51:26,1552.0,Россия,Москва,
 2015,Male,Finished,3:51:30,1553.0,Россия,Москва,
 2015,Male,Finished,3:51:34,1554.0,Украина,Славутич,
@@ -6833,7 +6833,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:51:56,1569.0,Россия,Москва,
 2015,Male,Finished,3:51:56,1569.0,Россия,Мытищи,
 2015,Male,Finished,3:51:59,1571.0,Россия,Москва,Дюшес
-2015,Male,Finished,3:52:01,1572.0,Россия,КИМРЫ,fight club 
+2015,Male,Finished,3:52:01,1572.0,Россия,КИМРЫ,fight club
 2015,Male,Finished,3:52:01,1572.0,Россия,КИМРЫ,Challenger
 2015,Male,Finished,3:52:07,1574.0,Россия,Москва,Храбрецы
 2015,Male,Finished,3:52:08,1575.0,Россия,Петрозаводск,
@@ -6855,7 +6855,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:52:25,1591.0,Россия,Москва,
 2015,Male,Finished,3:52:26,1592.0,Россия,Москва,Surgithlon
 2015,Male,Finished,3:52:27,1593.0,Россия,Москва,
-2015,Male,Finished,3:52:33,1594.0,Россия,Москва,I Love Running 
+2015,Male,Finished,3:52:33,1594.0,Россия,Москва,I Love Running
 2015,Male,Finished,3:52:35,1595.0,Россия,КАЗАНЬ,
 2015,Male,Finished,3:52:36,1596.0,Россия,Москва,Надежда
 2015,Male,Finished,3:52:38,1597.0,Нидерланды,Тилбург,DE KADE bedrijfssport en gezondheid
@@ -6877,14 +6877,14 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:52:56,1613.0,Россия,Москва,
 2015,Male,Finished,3:52:57,1614.0,Россия,Москва,I love running
 2015,Male,Finished,3:53:00,1615.0,Россия,Москва,I LOVE RUNNING
-2015,Male,Finished,3:53:03,1616.0,Россия,Москва,Ryzhikov team 
+2015,Male,Finished,3:53:03,1616.0,Россия,Москва,Ryzhikov team
 2015,Male,Finished,3:53:05,1617.0,Россия,ПАВЛОВСКИЙ ПОСАД,Московский Беговой Клуб
 2015,Male,Finished,3:53:05,1617.0,Россия,Москва,
 2015,Male,Finished,3:53:06,1619.0,Россия,Москва,
 2015,Male,Finished,3:53:06,1619.0,Россия,Москва,
 2015,Male,Finished,3:53:08,1621.0,Россия,Москва,no tag runners
 2015,Male,Finished,3:53:08,1621.0,Россия,Москва,Arbor Mundi
-2015,Male,Finished,3:53:12,1623.0,Россия,Москва,Спарта 
+2015,Male,Finished,3:53:12,1623.0,Россия,Москва,Спарта
 2015,Male,Finished,3:53:13,1624.0,Россия,Москва,
 2015,Male,Finished,3:53:14,1625.0,Россия,Москва,
 2015,Male,Finished,3:53:14,1625.0,Россия,Москва,Дедовск
@@ -6898,21 +6898,21 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:53:25,1633.0,Россия,Москва,
 2015,Male,Finished,3:53:30,1635.0,Россия,Москва,
 2015,Male,Finished,3:53:33,1636.0,Россия,Москва,red lava team
-2015,Male,Finished,3:53:33,1636.0,Россия,Москва,Хромая черепаха 
+2015,Male,Finished,3:53:33,1636.0,Россия,Москва,Хромая черепаха
 2015,Male,Finished,3:53:35,1638.0,Россия,Санкт-Петербург,
 2015,Male,Finished,3:53:38,1639.0,Россия,Москва,Энергия
 2015,Male,Finished,3:53:39,1640.0,Россия,Москва,Сэйдиснилю
 2015,Male,Finished,3:53:39,1640.0,Россия,КАЗАНЬ,Компания LR
 2015,Male,Finished,3:53:40,1642.0,Россия,Москва,
 2015,Male,Finished,3:53:41,1643.0,Россия,Москва,
-2015,Male,Finished,3:53:42,1644.0,Россия,Москва,TRIKO CLUB 
+2015,Male,Finished,3:53:42,1644.0,Россия,Москва,TRIKO CLUB
 2015,Male,Finished,3:53:43,1645.0,Россия,Москва,
 2015,Male,Finished,3:53:45,1646.0,Россия,Москва,
 2015,Male,Finished,3:53:45,1646.0,Россия,Москва,
 2015,Male,Finished,3:53:45,1646.0,Россия,Пенза,
 2015,Male,Finished,3:53:47,1649.0,Россия,Москва,Веб-интегратор Fusion
 2015,Male,Finished,3:53:49,1650.0,Россия,Москва,Эльстор
-2015,Male,Finished,3:53:50,1651.0,Россия,Москва,Энергия 
+2015,Male,Finished,3:53:50,1651.0,Россия,Москва,Энергия
 2015,Male,Finished,3:53:52,1652.0,Россия,Санкт-Петербург,I_Run
 2015,Male,Finished,3:53:53,1653.0,Россия,Москва,
 2015,Male,Finished,3:53:53,1653.0,Россия,Москва,
@@ -6954,7 +6954,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:54:44,1690.0,Россия,Москва,Спецназ ГРУ
 2015,Male,Finished,3:54:45,1691.0,Россия,Москва,
 2015,Male,Finished,3:54:45,1691.0,Китай,Шэньчжэнь,
-2015,Male,Finished,3:54:49,1693.0,Россия,Москва,СК 
+2015,Male,Finished,3:54:49,1693.0,Россия,Москва,СК
 2015,Male,Finished,3:54:49,1693.0,Россия,Москва,
 2015,Male,Finished,3:54:51,1695.0,Россия,Москва,
 2015,Male,Finished,3:54:51,1695.0,Япония,Токио,
@@ -7066,7 +7066,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:56:54,1801.0,Россия,Москва,
 2015,Male,Finished,3:56:55,1803.0,Россия,Москва,МГТУ
 2015,Male,Finished,3:56:55,1803.0,Россия,Москва,
-2015,Male,Finished,3:56:56,1805.0,Беларусь,Mogilëv,КЛБ 
+2015,Male,Finished,3:56:56,1805.0,Беларусь,Mogilëv,КЛБ
 2015,Male,Finished,3:56:56,1805.0,Россия,Санкт-Петербург,
 2015,Male,Finished,3:56:57,1807.0,Россия,Москва,
 2015,Male,Finished,3:56:59,1808.0,Россия,Москва,Сэйдиснилю
@@ -7143,7 +7143,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:58:19,1879.0,Россия,Москва,
 2015,Male,Finished,3:58:19,1879.0,Россия,Москва,
 2015,Male,Finished,3:58:20,1881.0,Россия,ДОЛГОПРУДНЫЙ,
-2015,Male,Finished,3:58:20,1881.0,Россия,Москва,КЛБ 
+2015,Male,Finished,3:58:20,1881.0,Россия,Москва,КЛБ
 2015,Male,Finished,3:58:20,1881.0,Россия,Москва,
 2015,Male,Finished,3:58:20,1881.0,Россия,Владивосток,
 2015,Male,Finished,3:58:23,1885.0,Россия,Москва,
@@ -7153,7 +7153,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,3:58:29,1889.0,Россия,Москва,
 2015,Male,Finished,3:58:29,1889.0,Россия,Москва,Crossfit Medieval
 2015,Male,Finished,3:58:30,1891.0,Россия,Москва,CastoramaRun
-2015,Male,Finished,3:58:32,1892.0,Россия,Балашиха,Новоузенский Клуб Любителей Бега и ЗОЖ 
+2015,Male,Finished,3:58:32,1892.0,Россия,Балашиха,Новоузенский Клуб Любителей Бега и ЗОЖ
 2015,Male,Finished,3:58:33,1893.0,Россия,Москва,
 2015,Male,Finished,3:58:34,1894.0,Россия,Москва,I love running
 2015,Male,Finished,3:58:36,1895.0,Россия,Москва,СПОРТ ВО БЛАГО
@@ -7228,7 +7228,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:00:01,1963.0,Россия,Москва,0
 2015,Male,Finished,4:00:01,1963.0,Россия,ДОЛГОПРУДНЫЙ,e-Motion
 2015,Male,Finished,4:00:02,1966.0,Россия,Зеленоград,
-2015,Male,Finished,4:00:02,1966.0,Россия,Белгород,Freyaproject 
+2015,Male,Finished,4:00:02,1966.0,Россия,Белгород,Freyaproject
 2015,Male,Finished,4:00:02,1966.0,Россия,Москва,
 2015,Male,Finished,4:00:04,1969.0,Россия,Балашиха,Не время улыбаться
 2015,Male,Finished,4:00:05,1970.0,Россия,Москва,
@@ -7331,7 +7331,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:01:58,2067.0,Россия,Москва,
 2015,Male,Finished,4:01:58,2067.0, Узбекистан,Ташкент,
 2015,Male,Finished,4:02:01,2069.0,Россия,Москва,
-2015,Male,Finished,4:02:02,2070.0,Germany,Munchen,Limsdorf Runners 
+2015,Male,Finished,4:02:02,2070.0,Germany,Munchen,Limsdorf Runners
 2015,Male,Finished,4:02:03,2071.0,Россия,Москва,
 2015,Male,Finished,4:02:07,2072.0,Россия,КРАСНОГОРСК,
 2015,Male,Finished,4:02:12,2073.0,Россия,Ставрополь,регион26
@@ -7491,7 +7491,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:06:01,2227.0,Россия,Москва,
 2015,Male,Finished,4:06:02,2228.0,Россия,Москва,Klushino Runners
 2015,Male,Finished,4:06:04,2229.0,Россия,Москва,
-2015,Male,Finished,4:06:07,2230.0,Россия,Москва,нет 
+2015,Male,Finished,4:06:07,2230.0,Россия,Москва,нет
 2015,Male,Finished,4:06:07,2230.0,Россия,ДОЛГОПРУДНЫЙ,Баклан
 2015,Male,Finished,4:06:09,2232.0,Россия,Москва,
 2015,Male,Finished,4:06:11,2233.0,Россия,Санкт-Петербург,Звони.Ру
@@ -7510,7 +7510,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:06:39,2246.0,Россия,Москва,
 2015,Male,Finished,4:06:39,2246.0,Россия,Пермь,
 2015,Male,Finished,4:06:40,2248.0,Россия,Москва,I love running
-2015,Male,Finished,4:06:43,2249.0,Россия,Воронеж,PlaceYouLike Voronezh 
+2015,Male,Finished,4:06:43,2249.0,Россия,Воронеж,PlaceYouLike Voronezh
 2015,Male,Finished,4:06:45,2250.0,Россия,Краснознаменск,Hermes
 2015,Male,Finished,4:06:45,2250.0,Россия,Москва,B2B-Center
 2015,Male,Finished,4:06:46,2252.0,Россия,Вологда,
@@ -7540,7 +7540,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:07:37,2276.0,Россия,Москва,
 2015,Male,Finished,4:07:41,2277.0,Россия,Москва,
 2015,Male,Finished,4:07:41,2277.0,Россия,Москва,
-2015,Male,Finished,4:07:42,2279.0,Россия,Москва,благотоврительный фонд 
+2015,Male,Finished,4:07:42,2279.0,Россия,Москва,благотоврительный фонд
 2015,Male,Finished,4:07:42,2279.0,Россия,Томилино,
 2015,Male,Finished,4:07:43,2281.0,Россия,Москва,IKEA Running Team
 2015,Male,Finished,4:07:44,2282.0,Россия,Москва,
@@ -7599,7 +7599,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:08:49,2334.0,Россия,Москва,
 2015,Male,Finished,4:08:49,2334.0,Россия,Москва,Динамо отдыхает
 2015,Male,Finished,4:08:50,2337.0,Россия,Москва,
-2015,Male,Finished,4:08:55,2338.0,Россия,Москва,Eban'ko runners 
+2015,Male,Finished,4:08:55,2338.0,Россия,Москва,Eban'ko runners
 2015,Male,Finished,4:08:56,2339.0,Россия,Москва,
 2015,Male,Finished,4:08:56,2339.0,Россия,ОРЕХОВО-ЗУЕВО,Msport
 2015,Male,Finished,4:08:57,2341.0,Россия,Самара,
@@ -7779,7 +7779,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:13:17,2515.0,Россия,Москва,Всегда тепленькие
 2015,Male,Finished,4:13:17,2515.0,Россия,Новосибирск,
 2015,Male,Finished,4:13:17,2515.0,Россия,Москва,
-2015,Male,Finished,4:13:18,2518.0,Россия,Москва,ООО 
+2015,Male,Finished,4:13:18,2518.0,Россия,Москва,ООО
 2015,Male,Finished,4:13:19,2519.0,Россия,Санкт-Петербург,
 2015,Male,Finished,4:13:20,2520.0,Россия,Санкт-Петербург,proRunning
 2015,Male,Finished,4:13:23,2521.0,Россия,Москва,
@@ -7828,7 +7828,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:14:25,2564.0,Россия,Москва,
 2015,Male,Finished,4:14:29,2565.0,Россия,Москва,
 2015,Male,Finished,4:14:31,2566.0,Россия,Москва,
-2015,Male,Finished,4:14:32,2567.0,Россия,НИЖНЕВАРТОВСК,СК 
+2015,Male,Finished,4:14:32,2567.0,Россия,НИЖНЕВАРТОВСК,СК
 2015,Male,Finished,4:14:33,2568.0,Россия,Москва,
 2015,Male,Finished,4:14:34,2569.0,Россия,Москва,Беговой клуб NIKE+ в Парке Горького
 2015,Male,Finished,4:14:36,2570.0,Россия,Москва,
@@ -7852,7 +7852,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:15:03,2587.0,Россия,Москва,
 2015,Male,Finished,4:15:04,2589.0,Россия,КАЗАНЬ,
 2015,Male,Finished,4:15:08,2590.0,Россия,Москва,runDisney
-2015,Male,Finished,4:15:14,2591.0,Россия,Москва,Iloverunning 
+2015,Male,Finished,4:15:14,2591.0,Россия,Москва,Iloverunning
 2015,Male,Finished,4:15:14,2591.0,Россия,Москва,
 2015,Male,Finished,4:15:14,2591.0,Россия,Москва,
 2015,Male,Finished,4:15:17,2594.0,Россия,Москва,FlightHeroApp.com
@@ -8079,7 +8079,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:21:22,2815.0,Россия,Москва,
 2015,Male,Finished,4:21:23,2816.0,Россия,Курск,Меркурий
 2015,Male,Finished,4:21:30,2817.0,Швейцария,Женева,
-2015,Male,Finished,4:21:30,2817.0,Россия,Москва,Пещера. 
+2015,Male,Finished,4:21:30,2817.0,Россия,Москва,Пещера.
 2015,Male,Finished,4:21:31,2819.0,Россия,Москва,ISOMAT SA
 2015,Male,Finished,4:21:32,2820.0,Россия,Москва,
 2015,Male,Finished,4:21:33,2821.0,Россия,Москва,Slivkins
@@ -8159,7 +8159,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:23:31,2894.0,Россия,Москва,
 2015,Male,Finished,4:23:34,2896.0,Россия,Москва,
 2015,Male,Finished,4:23:36,2897.0,Россия,Москва,
-2015,Male,Finished,4:23:37,2898.0,Россия,Таганрог,КЛБ 
+2015,Male,Finished,4:23:37,2898.0,Россия,Таганрог,КЛБ
 2015,Male,Finished,4:23:39,2899.0,Россия,КАЗАНЬ,АВЛАК
 2015,Male,Finished,4:23:43,2900.0,Россия,БЕЛОРЕЦК,Личник
 2015,Male,Finished,4:23:44,2901.0,Россия,Москва,
@@ -8169,7 +8169,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:23:47,2904.0,Россия,Москва,Iloverunnning
 2015,Male,Finished,4:23:48,2906.0,Россия,Москва,
 2015,Male,Finished,4:23:48,2906.0,Россия,Санкт-Петербург,
-2015,Male,Finished,4:23:48,2906.0,Россия,ОБНИНСК,КЛБ Протва 
+2015,Male,Finished,4:23:48,2906.0,Россия,ОБНИНСК,КЛБ Протва
 2015,Male,Finished,4:23:50,2909.0,Россия,КРАСНОГОРСК,
 2015,Male,Finished,4:23:52,2910.0,Россия,Москва,Альфа
 2015,Male,Finished,4:23:54,2911.0,Россия,Москва,
@@ -8177,7 +8177,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:23:59,2913.0,Россия,Москва,
 2015,Male,Finished,4:24:01,2914.0,Россия,Москва,Seibukai
 2015,Male,Finished,4:24:01,2914.0,Россия,Москва,Лапоть
-2015,Male,Finished,4:24:02,2916.0,Россия,ДОЛГОПРУДНЫЙ,СК 
+2015,Male,Finished,4:24:02,2916.0,Россия,ДОЛГОПРУДНЫЙ,СК
 2015,Male,Finished,4:24:03,2917.0,США,Бостон,Eaglesports
 2015,Male,Finished,4:24:06,2918.0,Россия,Москва,
 2015,Male,Finished,4:24:07,2919.0,Россия,Москва,
@@ -8230,7 +8230,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:25:10,2966.0,Россия,Москва,
 2015,Male,Finished,4:25:15,2967.0,Россия,Москва,Авантел
 2015,Male,Finished,4:25:16,2968.0,Китай,Шэньчжэнь,42TRIP
-2015,Male,Finished,4:25:18,2969.0,Россия,СТРЕЖЕВОЙ,- 
+2015,Male,Finished,4:25:18,2969.0,Россия,СТРЕЖЕВОЙ,-
 2015,Male,Finished,4:25:19,2970.0,Россия,Москва,
 2015,Male,Finished,4:25:21,2971.0,Россия,Москва,Электровеник
 2015,Male,Finished,4:25:22,2972.0,Россия,Москва,
@@ -8275,7 +8275,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:26:21,3011.0,Россия,Москва,
 2015,Male,Finished,4:26:21,3011.0,Россия,Котельники,
 2015,Male,Finished,4:26:21,3011.0,Россия,Москва,
-2015,Male,Finished,4:26:22,3014.0,Россия,Москва,Беговой клуб 
+2015,Male,Finished,4:26:22,3014.0,Россия,Москва,Беговой клуб
 2015,Male,Finished,4:26:22,3014.0,Россия,Москва,21Runners
 2015,Male,Finished,4:26:22,3014.0,Россия,КАЗАНЬ,Nike+Kazan
 2015,Male,Finished,4:26:23,3017.0,Россия,Москва,
@@ -8288,7 +8288,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:26:30,3024.0,Россия,Москва,
 2015,Male,Finished,4:26:30,3024.0,Россия,Москва,
 2015,Male,Finished,4:26:30,3024.0,Россия,Москва,
-2015,Male,Finished,4:26:34,3027.0,Россия,КИМРЫ,КЛБ 
+2015,Male,Finished,4:26:34,3027.0,Россия,КИМРЫ,КЛБ
 2015,Male,Finished,4:26:35,3028.0,Россия,Москва,НЕТ
 2015,Male,Finished,4:26:36,3029.0,Россия,Санкт-Петербург,
 2015,Male,Finished,4:26:36,3029.0,Россия,Москва,
@@ -8437,7 +8437,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:30:18,3173.0,Россия,Москва,Las Tortugas
 2015,Male,Finished,4:30:18,3173.0,Россия,Москва,
 2015,Male,Finished,4:30:18,3173.0,Россия,Москва,H&M Russia Team
-2015,Male,Finished,4:30:19,3176.0,Польша,Варшава,Леруа Мерлен Россия 
+2015,Male,Finished,4:30:19,3176.0,Польша,Варшава,Леруа Мерлен Россия
 2015,Male,Finished,4:30:20,3177.0,Россия,Москва,I LOVE RUNNING
 2015,Male,Finished,4:30:21,3178.0,Россия,Саратов,
 2015,Male,Finished,4:30:22,3179.0,Россия,Мытищи,
@@ -8489,7 +8489,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:31:36,3225.0,Россия,Москва,Регион26
 2015,Male,Finished,4:31:36,3225.0,Россия,Санкт-Петербург,YULA team
 2015,Male,Finished,4:31:40,3227.0,Россия,Иваново,
-2015,Male,Finished,4:31:44,3228.0,Россия,Москва,I LOVE RUNNING 
+2015,Male,Finished,4:31:44,3228.0,Россия,Москва,I LOVE RUNNING
 2015,Male,Finished,4:31:47,3229.0,Польша,Быдгощ,K.S. Gwiazda
 2015,Male,Finished,4:31:50,3230.0,Россия,Москва,IRC
 2015,Male,Finished,4:31:52,3231.0,Россия,Москва,
@@ -8563,7 +8563,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:33:48,3298.0,Россия,Москва,
 2015,Male,Finished,4:33:49,3300.0,Россия,Москва,
 2015,Male,Finished,4:33:53,3301.0,Россия,Владимир,
-2015,Male,Finished,4:33:54,3302.0,Россия,Нижний Новгород,КЛБ 
+2015,Male,Finished,4:33:54,3302.0,Россия,Нижний Новгород,КЛБ
 2015,Male,Finished,4:33:55,3303.0,Россия,Москва,Логово Дракона
 2015,Male,Finished,4:33:55,3303.0,Россия,Москва,
 2015,Male,Finished,4:33:58,3305.0,Россия,Москва,
@@ -8593,7 +8593,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:34:44,3329.0,Россия,Москва,
 2015,Male,Finished,4:34:44,3329.0,Россия,Мурманск,
 2015,Male,Finished,4:34:46,3331.0,Россия,МИНЕРАЛЬНЫЕ ВОДЫ,Высшая лига
-2015,Male,Finished,4:34:50,3332.0,Россия,Москва,Спартак Москва 
+2015,Male,Finished,4:34:50,3332.0,Россия,Москва,Спартак Москва
 2015,Male,Finished,4:34:50,3332.0, Франция,Тулуза,
 2015,Male,Finished,4:34:51,3334.0,Россия,Москва,
 2015,Male,Finished,4:34:51,3334.0,Россия,Москва,
@@ -8691,7 +8691,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:37:59,3427.0,Россия,Белгород,
 2015,Male,Finished,4:37:59,3427.0,Россия,Москва,БЧ (Бегущие человеки)
 2015,Male,Finished,4:38:01,3429.0,США,Бейкерсфилд,BAKERSFIELD TRACK CLUB
-2015,Male,Finished,4:38:02,3430.0,Россия,Новосибирск,Tri life 
+2015,Male,Finished,4:38:02,3430.0,Россия,Новосибирск,Tri life
 2015,Male,Finished,4:38:06,3431.0,Россия,Москва,
 2015,Male,Finished,4:38:09,3432.0,Россия,Москва,
 2015,Male,Finished,4:38:10,3433.0,Россия,Москва,21runners
@@ -8705,7 +8705,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:38:22,3441.0,Россия,Ульяновск,
 2015,Male,Finished,4:38:22,3441.0,Россия,Москва,
 2015,Male,Finished,4:38:24,3443.0,Россия,Москва,КРОК
-2015,Male,Finished,4:38:26,3444.0,Россия,Гусь-Хрустальный,СК 
+2015,Male,Finished,4:38:26,3444.0,Россия,Гусь-Хрустальный,СК
 2015,Male,Finished,4:38:27,3445.0,Россия,Калуга,нет
 2015,Male,Finished,4:38:35,3446.0,Россия,Красноярск,
 2015,Male,Finished,4:38:35,3446.0,Россия,Воронеж,
@@ -8789,7 +8789,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:41:33,3525.0,Россия,Москва,
 2015,Male,Finished,4:41:34,3526.0,Россия,Калининград,RunLepraRun
 2015,Male,Finished,4:41:38,3527.0,Россия,Москва,I Love Running
-2015,Male,Finished,4:41:39,3528.0,Россия,Королев,Связной 
+2015,Male,Finished,4:41:39,3528.0,Россия,Королев,Связной
 2015,Male,Finished,4:41:45,3529.0,Россия,Москва,
 2015,Male,Finished,4:41:48,3530.0,Россия,Череповец,
 2015,Male,Finished,4:41:54,3531.0,Россия,Волгоград,
@@ -8912,7 +8912,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:45:43,3648.0,Россия,Москва,
 2015,Male,Finished,4:45:43,3648.0,Россия,Железногорск,RUNetka
 2015,Male,Finished,4:45:46,3650.0,Россия,Москва,
-2015,Male,Finished,4:45:52,3651.0,Россия,Петрозаводск,КЛБ 
+2015,Male,Finished,4:45:52,3651.0,Россия,Петрозаводск,КЛБ
 2015,Male,Finished,4:45:52,3651.0,Россия,Москва,
 2015,Male,Finished,4:45:53,3653.0,Россия,Москва,
 2015,Male,Finished,4:45:58,3654.0,Мексика,Торреон,Dragons
@@ -9018,7 +9018,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:50:07,3754.0,Россия,ХАБАРОВСК,
 2015,Male,Finished,4:50:09,3755.0,Россия,Москва,
 2015,Male,Finished,4:50:12,3756.0,Россия,Москва,СК Лохино
-2015,Male,Finished,4:50:12,3756.0,Россия,Москва,СК 
+2015,Male,Finished,4:50:12,3756.0,Россия,Москва,СК
 2015,Male,Finished,4:50:14,3758.0,Россия,Москва,Sberbank CIB Triathlon team
 2015,Male,Finished,4:50:16,3759.0,Россия,Москва,
 2015,Male,Finished,4:50:16,3759.0,Россия,Тамбов,
@@ -9036,7 +9036,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:50:52,3771.0,Россия,Красноярск,
 2015,Male,Finished,4:50:55,3773.0,Россия,Москва,Альфа-банк
 2015,Male,Finished,4:50:58,3774.0,Россия,Москва,
-2015,Male,Finished,4:50:59,3775.0,Россия,Москва,ОБГ 
+2015,Male,Finished,4:50:59,3775.0,Россия,Москва,ОБГ
 2015,Male,Finished,4:51:04,3776.0,Россия,Москва,
 2015,Male,Finished,4:51:05,3777.0,Россия,Москва,
 2015,Male,Finished,4:51:06,3778.0,Россия,Москва,
@@ -9179,7 +9179,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,4:56:41,3915.0,Россия,Москва,I Love Running
 2015,Male,Finished,4:56:43,3916.0,Россия,Москва,
 2015,Male,Finished,4:56:44,3917.0,Россия,Москва,
-2015,Male,Finished,4:56:51,3918.0,Тайланд,Бангкок,Surathani 
+2015,Male,Finished,4:56:51,3918.0,Тайланд,Бангкок,Surathani
 2015,Male,Finished,4:56:54,3919.0,Россия,Москва,
 2015,Male,Finished,4:56:56,3920.0,Россия,Санкт-Петербург,
 2015,Male,Finished,4:56:56,3920.0,Россия,Москва,
@@ -9512,7 +9512,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,5:14:05,4248.0,Россия,КРАСНОГОРСК,
 2015,Male,Finished,5:14:05,4248.0,Россия,Москва,
 2015,Male,Finished,5:14:07,4250.0,Россия,Москва,
-2015,Male,Finished,5:14:07,4250.0,Россия,Санкт-Петербург,prorunning 
+2015,Male,Finished,5:14:07,4250.0,Россия,Санкт-Петербург,prorunning
 2015,Male,Finished,5:14:16,4252.0,Россия,СТУПИНО,Seibukai
 2015,Male,Finished,5:14:21,4253.0,Россия,Москва,
 2015,Male,Finished,5:14:27,4254.0,Россия,Москва,
@@ -9626,7 +9626,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,5:22:54,4362.0,Россия,Москва,
 2015,Male,Finished,5:23:01,4363.0,Россия,Москва,
 2015,Male,Finished,5:23:05,4364.0,Россия,Москва,
-2015,Male,Finished,5:23:05,4364.0,Россия,Москва,КЛБ 
+2015,Male,Finished,5:23:05,4364.0,Россия,Москва,КЛБ
 2015,Male,Finished,5:23:13,4366.0,Россия,Москва,
 2015,Male,Finished,5:23:35,4367.0,Россия,Москва,
 2015,Male,Finished,5:23:35,4367.0,Россия,Москва,марафонская команда Шри Чинмоя
@@ -9685,7 +9685,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,5:28:29,4421.0,Россия,Москва,
 2015,Male,Finished,5:28:41,4422.0,Россия,Москва,
 2015,Male,Finished,5:28:46,4423.0,Россия,Москва,
-2015,Male,Finished,5:29:08,4424.0,Россия,Москва,Iloverunning 
+2015,Male,Finished,5:29:08,4424.0,Россия,Москва,Iloverunning
 2015,Male,Finished,5:29:09,4425.0,Россия,Москва,
 2015,Male,Finished,5:29:11,4426.0,Россия,Москва,Глобус-Сталь
 2015,Male,Finished,5:29:24,4427.0,Россия,Москва,
@@ -9753,7 +9753,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,5:36:49,4489.0,Россия,ЛОБНЯ,
 2015,Male,Finished,5:36:58,4490.0,Россия,Москва,
 2015,Male,Finished,5:37:11,4491.0,Россия,ЯКУТСК,
-2015,Male,Finished,5:37:36,4492.0,Россия,Москва,Кайт клуб 
+2015,Male,Finished,5:37:36,4492.0,Россия,Москва,Кайт клуб
 2015,Male,Finished,5:37:36,4492.0,Россия,Москва,Трилайф
 2015,Male,Finished,5:37:43,4494.0,Россия,Москва,SANRUN
 2015,Male,Finished,5:37:46,4495.0,Россия,Москва,redBike
@@ -9896,7 +9896,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Finished,5:58:34,4631.0,Россия,Красноярск,I love running
 2015,Male,Finished,5:58:41,4633.0,Россия,Москва,
 2015,Male,Finished,5:58:44,4634.0,Россия,Москва,
-2015,Male,Finished,5:59:01,4635.0,Россия,ТОРЖОК,Новотор 
+2015,Male,Finished,5:59:01,4635.0,Россия,ТОРЖОК,Новотор
 2015,Male,Finished,5:59:03,4636.0,Испания,Барселона,Corredor Libre
 2015,Male,Finished,5:59:03,4636.0,Великобритания,Лондон,
 2015,Male,Finished,5:59:41,4638.0,Россия,Москва,
@@ -9946,7 +9946,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Did not finished,,,Россия,Москва,
 2015,Male,Did not finished,,,Россия,Москва,
 2015,Male,Did not finished,,,Россия,Москва,
-2015,Male,Did not finished,,,Россия,Москва,Fast Legs Team 
+2015,Male,Did not finished,,,Россия,Москва,Fast Legs Team
 2015,Male,Did not finished,,,Россия,Москва,
 2015,Male,Did not finished,,,Россия,Москва,
 2015,Male,Did not finished,,,Россия,Москва,
@@ -10033,7 +10033,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Did not finished,,,Россия,Москва,
 2015,Male,Did not finished,,,Россия,Москва,pro trener
 2015,Male,Did not finished,,,Россия,Москва,
-2015,Male,Did not finished,,,Россия,Москва,PlaceYouLike Amsterdam 
+2015,Male,Did not finished,,,Россия,Москва,PlaceYouLike Amsterdam
 2015,Male,Did not finished,,,Россия,Москва,
 2015,Male,Did not finished,,,Россия,Москва,Всероссийское общество слепоглухих
 2015,Male,Did not finished,,,Россия,Москва,
@@ -10095,7 +10095,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2015,Male,Did not finished,,,Россия,Москва,
 2015,Male,Did not finished,,,Россия,Москва,
 2015,Male,Did not finished,,,Россия,Москва,DW coaching
-2015,Male,Did not finished,,,Украина,Киев,марафонский клуб 
+2015,Male,Did not finished,,,Украина,Киев,марафонский клуб
 2015,Male,Did not finished,,,Россия,Москва,Fili runs
 2015,Male,Did not finished,,,Россия,Москва,ХК Спартак
 2015,Male,Did not finished,,,Россия,Москва,
@@ -10189,7 +10189,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,3:14:11,23.0, Россия,Москва,Дети болот
 2016,Female,Finished,3:14:52,24.0, Нидерланды,Гаага,Haag Atletiek
 2016,Female,Finished,3:14:59,25.0, Россия,Екатеринбург,Марафонец
-2016,Female,Finished,3:15:01,26.0, Россия,Владимир,SLEPOV TEAM 
+2016,Female,Finished,3:15:01,26.0, Россия,Владимир,SLEPOV TEAM
 2016,Female,Finished,3:15:37,27.0, Россия,Чебоксары,
 2016,Female,Finished,3:15:40,28.0, Россия,Санкт-Петербург,
 2016,Female,Finished,3:15:47,29.0, Швеция,Стокгольм,Linnéa IF
@@ -10215,13 +10215,13 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,3:27:05,49.0, Россия,Липецк,ClimbRun
 2016,Female,Finished,3:27:06,50.0, Венгрия,Дебрецен,
 2016,Female,Finished,3:27:13,51.0, Россия,Москва,Тихоходы
-2016,Female,Finished,3:28:53,52.0, Россия,Москва,MOEX Triathlon Team 
+2016,Female,Finished,3:28:53,52.0, Россия,Москва,MOEX Triathlon Team
 2016,Female,Finished,3:28:54,53.0, Россия,Москва,
 2016,Female,Finished,3:29:24,54.0, Россия,Москва,
 2016,Female,Finished,3:30:00,55.0, Россия,Москва,
 2016,Female,Finished,3:30:13,56.0, Словения,Любляна,Urbani tekaci
 2016,Female,Finished,3:30:57,57.0, Россия,МАГНИТОГОРСК,
-2016,Female,Finished,3:31:09,58.0, Россия,Курск,КЛБ 
+2016,Female,Finished,3:31:09,58.0, Россия,Курск,КЛБ
 2016,Female,Finished,3:31:12,59.0, Россия,Москва,Ёж
 2016,Female,Finished,3:31:19,60.0, Россия,Москва,
 2016,Female,Finished,3:31:42,61.0, Россия,Москва,runners bergamo
@@ -10232,7 +10232,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,3:34:12,66.0, Объединенные Арабские Эмираты,Дубай,endurance training at
 2016,Female,Finished,3:34:15,67.0, Россия,Москва,МГУ
 2016,Female,Finished,3:34:50,68.0, Италия,Рим,Atletica Pegaso Roma
-2016,Female,Finished,3:34:51,69.0, Россия,ЛОБНЯ, 
+2016,Female,Finished,3:34:51,69.0, Россия,ЛОБНЯ,
 2016,Female,Finished,3:35:22,70.0, Литва,ВИЛЬНЮС,Small Planet Airlines
 2016,Female,Finished,3:35:33,71.0, Россия,Москва,#rusnanorun
 2016,Female,Finished,3:36:42,72.0, Россия,Москва,MSU ski team
@@ -10246,7 +10246,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,3:38:03,80.0, Россия,Москва,Сенеж
 2016,Female,Finished,3:38:13,81.0, Мексика,Сапопан,
 2016,Female,Finished,3:38:22,82.0, Россия,Москва,
-2016,Female,Finished,3:38:24,83.0, Россия,Пермь,КЛБ 
+2016,Female,Finished,3:38:24,83.0, Россия,Пермь,КЛБ
 2016,Female,Finished,3:38:28,84.0, Россия,Новосибирск,
 2016,Female,Finished,3:39:23,85.0, Россия,Москва,Чёрная каракатица
 2016,Female,Finished,3:39:28,86.0, Россия,Москва,
@@ -10262,7 +10262,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,3:41:48,96.0, Россия,КЛИН,
 2016,Female,Finished,3:41:49,97.0, Россия,Москва,
 2016,Female,Finished,3:42:00,98.0, Россия,Нижний Новгород,Сормович
-2016,Female,Finished,3:42:22,99.0, Россия,Санкт-Петербург,adidas runclab 
+2016,Female,Finished,3:42:22,99.0, Россия,Санкт-Петербург,adidas runclab
 2016,Female,Finished,3:42:32,100.0, Россия,ЙОШКАР-ОЛА,
 2016,Female,Finished,3:42:52,101.0, Россия,Москва,
 2016,Female,Finished,3:43:29,102.0, Россия,Москва,
@@ -10270,13 +10270,13 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,3:43:44,104.0, Россия,Москва,
 2016,Female,Finished,3:43:49,105.0, Россия,Москва,
 2016,Female,Finished,3:44:18,106.0, Россия,Нижний Новгород,КЛБ Здоровье
-2016,Female,Finished,3:44:21,107.0, Россия,Москва,World class 
+2016,Female,Finished,3:44:21,107.0, Россия,Москва,World class
 2016,Female,Finished,3:44:28,108.0, Россия,Москва,No Tag Runners
 2016,Female,Finished,3:44:33,109.0, Россия,Рязань,
 2016,Female,Finished,3:44:53,110.0, Россия,Москва,Муравей
 2016,Female,Finished,3:44:58,111.0, Россия,Москва,
 2016,Female,Finished,3:45:19,112.0, Россия,КАЗАНЬ,Марафонцы Казани
-2016,Female,Finished,3:45:20,113.0, Россия,ТРОИЦК,Спортивно-оздоровительная база 
+2016,Female,Finished,3:45:20,113.0, Россия,ТРОИЦК,Спортивно-оздоровительная база
 2016,Female,Finished,3:45:35,114.0, Россия,Санкт-Петербург,
 2016,Female,Finished,3:45:36,115.0, Россия,Москва,паркран Тимирязевский
 2016,Female,Finished,3:46:14,116.0, Россия,СЕВЕРОДВИНСК,
@@ -10291,7 +10291,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,3:47:54,125.0, Россия,Санкт-Петербург,YORC
 2016,Female,Finished,3:48:01,126.0, Россия,Санкт-Петербург,
 2016,Female,Finished,3:48:31,127.0, Россия,Москва,Moscow Trail Running
-2016,Female,Finished,3:48:36,128.0, Россия,Москва,World class 
+2016,Female,Finished,3:48:36,128.0, Россия,Москва,World class
 2016,Female,Finished,3:48:36,128.0, Россия,Москва,ГБОУ гимназия 1538
 2016,Female,Finished,3:48:59,130.0, Россия,Москва,
 2016,Female,Finished,3:49:04,131.0, Россия,Москва,Gepard
@@ -10352,7 +10352,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,3:56:42,186.0, Россия,Москва,
 2016,Female,Finished,3:56:42,186.0, Россия,Санкт-Петербург,
 2016,Female,Finished,3:56:42,186.0, Россия,Москва,Nike
-2016,Female,Finished,3:57:07,189.0, Россия,Москва,Iloverunning 
+2016,Female,Finished,3:57:07,189.0, Россия,Москва,Iloverunning
 2016,Female,Finished,3:57:37,190.0, Россия,Москва,Nike+ Парк Горького
 2016,Female,Finished,3:57:42,191.0, Россия,Москва,
 2016,Female,Finished,3:57:55,192.0, Россия,Москва,
@@ -10368,9 +10368,9 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,3:58:46,202.0, Россия,Ростов-на-Дону,Бегом по жизни
 2016,Female,Finished,3:58:49,203.0, Россия,Москва,
 2016,Female,Finished,3:58:49,203.0, Россия,Москва,
-2016,Female,Finished,3:59:01,205.0, Россия,Москва,СЛБ 
+2016,Female,Finished,3:59:01,205.0, Россия,Москва,СЛБ
 2016,Female,Finished,3:59:08,206.0, Нидерланды,Амстердам,
-2016,Female,Finished,3:59:10,207.0, Россия,Петрозаводск,Run like a queen 
+2016,Female,Finished,3:59:10,207.0, Россия,Петрозаводск,Run like a queen
 2016,Female,Finished,3:59:11,208.0, Россия,Москва,беги вперёд!
 2016,Female,Finished,3:59:12,209.0, Россия,Москва,ЛК Измайлово
 2016,Female,Finished,3:59:23,210.0, Россия,Москва,
@@ -10382,7 +10382,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,3:59:39,216.0, Россия,Владимир,
 2016,Female,Finished,3:59:56,217.0, Россия,Москва,Марафонцы Казани
 2016,Female,Finished,4:00:13,218.0, Россия,Москва,ВИКИНГИ
-2016,Female,Finished,4:00:17,219.0, Германия,Дортмунд,TuS Lendringsen/Abt. Leichtathletik 
+2016,Female,Finished,4:00:17,219.0, Германия,Дортмунд,TuS Lendringsen/Abt. Leichtathletik
 2016,Female,Finished,4:00:20,220.0, Россия,Москва,
 2016,Female,Finished,4:00:22,221.0, Россия,РЫБИНСК,Сборная РГАТУ по ЛА
 2016,Female,Finished,4:00:24,222.0, Россия,Москва,
@@ -10492,7 +10492,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:10:55,326.0, Россия,Тюмень,Строительный двор
 2016,Female,Finished,4:10:58,327.0, Slovenia,None,Urbani tekaci
 2016,Female,Finished,4:11:03,328.0, Словения,Крань,Urbani tekaci
-2016,Female,Finished,4:11:14,329.0, Россия,Пермь,I love running 
+2016,Female,Finished,4:11:14,329.0, Россия,Пермь,I love running
 2016,Female,Finished,4:11:15,330.0, Россия,Москва,gepard
 2016,Female,Finished,4:11:23,331.0, Россия,Москва,Adidas_RC_Измайлово #ИзмайловскаяБанда
 2016,Female,Finished,4:11:30,332.0, Россия,Москва,wake and run
@@ -10538,7 +10538,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:15:20,372.0, Россия,ЖУКОВСКИЙ,
 2016,Female,Finished,4:15:24,373.0, Россия,Москва,
 2016,Female,Finished,4:15:32,374.0,,,Urbani tekaci
-2016,Female,Finished,4:15:37,375.0, Россия,Москва,Adidas Runners Moscow 
+2016,Female,Finished,4:15:37,375.0, Россия,Москва,Adidas Runners Moscow
 2016,Female,Finished,4:15:38,376.0, Россия,Уфа,
 2016,Female,Finished,4:15:46,377.0, Россия,Великий Новгород,клб Акрон
 2016,Female,Finished,4:15:54,378.0, Россия,Москва,adidas run club mitino
@@ -10550,7 +10550,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:16:36,383.0, Россия,Москва,Строительный двор
 2016,Female,Finished,4:16:36,383.0, Россия,Санкт-Петербург,Динамо Спб
 2016,Female,Finished,4:16:37,386.0, Россия,Москва,
-2016,Female,Finished,4:16:48,387.0, Россия,Москва,Клуб 
+2016,Female,Finished,4:16:48,387.0, Россия,Москва,Клуб
 2016,Female,Finished,4:16:50,388.0, Россия,Санкт-Петербург,
 2016,Female,Finished,4:16:55,389.0, Россия,Москва,
 2016,Female,Finished,4:16:58,390.0, Россия,Москва,
@@ -10558,11 +10558,11 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:17:05,392.0, Россия,Москва,
 2016,Female,Finished,4:17:09,393.0, Россия,Санкт-Петербург,Galaxy
 2016,Female,Finished,4:17:11,394.0, Россия,Москва,
-2016,Female,Finished,4:17:13,395.0, Россия,Москва,СОБ 
+2016,Female,Finished,4:17:13,395.0, Россия,Москва,СОБ
 2016,Female,Finished,4:17:15,396.0, Россия,Москва,
 2016,Female,Finished,4:17:25,397.0, Россия,Москва,
 2016,Female,Finished,4:17:28,398.0, Россия,Краснодар,
-2016,Female,Finished,4:17:32,399.0, Россия,Нижний Новгород,Беговой клуб 
+2016,Female,Finished,4:17:32,399.0, Россия,Нижний Новгород,Беговой клуб
 2016,Female,Finished,4:17:41,400.0, Россия,Москва,Adidas_RC_Измайлово #ИзмайловскаяБанда
 2016,Female,Finished,4:17:46,401.0, Россия,Москва,
 2016,Female,Finished,4:17:47,402.0, Россия,Москва,
@@ -10622,7 +10622,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:23:42,455.0, Россия,Москва,No Tag Runners
 2016,Female,Finished,4:23:45,457.0, Россия,Владимир,
 2016,Female,Finished,4:23:48,458.0, Россия,Томск,Нет
-2016,Female,Finished,4:23:48,458.0, Россия,Санкт-Петербург,КЛБ 
+2016,Female,Finished,4:23:48,458.0, Россия,Санкт-Петербург,КЛБ
 2016,Female,Finished,4:23:48,458.0, Россия,Москва,Gorky Park Runners
 2016,Female,Finished,4:23:51,461.0, Россия,Москва,
 2016,Female,Finished,4:23:53,462.0, Россия,Москва,David Warden Coaching
@@ -10642,7 +10642,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:24:39,476.0, Россия,Москва,
 2016,Female,Finished,4:24:40,477.0, Россия,Москва,
 2016,Female,Finished,4:24:41,478.0, Словения,Веленье,Urbani tekaci
-2016,Female,Finished,4:24:47,479.0, Россия,Москва,RC Лосиный 
+2016,Female,Finished,4:24:47,479.0, Россия,Москва,RC Лосиный
 2016,Female,Finished,4:24:56,480.0, Россия,Москва,
 2016,Female,Finished,4:25:03,481.0, Россия,Москва,
 2016,Female,Finished,4:25:04,482.0, Россия,Москва,
@@ -10663,7 +10663,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:26:05,497.0, Россия,Москва,
 2016,Female,Finished,4:26:08,498.0, Россия,Москва,
 2016,Female,Finished,4:26:12,499.0, Россия,Санкт-Петербург,
-2016,Female,Finished,4:26:17,500.0, Россия,Москва, 
+2016,Female,Finished,4:26:17,500.0, Россия,Москва,
 2016,Female,Finished,4:26:22,501.0, Россия,Ярославль,
 2016,Female,Finished,4:26:26,502.0, Россия,Москва,
 2016,Female,Finished,4:26:32,503.0, Россия,Москва,N/a
@@ -10692,7 +10692,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:28:00,526.0, Россия,Москва,
 2016,Female,Finished,4:28:06,527.0, Китай,Шанхай,42TRIP
 2016,Female,Finished,4:28:08,528.0, Россия,Москва,
-2016,Female,Finished,4:28:18,529.0, Россия,Москва,Running Club Terrasport Kopernik 
+2016,Female,Finished,4:28:18,529.0, Россия,Москва,Running Club Terrasport Kopernik
 2016,Female,Finished,4:28:20,530.0, Россия,Москва,
 2016,Female,Finished,4:28:36,531.0, Марокко,Фес,
 2016,Female,Finished,4:28:44,532.0, Россия,Москва,
@@ -10728,7 +10728,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:30:55,562.0, Россия,Москва,
 2016,Female,Finished,4:30:56,563.0, Россия,Санкт-Петербург,
 2016,Female,Finished,4:30:57,564.0, Россия,ТОЛЬЯТТИ,КЛБ Лада
-2016,Female,Finished,4:31:10,565.0, Россия,Москва,ILOVERUNNING МЫТИЩИ 
+2016,Female,Finished,4:31:10,565.0, Россия,Москва,ILOVERUNNING МЫТИЩИ
 2016,Female,Finished,4:31:13,566.0, США,Сан-Диего,
 2016,Female,Finished,4:31:15,567.0, Россия,Москва,
 2016,Female,Finished,4:31:19,568.0, Россия,Москва,
@@ -10751,7 +10751,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:32:46,585.0, Россия,Москва,
 2016,Female,Finished,4:32:48,586.0, Россия,Москва,
 2016,Female,Finished,4:32:51,587.0, Россия,Смоленск,Аэробия
-2016,Female,Finished,4:32:52,588.0, Россия,Томск,Iloverunning 
+2016,Female,Finished,4:32:52,588.0, Россия,Томск,Iloverunning
 2016,Female,Finished,4:32:52,588.0, Россия,Москва,ВМК МГУ
 2016,Female,Finished,4:32:53,590.0, Россия,Москва,Сильвия-IRC
 2016,Female,Finished,4:32:53,590.0, Россия,Москва,None
@@ -10759,7 +10759,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:32:58,593.0, Россия,Томск,I love running Tomsk
 2016,Female,Finished,4:33:01,594.0, Словения,Любляна,Urbani tekaci
 2016,Female,Finished,4:33:08,595.0, Россия,Москва,
-2016,Female,Finished,4:33:12,596.0, Россия,Москва,Iloverunning 
+2016,Female,Finished,4:33:12,596.0, Россия,Москва,Iloverunning
 2016,Female,Finished,4:33:26,597.0, Россия,Москва,
 2016,Female,Finished,4:33:37,598.0, Россия,Москва,Girl&Sole
 2016,Female,Finished,4:33:41,599.0, Россия,Москва,
@@ -10816,7 +10816,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:37:58,650.0, Россия,Москва,iloverunning
 2016,Female,Finished,4:37:58,650.0, Россия,Братск,
 2016,Female,Finished,4:37:59,652.0, Россия,Санкт-Петербург,Russian California Running Club
-2016,Female,Finished,4:38:14,653.0, Россия,Москва,Фитнес-клуб 
+2016,Female,Finished,4:38:14,653.0, Россия,Москва,Фитнес-клуб
 2016,Female,Finished,4:38:18,654.0, Россия,Москва,
 2016,Female,Finished,4:38:21,655.0, Россия,Москва,
 2016,Female,Finished,4:38:24,656.0, Россия,Нижний Новгород,
@@ -10834,7 +10834,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:39:37,668.0, Россия,Москва,
 2016,Female,Finished,4:39:43,669.0, Литва,ВИЛЬНЮС,
 2016,Female,Finished,4:39:48,670.0, Россия,Тула,
-2016,Female,Finished,4:39:59,671.0, Россия,Санкт-Петербург,I love running 
+2016,Female,Finished,4:39:59,671.0, Россия,Санкт-Петербург,I love running
 2016,Female,Finished,4:40:00,672.0, Россия,Москва,Rockets
 2016,Female,Finished,4:40:08,673.0, Россия,ДОЛГОПРУДНЫЙ,
 2016,Female,Finished,4:40:10,674.0, Нидерланды,Роттердам,
@@ -10866,7 +10866,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:42:26,700.0, Россия,Москва,
 2016,Female,Finished,4:42:28,701.0, Россия,Краснодар,TopLigaClub
 2016,Female,Finished,4:43:00,702.0, Россия,Москва,
-2016,Female,Finished,4:43:04,703.0, Россия,Москва,КТ 
+2016,Female,Finished,4:43:04,703.0, Россия,Москва,КТ
 2016,Female,Finished,4:43:16,704.0, Россия,Москва,No Tag Runners
 2016,Female,Finished,4:43:22,705.0, Россия,Кемерово,I love running
 2016,Female,Finished,4:43:36,706.0, Россия,Москва,
@@ -10927,7 +10927,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:48:11,761.0, Россия,Москва,I love running
 2016,Female,Finished,4:48:14,762.0, Россия,КРАСНОГОРСК,Selfmama run
 2016,Female,Finished,4:48:18,763.0, Россия,Москва,
-2016,Female,Finished,4:48:20,764.0, Бразилия,Сан-Паулу,Cinthia Petrini 
+2016,Female,Finished,4:48:20,764.0, Бразилия,Сан-Паулу,Cinthia Petrini
 2016,Female,Finished,4:48:33,765.0, Россия,Москва,Nike+
 2016,Female,Finished,4:48:43,766.0, Россия,Москва,
 2016,Female,Finished,4:48:48,767.0, Россия,Москва,сама  с собой
@@ -10974,7 +10974,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,4:52:00,808.0, Россия,Москва,бегай с умом
 2016,Female,Finished,4:52:04,809.0, Россия,РЕУТОВ,
 2016,Female,Finished,4:52:05,810.0, Польша,Варшава,
-2016,Female,Finished,4:52:12,811.0, Казахстан,Алма-Ата,Школа правильного бега 
+2016,Female,Finished,4:52:12,811.0, Казахстан,Алма-Ата,Школа правильного бега
 2016,Female,Finished,4:52:14,812.0, Россия,Москва,AR
 2016,Female,Finished,4:52:17,813.0,,,Urbani tekaci
 2016,Female,Finished,4:52:21,814.0, Польша,Варшава,
@@ -11112,7 +11112,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,5:07:48,946.0, Россия,Москва,TriMan
 2016,Female,Finished,5:08:19,947.0, Россия,Санкт-Петербург,
 2016,Female,Finished,5:08:20,948.0, Россия,Брянск,СТИМУЛ
-2016,Female,Finished,5:08:26,949.0, Россия,Москва,I LOVE RUNNING 
+2016,Female,Finished,5:08:26,949.0, Россия,Москва,I LOVE RUNNING
 2016,Female,Finished,5:08:43,950.0, Россия,Москва,Sluggish Runners
 2016,Female,Finished,5:08:51,951.0, Россия,Москва,
 2016,Female,Finished,5:08:57,952.0, Россия,Москва,Парсек
@@ -11134,7 +11134,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,5:10:57,968.0, Россия,Сочи,adidas
 2016,Female,Finished,5:11:04,969.0, Россия,Киров,Локомотив
 2016,Female,Finished,5:11:25,970.0, Россия,Москва,
-2016,Female,Finished,5:11:37,971.0, Россия,Москва,I love running 
+2016,Female,Finished,5:11:37,971.0, Россия,Москва,I love running
 2016,Female,Finished,5:11:47,972.0, Россия,Москва,
 2016,Female,Finished,5:11:48,973.0, Slovenia,None,Urbani tekaci
 2016,Female,Finished,5:12:01,974.0, Россия,Москва,
@@ -11162,7 +11162,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,5:15:36,995.0, Казахстан,Алма-Ата,I love running
 2016,Female,Finished,5:15:44,997.0, Россия,Москва,
 2016,Female,Finished,5:15:50,998.0, Россия,Москва,
-2016,Female,Finished,5:15:50,998.0, Россия,Москва,I love running 
+2016,Female,Finished,5:15:50,998.0, Россия,Москва,I love running
 2016,Female,Finished,5:15:57,1000.0, Россия,Москва,
 2016,Female,Finished,5:15:59,1001.0, Россия,Москва,Mikkeller Running Club Moscow
 2016,Female,Finished,5:16:01,1002.0, Россия,Москва,Moscow Armenian Run Club (MARC)
@@ -11203,14 +11203,14 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,5:24:01,1037.0, Россия,Москва,Клиника МАМА
 2016,Female,Finished,5:24:22,1038.0, Россия,Москва,Somo
 2016,Female,Finished,5:24:34,1039.0, Россия,Москва,
-2016,Female,Finished,5:24:43,1040.0, Россия,Москва,EdalGO 
+2016,Female,Finished,5:24:43,1040.0, Россия,Москва,EdalGO
 2016,Female,Finished,5:24:46,1041.0, Россия,Москва,
 2016,Female,Finished,5:24:54,1042.0, Россия,Москва,
 2016,Female,Finished,5:24:56,1043.0, Россия,Великий Новгород,
 2016,Female,Finished,5:25:11,1044.0, Россия,Москва,RRUNS
 2016,Female,Finished,5:25:13,1045.0, Россия,Москва,adidas Boost RunClub
-2016,Female,Finished,5:25:19,1046.0, Швейцария,Цюрих,Zürich Happy Runners 
-2016,Female,Finished,5:25:26,1047.0, Россия,Москва,Просто люблю бегать 
+2016,Female,Finished,5:25:19,1046.0, Швейцария,Цюрих,Zürich Happy Runners
+2016,Female,Finished,5:25:26,1047.0, Россия,Москва,Просто люблю бегать
 2016,Female,Finished,5:25:30,1048.0, Россия,Москва,
 2016,Female,Finished,5:25:31,1049.0, Россия,Москва,
 2016,Female,Finished,5:25:53,1050.0, Россия,Москва,
@@ -11292,7 +11292,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,5:42:16,1126.0, Россия,Москва,
 2016,Female,Finished,5:42:16,1126.0, Россия,Москва,
 2016,Female,Finished,5:42:25,1128.0, Россия,Москва,
-2016,Female,Finished,5:42:31,1129.0, Россия,Москва,Moscow Armenian Run Club 
+2016,Female,Finished,5:42:31,1129.0, Россия,Москва,Moscow Armenian Run Club
 2016,Female,Finished,5:42:38,1130.0, Россия,Киров,
 2016,Female,Finished,5:42:39,1131.0, Россия,Москва,ILR
 2016,Female,Finished,5:42:47,1132.0, Россия,Москва,
@@ -11345,7 +11345,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,5:57:09,1179.0, Россия,Москва,adidas runners
 2016,Female,Finished,5:57:15,1180.0, Эстония,Таллин,Türi TRI
 2016,Female,Finished,5:57:49,1181.0, Россия,Москва,Wake&Run
-2016,Female,Finished,5:57:51,1182.0, Казахстан,Алма-Ата,Школа правильного бега 
+2016,Female,Finished,5:57:51,1182.0, Казахстан,Алма-Ата,Школа правильного бега
 2016,Female,Finished,5:57:57,1183.0, Россия,Москва,
 2016,Female,Finished,5:59:37,1184.0, Россия,Москва,
 2016,Female,Finished,6:00:15,1185.0, Россия,Уфа,Iloveruning
@@ -11358,7 +11358,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Finished,6:03:01,1192.0, Россия,Красноярск,I LOVE RUNNING
 2016,Female,Finished,6:03:04,1193.0, Россия,Москва,
 2016,Female,Finished,6:03:26,1194.0, Китай,Гуанчжоу,
-2016,Female,Finished,6:04:28,1195.0, Россия,Краснодар,КЛБ 
+2016,Female,Finished,6:04:28,1195.0, Россия,Краснодар,КЛБ
 2016,Female,Finished,6:05:09,1196.0, США,Сан-Диего,
 2016,Female,Finished,6:05:41,1197.0, Россия,Москва,
 2016,Female,Finished,6:06:06,1198.0, Россия,Красноярск,ILR
@@ -11403,7 +11403,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Did not finished,,, Россия,Москва,
 2016,Female,Did not finished,,, Россия,Москва,Mint Running Club
 2016,Female,Did not finished,,, Россия,Москва,Факел
-2016,Female,Did not finished,,, Россия,Москва,Nike running club 
+2016,Female,Did not finished,,, Россия,Москва,Nike running club
 2016,Female,Did not finished,,, Россия,Москва,
 2016,Female,Did not finished,,, Россия,Москва,
 2016,Female,Did not finished,,, Россия,Москва,Moskva River Runners
@@ -11428,7 +11428,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Did not finished,,, Россия,Москва,
 2016,Female,Did not finished,,, Россия,Москва,
 2016,Female,Did not finished,,, Россия,Москва,
-2016,Female,Did not finished,,, Россия,Москва, 
+2016,Female,Did not finished,,, Россия,Москва,
 2016,Female,Did not finished,,, Россия,КРАСНОГОРСК,100km.ru
 2016,Female,Did not finished,,, Россия,Москва,I Love Running
 2016,Female,Did not finished,,, Россия,Москва,
@@ -11456,12 +11456,12 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Female,Did not finished,,, Россия,Москва,Mars
 2016,Female,Disqualified,,, Россия,Москва,adidas runners
 2016,Female,Did not finished,,, Россия,Москва,Быстрые ноги
-2016,Female,Did not finished,,, Россия,Москва,Blond power 
+2016,Female,Did not finished,,, Россия,Москва,Blond power
 2016,Male,Finished,2:13:40,1.0, Россия,Уфа,
 2016,Male,Finished,2:14:31,2.0, Россия,Ижевск,
 2016,Male,Finished,2:15:07,3.0, Россия,ТОЛЬЯТТИ,
 2016,Male,Finished,2:16:57,4.0, Россия,Чебоксары,
-2016,Male,Finished,2:21:02,5.0, Россия,Москва,ZRun_adidas runners_МК 
+2016,Male,Finished,2:21:02,5.0, Россия,Москва,ZRun_adidas runners_МК
 2016,Male,Finished,2:21:16,6.0, Россия,Белгород,
 2016,Male,Finished,2:24:09,7.0, Россия,Кострома,КЛП
 2016,Male,Finished,2:25:17,8.0, Россия,Санкт-Петербург,"Adidas Running, Типичный Марафонец, Корчма Тарас-Бульба"
@@ -11484,8 +11484,8 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,2:39:48,25.0, Россия,Москва,Лично
 2016,Male,Finished,2:40:07,26.0, Россия,Москва,RSP
 2016,Male,Finished,2:40:33,27.0, Россия,Москва,RaiffRun
-2016,Male,Finished,2:41:23,28.0, Россия,Москва,Гепард 
-2016,Male,Finished,2:41:58,29.0, Россия,Архангельск,РЦСП 
+2016,Male,Finished,2:41:23,28.0, Россия,Москва,Гепард
+2016,Male,Finished,2:41:58,29.0, Россия,Архангельск,РЦСП
 2016,Male,Finished,2:42:08,30.0, Россия,Пермь,УРАЛХИМ
 2016,Male,Finished,2:42:10,31.0, Россия,Королев,ДимаКама
 2016,Male,Finished,2:43:05,32.0, Россия,Санкт-Петербург,Galaxy
@@ -11504,7 +11504,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,2:46:35,45.0, Россия,Москва,
 2016,Male,Finished,2:47:01,46.0, Россия,Москва,ЛК Измайлово
 2016,Male,Finished,2:47:06,47.0, Россия,ФРЯЗИНО,
-2016,Male,Finished,2:47:22,48.0, Россия,ДЗЕРЖИНСК,БОЙЦОВСКИЙ КЛУБ 
+2016,Male,Finished,2:47:22,48.0, Россия,ДЗЕРЖИНСК,БОЙЦОВСКИЙ КЛУБ
 2016,Male,Finished,2:47:32,49.0, Польша,ЗОМБКИ,Orange Polska
 2016,Male,Finished,2:47:40,50.0, Россия,Москва,Лондон - 2016
 2016,Male,Finished,2:47:42,51.0, Великобритания,Саутгемптон,Lordshill Road Runners
@@ -11553,7 +11553,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,2:53:41,94.0, Россия,Москва,
 2016,Male,Finished,2:53:55,95.0, Россия,Москва,Rockets
 2016,Male,Finished,2:54:11,96.0, Россия,Москва,Puzzle English
-2016,Male,Finished,2:54:23,97.0, Россия,Москва,Клуб САМБО Флекс 
+2016,Male,Finished,2:54:23,97.0, Россия,Москва,Клуб САМБО Флекс
 2016,Male,Finished,2:54:47,98.0, Россия,Москва,www.temptraining.ru
 2016,Male,Finished,2:54:49,99.0, Россия,Ростов-на-Дону,Happyrunner
 2016,Male,Finished,2:54:55,100.0, Россия,Кострома,
@@ -11571,13 +11571,13 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,2:56:21,112.0, Россия,Москва,
 2016,Male,Finished,2:56:22,113.0, Россия,Калининград,ЦСКА - Калининград
 2016,Male,Finished,2:56:24,114.0, Россия,Москва,
-2016,Male,Finished,2:56:43,115.0, Россия,Москва,Кунцевская 7-ка 
+2016,Male,Finished,2:56:43,115.0, Россия,Москва,Кунцевская 7-ка
 2016,Male,Finished,2:56:48,116.0, Россия,Москва,Факел
 2016,Male,Finished,2:56:51,117.0, Россия,Москва,Московский беговой клуб
 2016,Male,Finished,2:56:52,118.0, Россия,Ижевск,Италмас
 2016,Male,Finished,2:56:53,119.0, Россия,Москва,
 2016,Male,Finished,2:57:10,120.0, Россия,Москва,ЦСКА
-2016,Male,Finished,2:57:12,121.0, Россия,Москва,СОБ 
+2016,Male,Finished,2:57:12,121.0, Россия,Москва,СОБ
 2016,Male,Finished,2:57:12,121.0, Россия,Москва,
 2016,Male,Finished,2:57:16,123.0, Россия,Москва,ABST
 2016,Male,Finished,2:57:29,124.0, Россия,Самара,
@@ -11653,7 +11653,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:00:14,194.0, Россия,Москва,
 2016,Male,Finished,3:00:15,195.0, Россия,Санкт-Петербург,YoRC
 2016,Male,Finished,3:00:22,196.0, Беларусь,Полоцк,
-2016,Male,Finished,3:00:25,197.0, Россия,МАГНИТОГОРСК,ОАО 
+2016,Male,Finished,3:00:25,197.0, Россия,МАГНИТОГОРСК,ОАО
 2016,Male,Finished,3:00:25,197.0, Россия,Подольск,
 2016,Male,Finished,3:00:28,199.0, Россия,Москва,
 2016,Male,Finished,3:00:28,199.0, Украина,Алчевск,
@@ -11663,7 +11663,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:00:32,203.0, Россия,Москва,
 2016,Male,Finished,3:00:35,205.0, Россия,Санкт-Петербург,Piranha
 2016,Male,Finished,3:00:39,206.0, Россия,Москва,СЕНЕЖ
-2016,Male,Finished,3:00:39,206.0, Россия,Москва,Parkrun Butovo 
+2016,Male,Finished,3:00:39,206.0, Россия,Москва,Parkrun Butovo
 2016,Male,Finished,3:00:41,208.0, Россия,КАЗАНЬ,МарафонцыЛар
 2016,Male,Finished,3:00:45,209.0, Россия,Москва,Bolbat.RU
 2016,Male,Finished,3:00:47,210.0, Россия,Москва,Gepard
@@ -11785,7 +11785,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:07:51,326.0, Россия,Москва,Runroom
 2016,Male,Finished,3:07:51,326.0, Россия,Москва,Факел
 2016,Male,Finished,3:07:53,328.0, Россия,Москва,МГИУ
-2016,Male,Finished,3:08:05,329.0, Россия,Москва,кислый стиль 
+2016,Male,Finished,3:08:05,329.0, Россия,Москва,кислый стиль
 2016,Male,Finished,3:08:07,330.0, Франция,Безансон,ASPTT Besançon
 2016,Male,Finished,3:08:07,330.0, Россия,Пермь,
 2016,Male,Finished,3:08:10,332.0, Россия,Санкт-Петербург,Serrrj
@@ -11835,7 +11835,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:10:35,376.0, Россия,НИЖНЕКАМСК,Пчёлка
 2016,Male,Finished,3:10:40,377.0, Франция,Валансьен,usva athletisme
 2016,Male,Finished,3:10:40,377.0, Россия,Москва,лично
-2016,Male,Finished,3:10:41,379.0, Россия,Железнодорожный,КЛБ 
+2016,Male,Finished,3:10:41,379.0, Россия,Железнодорожный,КЛБ
 2016,Male,Finished,3:10:41,379.0, Россия,Москва,Sberbank Triathlon Team
 2016,Male,Finished,3:10:44,381.0, Россия,Москва,
 2016,Male,Finished,3:10:44,381.0, Россия,Киров,"велоклуб Тандем, Х-Киров"
@@ -11887,7 +11887,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:12:33,428.0, Россия,Москва,Крылатый батальон
 2016,Male,Finished,3:12:33,428.0, Россия,КЛИН,Клин
 2016,Male,Finished,3:12:35,430.0, Россия,Москва,
-2016,Male,Finished,3:12:35,430.0, Россия,Москва,АНО 
+2016,Male,Finished,3:12:35,430.0, Россия,Москва,АНО
 2016,Male,Finished,3:12:35,430.0, Россия,Москва,Парсек
 2016,Male,Finished,3:12:35,430.0, Россия,ЧЕРНЯХОВСК,Insterburg Runners
 2016,Male,Finished,3:12:37,434.0, Россия,Москва,
@@ -11900,7 +11900,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:12:45,441.0, Россия,Москва,
 2016,Male,Finished,3:12:46,442.0, Россия,Москва,
 2016,Male,Finished,3:12:47,443.0, Россия,Москва,
-2016,Male,Finished,3:12:50,444.0, Россия,Невьянск,СК 
+2016,Male,Finished,3:12:50,444.0, Россия,Невьянск,СК
 2016,Male,Finished,3:12:51,445.0, Россия,ШУШАРЫ,
 2016,Male,Finished,3:12:51,445.0, Россия,Москва,
 2016,Male,Finished,3:12:52,447.0, Россия,Санкт-Петербург,Piranha
@@ -11908,13 +11908,13 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:12:56,449.0, Россия,Москва,MOEX RUN
 2016,Male,Finished,3:12:57,450.0, Россия,Москва,Lomonosov MSU
 2016,Male,Finished,3:13:01,451.0, Россия,ЛЮБЕРЦЫ,Сенеж
-2016,Male,Finished,3:13:01,451.0, Россия,Уфа,Беговой клуб 
+2016,Male,Finished,3:13:01,451.0, Россия,Уфа,Беговой клуб
 2016,Male,Finished,3:13:02,453.0, Испания,Барселона,
 2016,Male,Finished,3:13:03,454.0, Россия,Москва,Чёрная каракатица
 2016,Male,Finished,3:13:04,455.0, Россия,Москва,
 2016,Male,Finished,3:13:04,455.0, Россия,Москва,MOEXRUN
 2016,Male,Finished,3:13:05,457.0, Россия,Москва,
-2016,Male,Finished,3:13:06,458.0, Украина,Киев,Deutsche Bank 
+2016,Male,Finished,3:13:06,458.0, Украина,Киев,Deutsche Bank
 2016,Male,Finished,3:13:07,459.0, Россия,Москва,
 2016,Male,Finished,3:13:08,460.0, Россия,Новосибирск,
 2016,Male,Finished,3:13:09,461.0, Россия,Вязьма,Вязьма
@@ -11983,7 +11983,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:15:24,524.0, Россия,Москва,
 2016,Male,Finished,3:15:26,525.0, Латвия,Рига,
 2016,Male,Finished,3:15:31,526.0, Россия,Москва,
-2016,Male,Finished,3:15:38,527.0, Россия,Москва,Rockets 
+2016,Male,Finished,3:15:38,527.0, Россия,Москва,Rockets
 2016,Male,Finished,3:15:39,528.0, Россия,Санкт-Петербург,
 2016,Male,Finished,3:15:40,529.0, Россия,Москва,Ипподром / Hippodrome
 2016,Male,Finished,3:15:42,530.0, Россия,Москва,
@@ -12027,7 +12027,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:17:12,567.0, Россия,Королев,
 2016,Male,Finished,3:17:15,569.0, Россия,Владимир,СК имени М.Серегина
 2016,Male,Finished,3:17:18,570.0, Россия,Волгоград,
-2016,Male,Finished,3:17:22,571.0, Россия,ТРОИЦК,лыжная база 
+2016,Male,Finished,3:17:22,571.0, Россия,ТРОИЦК,лыжная база
 2016,Male,Finished,3:17:24,572.0, Россия,Москва,
 2016,Male,Finished,3:17:25,573.0, Германия,Биберах-на-Рисе,DASH Researcheries
 2016,Male,Finished,3:17:31,574.0, Россия,Москва,БИМ
@@ -12046,7 +12046,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:17:58,587.0, Россия,Москва,VIKTORIA TEAM
 2016,Male,Finished,3:18:00,588.0, Россия,Москва,МГТУ им. Баумана
 2016,Male,Finished,3:18:02,589.0, Россия,Рязань,Аэробия
-2016,Male,Finished,3:18:03,590.0, Россия,Москва,СК 
+2016,Male,Finished,3:18:03,590.0, Россия,Москва,СК
 2016,Male,Finished,3:18:09,591.0, Россия,Москва,
 2016,Male,Finished,3:18:14,592.0, Россия,Москва,Крок/Гепард
 2016,Male,Finished,3:18:16,593.0, Россия,Москва,
@@ -12110,11 +12110,11 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:20:16,651.0, Россия,Москва,
 2016,Male,Finished,3:20:17,652.0, Россия,Москва,21 runners/ КСИЛ
 2016,Male,Finished,3:20:18,653.0, Россия,Москва,Dreams come true
-2016,Male,Finished,3:20:18,653.0, Россия,Москва,КЛБ 
+2016,Male,Finished,3:20:18,653.0, Россия,Москва,КЛБ
 2016,Male,Finished,3:20:19,655.0, Россия,Москва,
 2016,Male,Finished,3:20:22,656.0, Беларусь,БАРАНОВИЧИ,
 2016,Male,Finished,3:20:23,657.0, Россия,Москва,Аэробия
-2016,Male,Finished,3:20:23,657.0, Россия,Киров,Беговой клуб 
+2016,Male,Finished,3:20:23,657.0, Россия,Киров,Беговой клуб
 2016,Male,Finished,3:20:24,659.0, Россия,Москва,
 2016,Male,Finished,3:20:25,660.0, Россия,Белгород,Бодрячок
 2016,Male,Finished,3:20:25,660.0, Россия,Белгород,Бодрячок
@@ -12140,7 +12140,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:21:06,681.0, Россия,СУРГУТ,
 2016,Male,Finished,3:21:07,682.0, Россия,Самара,Вверх тормашками
 2016,Male,Finished,3:21:10,683.0, Россия,Москва,ГАЛУШЕЧКИ
-2016,Male,Finished,3:21:11,684.0, Россия,Санкт-Петербург,АО 
+2016,Male,Finished,3:21:11,684.0, Россия,Санкт-Петербург,АО
 2016,Male,Finished,3:21:14,685.0, Россия,Электросталь,
 2016,Male,Finished,3:21:14,685.0, Россия,Москва,
 2016,Male,Finished,3:21:15,687.0, Россия,Брянск,
@@ -12180,7 +12180,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:22:19,721.0, Россия,Москва,Philips/ProTrener
 2016,Male,Finished,3:22:20,722.0, Россия,Москва,МГУ
 2016,Male,Finished,3:22:23,723.0, Россия,Москва,Ямал
-2016,Male,Finished,3:22:24,724.0, Россия,Москва,Содрежество здоровья 
+2016,Male,Finished,3:22:24,724.0, Россия,Москва,Содрежество здоровья
 2016,Male,Finished,3:22:24,724.0, Россия,Москва,
 2016,Male,Finished,3:22:25,726.0, Дания,Копенгаген,tri-team-4220
 2016,Male,Finished,3:22:28,727.0, Россия,Москва,Saber team
@@ -12286,7 +12286,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:25:07,827.0, Россия,Москва,
 2016,Male,Finished,3:25:08,828.0, Россия,Москва,
 2016,Male,Finished,3:25:10,829.0, Россия,Москва,
-2016,Male,Finished,3:25:11,830.0, Россия,Москва,HSE Athletes 
+2016,Male,Finished,3:25:11,830.0, Россия,Москва,HSE Athletes
 2016,Male,Finished,3:25:11,830.0, Россия,Владимир,World Gym Running Club
 2016,Male,Finished,3:25:11,830.0, Россия,Москва,
 2016,Male,Finished,3:25:12,833.0, Россия,Москва,
@@ -12364,7 +12364,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:26:29,904.0, Швеция,Стокгольм,Неудержимые
 2016,Male,Finished,3:26:32,906.0, Россия,Москва,
 2016,Male,Finished,3:26:32,906.0, Россия,Нижняя Салда,
-2016,Male,Finished,3:26:33,908.0, Россия,Нижний Новгород,Нижегородская академия МВД РФ 
+2016,Male,Finished,3:26:33,908.0, Россия,Нижний Новгород,Нижегородская академия МВД РФ
 2016,Male,Finished,3:26:34,909.0, Россия,Москва,Smart Recovery
 2016,Male,Finished,3:26:34,909.0, Россия,Москва,
 2016,Male,Finished,3:26:35,911.0, Россия,Москва,
@@ -12391,7 +12391,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:27:02,931.0, Россия,Москва,
 2016,Male,Finished,3:27:02,931.0, Россия,Москва,
 2016,Male,Finished,3:27:04,934.0, Россия,Москва,Adidas Runclab Fili
-2016,Male,Finished,3:27:04,934.0, Россия,Санкт-Петербург,ОАО 
+2016,Male,Finished,3:27:04,934.0, Россия,Санкт-Петербург,ОАО
 2016,Male,Finished,3:27:05,936.0, Венгрия,Дебрецен,
 2016,Male,Finished,3:27:06,937.0, Россия,Москва,
 2016,Male,Finished,3:27:06,937.0, Россия,Москва,Myself
@@ -12406,7 +12406,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:27:17,946.0, Бельгия,Антверпен,Rhythm 'n' Run Marathonclub
 2016,Male,Finished,3:27:19,948.0, Россия,КУБИНКА,ЦФКиС
 2016,Male,Finished,3:27:19,948.0, Украина,Полтава,
-2016,Male,Finished,3:27:19,948.0, Россия,Москва,КЛБ 
+2016,Male,Finished,3:27:19,948.0, Россия,Москва,КЛБ
 2016,Male,Finished,3:27:22,951.0, Россия,Москва,
 2016,Male,Finished,3:27:23,952.0, Россия,Нижний Новгород,
 2016,Male,Finished,3:27:25,953.0, Россия,СЛОБОДСКОЙ,
@@ -12454,7 +12454,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:28:18,995.0, Россия,Великий Новгород,
 2016,Male,Finished,3:28:18,995.0, Россия,Рязань,Parkrun Ryazan
 2016,Male,Finished,3:28:22,997.0, Россия,Москва,RRC Run Club
-2016,Male,Finished,3:28:22,997.0, Россия,Москва,КЛЭБ 
+2016,Male,Finished,3:28:22,997.0, Россия,Москва,КЛЭБ
 2016,Male,Finished,3:28:22,997.0, Россия,Москва,
 2016,Male,Finished,3:28:22,997.0, Россия,Санкт-Петербург,
 2016,Male,Finished,3:28:23,1001.0, Россия,Москва,
@@ -12527,7 +12527,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:30:14,1067.0, Россия,Москва,
 2016,Male,Finished,3:30:15,1069.0, Россия,Москва,
 2016,Male,Finished,3:30:16,1070.0, Россия,Уфа,ILOVERUNNING
-2016,Male,Finished,3:30:16,1070.0, Россия,Рязань,Аматор 
+2016,Male,Finished,3:30:16,1070.0, Россия,Рязань,Аматор
 2016,Male,Finished,3:30:17,1072.0, Беларусь,Минск,
 2016,Male,Finished,3:30:19,1073.0, Россия,Москва,Sinergia Triathlon Team
 2016,Male,Finished,3:30:19,1073.0, Россия,Москва,
@@ -12694,7 +12694,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:34:06,1235.0, Россия,Череповец,
 2016,Male,Finished,3:34:07,1236.0, Россия,Москва,Тренировочный центр Всеволода Худякова/Парсек
 2016,Male,Finished,3:34:07,1236.0, Россия,Королев,PSB Running Team
-2016,Male,Finished,3:34:08,1238.0, Россия,Москва,СК 
+2016,Male,Finished,3:34:08,1238.0, Россия,Москва,СК
 2016,Male,Finished,3:34:10,1239.0, Россия,Каменск-Уральский,Исеть
 2016,Male,Finished,3:34:14,1240.0, Россия,Нижний Новгород,
 2016,Male,Finished,3:34:14,1240.0, Россия,Санкт-Петербург,
@@ -12805,7 +12805,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:36:23,1346.0, Россия,Москва,
 2016,Male,Finished,3:36:24,1347.0, Россия,Москва,
 2016,Male,Finished,3:36:25,1348.0, Швейцария,Цюрих,
-2016,Male,Finished,3:36:26,1349.0, Россия,Москва,TRIKO CLUB 
+2016,Male,Finished,3:36:26,1349.0, Россия,Москва,TRIKO CLUB
 2016,Male,Finished,3:36:27,1350.0, Россия,Москва,Mikkeller Running Club Moscow
 2016,Male,Finished,3:36:29,1351.0, Россия,Москва,
 2016,Male,Finished,3:36:30,1352.0, Россия,Москва,0
@@ -12822,7 +12822,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:36:43,1363.0, Россия,Санкт-Петербург,
 2016,Male,Finished,3:36:44,1364.0, Бельгия,Антверпен,Rhythm 'n' Run Marathonclub
 2016,Male,Finished,3:36:45,1365.0, Россия,Белгород,
-2016,Male,Finished,3:36:46,1366.0, Россия,Москва,самостоятельно 
+2016,Male,Finished,3:36:46,1366.0, Россия,Москва,самостоятельно
 2016,Male,Finished,3:36:47,1367.0, Франция,Лион,FRANCE
 2016,Male,Finished,3:36:52,1368.0, Россия,ЛОБНЯ,Альпклуб МАИ
 2016,Male,Finished,3:36:53,1369.0, Россия,Москва,
@@ -12923,7 +12923,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:38:33,1463.0, Россия,Москва,
 2016,Male,Finished,3:38:34,1465.0, Россия,Москва,
 2016,Male,Finished,3:38:34,1465.0, Россия,Москва,
-2016,Male,Finished,3:38:35,1467.0, Россия,ЛЕНИНОГОРСК,Спортивный клуб 
+2016,Male,Finished,3:38:35,1467.0, Россия,ЛЕНИНОГОРСК,Спортивный клуб
 2016,Male,Finished,3:38:35,1467.0, Россия,Москва,
 2016,Male,Finished,3:38:38,1469.0, Россия,Зеленоград,FastRun
 2016,Male,Finished,3:38:39,1470.0, Германия,Берлин,
@@ -12962,13 +12962,13 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:39:11,1503.0, Россия,Москва,IRC
 2016,Male,Finished,3:39:14,1504.0, Россия,Москва,Adidas Runners
 2016,Male,Finished,3:39:14,1504.0, Россия,Москва,
-2016,Male,Finished,3:39:16,1506.0, Россия,Калуга,МОУ 
+2016,Male,Finished,3:39:16,1506.0, Россия,Калуга,МОУ
 2016,Male,Finished,3:39:20,1507.0, Германия,Мангейм,
 2016,Male,Finished,3:39:21,1508.0, Польша,Краков,Orange Polska
 2016,Male,Finished,3:39:22,1509.0, Россия,Королев,RRUNS
 2016,Male,Finished,3:39:22,1509.0, Россия,Москва,
 2016,Male,Finished,3:39:23,1511.0, Россия,КАЗАНЬ,мотор
-2016,Male,Finished,3:39:23,1511.0, Россия,Москва,Энергия 
+2016,Male,Finished,3:39:23,1511.0, Россия,Москва,Энергия
 2016,Male,Finished,3:39:23,1511.0, Россия,Москва,
 2016,Male,Finished,3:39:24,1514.0, Россия,Владимир,
 2016,Male,Finished,3:39:26,1515.0, Россия,Железнодорожный,
@@ -13031,7 +13031,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:40:31,1570.0, Россия,Москва,
 2016,Male,Finished,3:40:36,1573.0, Россия,Москва,Four Marathons
 2016,Male,Finished,3:40:38,1574.0, Россия,Санкт-Петербург,St Petersburg Runners
-2016,Male,Finished,3:40:40,1575.0, Россия,Москва,ООО 
+2016,Male,Finished,3:40:40,1575.0, Россия,Москва,ООО
 2016,Male,Finished,3:40:40,1575.0, Эстония,Таллин,
 2016,Male,Finished,3:40:40,1575.0, Россия,Курск,VeloKursk
 2016,Male,Finished,3:40:42,1578.0, Россия,Москва,
@@ -13150,7 +13150,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:42:35,1691.0, Россия,СЕВЕРОДВИНСК,Замерзший Северянин
 2016,Male,Finished,3:42:37,1692.0, Россия,Москва,
 2016,Male,Finished,3:42:38,1693.0, Россия,Москва,
-2016,Male,Finished,3:42:38,1693.0, Россия,Москва,www.r-dump.com - Ваш успешный проводник в мире IT-решений! 
+2016,Male,Finished,3:42:38,1693.0, Россия,Москва,www.r-dump.com - Ваш успешный проводник в мире IT-решений!
 2016,Male,Finished,3:42:38,1693.0, Россия,Москва,
 2016,Male,Finished,3:42:39,1696.0, Россия,Москва,
 2016,Male,Finished,3:42:39,1696.0, Россия,Москва,
@@ -13168,7 +13168,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:42:49,1708.0, Россия,Королев,
 2016,Male,Finished,3:42:49,1708.0, Россия,Санкт-Петербург,Синяя собака
 2016,Male,Finished,3:42:55,1711.0, Россия,Москва,CRAZY RUNNERS PARIS
-2016,Male,Finished,3:42:57,1712.0, Россия,Красноярск,школа горного бега 
+2016,Male,Finished,3:42:57,1712.0, Россия,Красноярск,школа горного бега
 2016,Male,Finished,3:42:58,1713.0, Россия,Москва,
 2016,Male,Finished,3:42:58,1713.0, Россия,ИСТРА,---
 2016,Male,Finished,3:42:59,1715.0, Россия,Москва,
@@ -13246,7 +13246,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:43:48,1784.0, Россия,Москва,
 2016,Male,Finished,3:43:49,1788.0, Россия,Москва,
 2016,Male,Finished,3:43:49,1788.0, Нидерланды,Амстердам,
-2016,Male,Finished,3:43:49,1788.0, Россия,Санкт-Петербург,КЛБ 
+2016,Male,Finished,3:43:49,1788.0, Россия,Санкт-Петербург,КЛБ
 2016,Male,Finished,3:43:49,1788.0,,,
 2016,Male,Finished,3:43:49,1788.0, Россия,Улан-Удэ,
 2016,Male,Finished,3:43:51,1793.0, Россия,Москва,
@@ -13375,7 +13375,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:45:43,1916.0, Россия,Москва,
 2016,Male,Finished,3:45:44,1917.0, Венгрия,Дебрецен,
 2016,Male,Finished,3:45:45,1918.0, Россия,Москва,Tommy89
-2016,Male,Finished,3:45:45,1918.0, Россия,Вологда,Белый ручей 
+2016,Male,Finished,3:45:45,1918.0, Россия,Вологда,Белый ручей
 2016,Male,Finished,3:45:45,1918.0, Россия,Москва,
 2016,Male,Finished,3:45:46,1921.0, Россия,Санкт-Петербург,DIVE-X-CAVE
 2016,Male,Finished,3:45:48,1922.0, Россия,Москва,Montserrat Running Club
@@ -13415,7 +13415,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:46:31,1956.0, Россия,Москва,Динамо
 2016,Male,Finished,3:46:31,1956.0, Россия,ДОЛГОПРУДНЫЙ,Yeah!
 2016,Male,Finished,3:46:31,1956.0, Россия,Москва,
-2016,Male,Finished,3:46:32,1959.0, Россия,Новосибирск,КЛБ 
+2016,Male,Finished,3:46:32,1959.0, Россия,Новосибирск,КЛБ
 2016,Male,Finished,3:46:34,1960.0, Гонконг,Гонконг,
 2016,Male,Finished,3:46:35,1961.0, Россия,Тюмень,Строительный двор
 2016,Male,Finished,3:46:36,1962.0, Россия,Москва,I love running
@@ -13497,7 +13497,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:47:37,2038.0, Россия,Москва,МАИ
 2016,Male,Finished,3:47:38,2039.0, Россия,ЭЛЕКТРОУГЛИ,мир
 2016,Male,Finished,3:47:38,2039.0, Россия,Москва,Running Expert
-2016,Male,Finished,3:47:38,2039.0, Россия,Москва,ЛК 
+2016,Male,Finished,3:47:38,2039.0, Россия,Москва,ЛК
 2016,Male,Finished,3:47:40,2042.0, Россия,КЛИН,
 2016,Male,Finished,3:47:42,2043.0, Россия,Москва,ЦиклоON
 2016,Male,Finished,3:47:42,2043.0, Россия,Москва,Epic Run
@@ -13681,7 +13681,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:50:08,2222.0, Россия,Москва,
 2016,Male,Finished,3:50:08,2222.0, Россия,ПУШКИНО,
 2016,Male,Finished,3:50:08,2222.0, Россия,Москва,
-2016,Male,Finished,3:50:08,2222.0, Россия,Нижний Новгород, АО 
+2016,Male,Finished,3:50:08,2222.0, Россия,Нижний Новгород,АО
 2016,Male,Finished,3:50:08,2222.0, Украина,Киев,
 2016,Male,Finished,3:50:09,2227.0, Россия,Москва,
 2016,Male,Finished,3:50:10,2228.0, Россия,Калуга,
@@ -13728,7 +13728,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:50:50,2269.0, Россия,Москва,ЦиклON
 2016,Male,Finished,3:50:51,2270.0, Россия,Тюмень,Строительный двор
 2016,Male,Finished,3:50:51,2270.0, Россия,Санкт-Петербург,proRunning
-2016,Male,Finished,3:50:54,2272.0, Россия,Санкт-Петербург,ФСО 
+2016,Male,Finished,3:50:54,2272.0, Россия,Санкт-Петербург,ФСО
 2016,Male,Finished,3:50:54,2272.0, Россия,Липецк,
 2016,Male,Finished,3:50:55,2274.0, Россия,КИМРЫ,Challenger
 2016,Male,Finished,3:50:56,2275.0, Россия,Москва,БК им. Ленина
@@ -13772,7 +13772,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:51:38,2313.0, Франция,Лион,University Lyon 1
 2016,Male,Finished,3:51:39,2314.0, Россия,Москва,
 2016,Male,Finished,3:51:40,2315.0, Россия,Москва,
-2016,Male,Finished,3:51:41,2316.0, Россия,ДЗЕРЖИНСК,ФОК 
+2016,Male,Finished,3:51:41,2316.0, Россия,ДЗЕРЖИНСК,ФОК
 2016,Male,Finished,3:51:41,2316.0,,,42TRIP
 2016,Male,Finished,3:51:46,2318.0, Россия,Москва,
 2016,Male,Finished,3:51:47,2319.0, Россия,Москва,
@@ -13843,7 +13843,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:52:48,2384.0, Россия,Красноармейск,
 2016,Male,Finished,3:52:48,2384.0, Россия,Москва,
 2016,Male,Finished,3:52:49,2386.0, Великобритания,Лондон,N/A
-2016,Male,Finished,3:52:49,2386.0, Россия,ХАБАРОВСК,Хабаровский клуб любителей лыжного спорта 
+2016,Male,Finished,3:52:49,2386.0, Россия,ХАБАРОВСК,Хабаровский клуб любителей лыжного спорта
 2016,Male,Finished,3:52:50,2388.0, Россия,Москва,
 2016,Male,Finished,3:52:50,2388.0, Россия,Москва,
 2016,Male,Finished,3:52:56,2390.0, Россия,Москва,
@@ -13861,7 +13861,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:53:14,2402.0, Россия,Пермь,
 2016,Male,Finished,3:53:14,2402.0, Россия,Москва,
 2016,Male,Finished,3:53:14,2402.0, Россия,Санкт-Петербург,
-2016,Male,Finished,3:53:14,2402.0, Польша,Бяла-Подляска,ORANGE POLSKA 
+2016,Male,Finished,3:53:14,2402.0, Польша,Бяла-Подляска,ORANGE POLSKA
 2016,Male,Finished,3:53:14,2402.0, Россия,Похвистнево,
 2016,Male,Finished,3:53:15,2407.0, Россия,Санкт-Петербург,
 2016,Male,Finished,3:53:16,2408.0, Россия,Москва,Винни Пух
@@ -13911,7 +13911,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:53:58,2450.0, Россия,Москва,МГУ им.М.В.Ломоносова
 2016,Male,Finished,3:54:00,2453.0, Россия,Вологда,Run35
 2016,Male,Finished,3:54:00,2453.0, Россия,Москва,
-2016,Male,Finished,3:54:00,2453.0, Россия,Москва, 
+2016,Male,Finished,3:54:00,2453.0, Россия,Москва,
 2016,Male,Finished,3:54:00,2453.0, Россия,Мытищи,
 2016,Male,Finished,3:54:00,2453.0, Россия,Москва,
 2016,Male,Finished,3:54:01,2458.0, Россия,ЛЮБЕРЦЫ,
@@ -13951,7 +13951,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:54:33,2491.0, Россия,Москва,22ио
 2016,Male,Finished,3:54:34,2493.0, Россия,Москва,Wake&Run
 2016,Male,Finished,3:54:34,2493.0, Россия,Санкт-Петербург,
-2016,Male,Finished,3:54:35,2495.0, Россия,Балашиха,КЛБ 
+2016,Male,Finished,3:54:35,2495.0, Россия,Балашиха,КЛБ
 2016,Male,Finished,3:54:35,2495.0, Россия,Москва,МИР
 2016,Male,Finished,3:54:36,2497.0, Россия,Москва,
 2016,Male,Finished,3:54:36,2497.0, Россия,Москва,
@@ -13964,13 +13964,13 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:54:41,2504.0, Россия,Москва,
 2016,Male,Finished,3:54:42,2506.0, Россия,Москва,I love running
 2016,Male,Finished,3:54:44,2507.0, Россия,ЗАРЕЧНЫЙ,
-2016,Male,Finished,3:54:45,2508.0, Россия,Москва,ЗЭТ ЭНЕРГО 
+2016,Male,Finished,3:54:45,2508.0, Россия,Москва,ЗЭТ ЭНЕРГО
 2016,Male,Finished,3:54:45,2508.0, Россия,Москва,
 2016,Male,Finished,3:54:45,2508.0, Россия,Москва,
 2016,Male,Finished,3:54:48,2511.0, Россия,Санкт-Петербург,
 2016,Male,Finished,3:54:49,2512.0, Россия,Москва,
 2016,Male,Finished,3:54:49,2512.0, Словения,Любляна,Urbani tekaci
-2016,Male,Finished,3:54:51,2514.0, Россия,КАЗАНЬ,I love running 
+2016,Male,Finished,3:54:51,2514.0, Россия,КАЗАНЬ,I love running
 2016,Male,Finished,3:54:52,2515.0, Россия,Москва,Babba Bia!
 2016,Male,Finished,3:54:53,2516.0, Россия,Москва,
 2016,Male,Finished,3:54:53,2516.0, Россия,Королев,Абрис
@@ -14138,7 +14138,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:57:00,2677.0, Россия,Москва,Факел (Москва)
 2016,Male,Finished,3:57:00,2677.0, Россия,ПАВЛОВСКИЙ ПОСАД,П.Посадские КАБАНЫ
 2016,Male,Finished,3:57:01,2681.0, Россия,Тула,
-2016,Male,Finished,3:57:01,2681.0, Словакия,Жилина,Right Power 
+2016,Male,Finished,3:57:01,2681.0, Словакия,Жилина,Right Power
 2016,Male,Finished,3:57:02,2683.0, Россия,Климовск,Runroom
 2016,Male,Finished,3:57:02,2683.0, Россия,Москва,
 2016,Male,Finished,3:57:03,2685.0, Россия,Москва,
@@ -14164,7 +14164,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:57:15,2705.0, Россия,Москва,Runners ultra
 2016,Male,Finished,3:57:15,2705.0, Россия,Санкт-Петербург,
 2016,Male,Finished,3:57:15,2705.0, Россия,Тула,
-2016,Male,Finished,3:57:16,2708.0, Россия,Санкт-Петербург,Russian California Running Club 
+2016,Male,Finished,3:57:16,2708.0, Россия,Санкт-Петербург,Russian California Running Club
 2016,Male,Finished,3:57:17,2709.0, Россия,ГУБАХА,Метафракс
 2016,Male,Finished,3:57:18,2710.0, Россия,Москва,
 2016,Male,Finished,3:57:18,2710.0, Россия,Москва,
@@ -14183,7 +14183,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:57:30,2722.0, Беларусь,Гомель,"Сож (Гомель, Беларусь)"
 2016,Male,Finished,3:57:31,2725.0, Россия,Москва,
 2016,Male,Finished,3:57:33,2726.0, Россия,Москва,Бегуны КРОК
-2016,Male,Finished,3:57:35,2727.0, Россия,Москва, Беговой клуб NIKE+
+2016,Male,Finished,3:57:35,2727.0, Россия,Москва,Беговой клуб NIKE+
 2016,Male,Finished,3:57:35,2727.0, Россия,Калининград,
 2016,Male,Finished,3:57:36,2729.0, Россия,Москва,
 2016,Male,Finished,3:57:36,2729.0, Россия,Ярославль,ТЕМП
@@ -14277,7 +14277,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:58:35,2818.0, Россия,Москва,BONAMAN
 2016,Male,Finished,3:58:35,2818.0, Россия,Москва,
 2016,Male,Finished,3:58:35,2818.0, Россия,Москва,Adidas run club Otradnoe
-2016,Male,Finished,3:58:36,2821.0, Россия,КАЗАНЬ, 
+2016,Male,Finished,3:58:36,2821.0, Россия,КАЗАНЬ,
 2016,Male,Finished,3:58:37,2822.0, Россия,Москва,
 2016,Male,Finished,3:58:37,2822.0, Россия,ДОНСКОЙ,Crossfit NMSK
 2016,Male,Finished,3:58:38,2824.0, Россия,Москва,Siz Crew
@@ -14336,7 +14336,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:59:09,2876.0, Россия,Москва,
 2016,Male,Finished,3:59:09,2876.0, Россия,Москва,
 2016,Male,Finished,3:59:09,2876.0, Россия,Москва,
-2016,Male,Finished,3:59:09,2876.0, Россия,Москва,Corfu sea runners 
+2016,Male,Finished,3:59:09,2876.0, Россия,Москва,Corfu sea runners
 2016,Male,Finished,3:59:10,2881.0, Россия,Санкт-Петербург,Динамо
 2016,Male,Finished,3:59:11,2882.0, Россия,Москва,
 2016,Male,Finished,3:59:11,2882.0, Россия,ДОЛГОПРУДНЫЙ,Котовские моржи
@@ -14360,7 +14360,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:59:25,2901.0, Россия,Москва,
 2016,Male,Finished,3:59:26,2902.0, Россия,Москва,
 2016,Male,Finished,3:59:27,2903.0, Россия,Москва,Simonov
-2016,Male,Finished,3:59:28,2904.0, Россия,Нижний Новгород,КЛБ 
+2016,Male,Finished,3:59:28,2904.0, Россия,Нижний Новгород,КЛБ
 2016,Male,Finished,3:59:28,2904.0, Россия,Москва,adidas runners
 2016,Male,Finished,3:59:32,2906.0, Россия,Москва,Wake&Run
 2016,Male,Finished,3:59:34,2907.0, Россия,Москва,
@@ -14370,7 +14370,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,3:59:38,2910.0, Россия,Москва,
 2016,Male,Finished,3:59:40,2912.0, Россия,Москва,
 2016,Male,Finished,3:59:41,2913.0, Россия,Москва,
-2016,Male,Finished,3:59:41,2913.0, Россия,Саранск,ГАУ РМ 
+2016,Male,Finished,3:59:41,2913.0, Россия,Саранск,ГАУ РМ
 2016,Male,Finished,3:59:46,2915.0, Россия,Москва,Беговой клуб Nike парк Горького
 2016,Male,Finished,3:59:47,2916.0, Россия,Москва,
 2016,Male,Finished,3:59:47,2916.0, Россия,Нижний Новгород,
@@ -14417,7 +14417,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:00:33,2958.0, Россия,Москва,
 2016,Male,Finished,4:00:33,2958.0, Россия,Москва,
 2016,Male,Finished,4:00:33,2958.0, Россия,Академгородок,
-2016,Male,Finished,4:00:34,2961.0, Россия,Москва,Fatty runners  
+2016,Male,Finished,4:00:34,2961.0, Россия,Москва,Fatty runners
 2016,Male,Finished,4:00:35,2962.0, Россия,Москва,Ligerion
 2016,Male,Finished,4:00:36,2963.0, Россия,Климовск,
 2016,Male,Finished,4:00:36,2963.0, Россия,Самара,
@@ -14438,13 +14438,13 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:00:53,2979.0, Россия,Санкт-Петербург,
 2016,Male,Finished,4:00:54,2980.0, Россия,Самара,
 2016,Male,Finished,4:00:54,2980.0, Россия,Ярославль,
-2016,Male,Finished,4:00:56,2982.0, Россия,Химки,ФГУП 
+2016,Male,Finished,4:00:56,2982.0, Россия,Химки,ФГУП
 2016,Male,Finished,4:00:58,2983.0, Нидерланды,Роттердам,
 2016,Male,Finished,4:00:58,2983.0, Россия,Москва,Русское географическое общество
 2016,Male,Finished,4:00:59,2985.0, Россия,Керчь,
 2016,Male,Finished,4:00:59,2985.0, Россия,Москва,
 2016,Male,Finished,4:00:59,2985.0, Нидерланды,Роттердам,
-2016,Male,Finished,4:01:00,2988.0, Россия,Вышний Волочек,спортивный клуб 
+2016,Male,Finished,4:01:00,2988.0, Россия,Вышний Волочек,спортивный клуб
 2016,Male,Finished,4:01:01,2989.0, Россия,Санкт-Петербург,
 2016,Male,Finished,4:01:02,2990.0, Россия,Москва,
 2016,Male,Finished,4:01:02,2990.0, Россия,ЛЮБЕРЦЫ,
@@ -14484,7 +14484,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:01:38,3025.0, Казахстан,Астана,
 2016,Male,Finished,4:01:39,3026.0, Россия,Москва,ПРУБЕГ
 2016,Male,Finished,4:01:40,3027.0, Россия,Москва,
-2016,Male,Finished,4:01:40,3027.0, Россия,Москва,Адидас Метрополис 
+2016,Male,Finished,4:01:40,3027.0, Россия,Москва,Адидас Метрополис
 2016,Male,Finished,4:01:41,3029.0, Россия,Краснознаменск,
 2016,Male,Finished,4:01:44,3030.0, Россия,Москва,RTEAM
 2016,Male,Finished,4:01:44,3030.0, Россия,Владимир,
@@ -14496,7 +14496,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:01:49,3037.0, Россия,Кострома,
 2016,Male,Finished,4:01:49,3037.0, Россия,Красноярск,I Love Running
 2016,Male,Finished,4:01:50,3039.0, Россия,Москва,Retailrunningclub
-2016,Male,Finished,4:01:52,3040.0, Россия,Москва,БК МЫ ВМЕСТЕ 
+2016,Male,Finished,4:01:52,3040.0, Россия,Москва,БК МЫ ВМЕСТЕ
 2016,Male,Finished,4:01:53,3041.0, Россия,Москва,I LOVE RUNNING
 2016,Male,Finished,4:01:53,3041.0, Россия,НОВОЧЕРКАССК,
 2016,Male,Finished,4:01:55,3043.0, Россия,Москва,
@@ -14692,7 +14692,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:05:07,3232.0, Италия,Виченца,Atletica Vicentina
 2016,Male,Finished,4:05:08,3234.0, Россия,Санкт-Петербург,
 2016,Male,Finished,4:05:09,3235.0, Россия,Москва,adidas Boost team
-2016,Male,Finished,4:05:09,3235.0, Россия,Москва,Keep moving 
+2016,Male,Finished,4:05:09,3235.0, Россия,Москва,Keep moving
 2016,Male,Finished,4:05:10,3237.0, Россия,Москва,
 2016,Male,Finished,4:05:10,3237.0, Россия,Москва,
 2016,Male,Finished,4:05:12,3239.0, Россия,Москва,
@@ -14740,7 +14740,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:05:56,3281.0, Россия,Москва,Run Studio
 2016,Male,Finished,4:05:58,3282.0, Россия,Москва,Динамо
 2016,Male,Finished,4:05:59,3283.0, Россия,Москва,
-2016,Male,Finished,4:06:02,3284.0, Россия,Зеленоград,Iloveruning 
+2016,Male,Finished,4:06:02,3284.0, Россия,Зеленоград,Iloveruning
 2016,Male,Finished,4:06:03,3285.0, Россия,ЙОШКАР-ОЛА,айвика
 2016,Male,Finished,4:06:03,3285.0, Россия,Ярославль,Iron balls
 2016,Male,Finished,4:06:04,3287.0, Испания,Валенсия,0
@@ -14873,7 +14873,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:07:56,3413.0, Россия,Москва,
 2016,Male,Finished,4:07:56,3413.0, Россия,Москва,
 2016,Male,Finished,4:07:57,3416.0, Россия,Екатеринбург,Школа Леонида Швецова
-2016,Male,Finished,4:07:57,3416.0, Россия,Железнодорожный,КЛБ 
+2016,Male,Finished,4:07:57,3416.0, Россия,Железнодорожный,КЛБ
 2016,Male,Finished,4:07:57,3416.0, Россия,Москва,
 2016,Male,Finished,4:07:57,3416.0, Россия,Москва,
 2016,Male,Finished,4:08:00,3420.0, Россия,Балашиха,
@@ -14914,7 +14914,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:08:35,3453.0, Россия,Москва,
 2016,Male,Finished,4:08:36,3456.0, Россия,Москва,
 2016,Male,Finished,4:08:36,3456.0, Россия,Москва,
-2016,Male,Finished,4:08:36,3456.0, Россия,Москва, Москва МЧС
+2016,Male,Finished,4:08:36,3456.0, Россия,Москва,Москва МЧС
 2016,Male,Finished,4:08:38,3459.0, Россия,Москва,БК Обжорки
 2016,Male,Finished,4:08:38,3459.0, Россия,Москва,
 2016,Male,Finished,4:08:40,3461.0, Россия,Екатеринбург,HSE Athletes
@@ -14922,7 +14922,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:08:41,3463.0, Узбекистан,Ташкент,
 2016,Male,Finished,4:08:43,3464.0, Россия,Москва,
 2016,Male,Finished,4:08:43,3464.0, Россия,Орёл,
-2016,Male,Finished,4:08:43,3464.0, Россия,Москва,ВЛАДИМИРСКИЙ БОГАТЫРЬ 
+2016,Male,Finished,4:08:43,3464.0, Россия,Москва,ВЛАДИМИРСКИЙ БОГАТЫРЬ
 2016,Male,Finished,4:08:44,3467.0, Россия,Москва,
 2016,Male,Finished,4:08:44,3467.0, Россия,КРАСНОГОРСК,Трилайф
 2016,Male,Finished,4:08:45,3469.0, Россия,Москва,
@@ -15030,7 +15030,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:10:38,3570.0, Россия,Ивантеевка,
 2016,Male,Finished,4:10:39,3572.0, Франция,Лион,University Lyon 1
 2016,Male,Finished,4:10:41,3573.0, Россия,Москва,
-2016,Male,Finished,4:10:41,3573.0, Польша,Варшава,Леруа Мерлен Россия 
+2016,Male,Finished,4:10:41,3573.0, Польша,Варшава,Леруа Мерлен Россия
 2016,Male,Finished,4:10:41,3573.0, Польша,Гдыня,Viko by Panasonic
 2016,Male,Finished,4:10:42,3576.0, Россия,Москва,
 2016,Male,Finished,4:10:44,3577.0, Россия,Нижний Новгород,
@@ -15038,7 +15038,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:10:47,3578.0, Россия,Москва,
 2016,Male,Finished,4:10:47,3578.0, Россия,Сергиев Посад,
 2016,Male,Finished,4:10:47,3578.0, Россия,Москва,
-2016,Male,Finished,4:10:48,3582.0, Россия,Москва,Крылатый батальон 
+2016,Male,Finished,4:10:48,3582.0, Россия,Москва,Крылатый батальон
 2016,Male,Finished,4:10:49,3583.0, Россия,Москва,Динамо
 2016,Male,Finished,4:10:49,3583.0, Россия,Москва,
 2016,Male,Finished,4:10:50,3585.0, Россия,Москва,
@@ -15079,7 +15079,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:11:23,3619.0, Россия,Москва,
 2016,Male,Finished,4:11:25,3621.0, Россия,Саранск,
 2016,Male,Finished,4:11:27,3622.0, Казахстан,Алма-Ата,Алматинский клуб марафонцев
-2016,Male,Finished,4:11:28,3623.0, Россия,ПУШКИНО,КТ 
+2016,Male,Finished,4:11:28,3623.0, Россия,ПУШКИНО,КТ
 2016,Male,Finished,4:11:32,3624.0, Россия,ВАЛУЙКИ,"БиМ, IRC"
 2016,Male,Finished,4:11:33,3625.0, Россия,Москва,Wake&Run
 2016,Male,Finished,4:11:33,3625.0, Россия,Москва,
@@ -15121,7 +15121,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:12:22,3662.0, Россия,Москва,
 2016,Male,Finished,4:12:22,3662.0, Россия,Москва,АК МАИ
 2016,Male,Finished,4:12:24,3664.0, Россия,Тамбов,
-2016,Male,Finished,4:12:24,3664.0, Россия,РЫБИНСК,АО 
+2016,Male,Finished,4:12:24,3664.0, Россия,РЫБИНСК,АО
 2016,Male,Finished,4:12:24,3664.0, Россия,Москва,Mitino adidas runners
 2016,Male,Finished,4:12:25,3667.0, Россия,Москва,
 2016,Male,Finished,4:12:26,3668.0, Россия,Москва,
@@ -15161,7 +15161,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:13:03,3702.0, Россия,Москва,
 2016,Male,Finished,4:13:04,3703.0, Россия,Махачкала,
 2016,Male,Finished,4:13:05,3704.0, Россия,Калуга,0
-2016,Male,Finished,4:13:06,3705.0, Россия,Железнодорожный,КЛБ 
+2016,Male,Finished,4:13:06,3705.0, Россия,Железнодорожный,КЛБ
 2016,Male,Finished,4:13:06,3705.0, Россия,Москва,#rusnanorun
 2016,Male,Finished,4:13:07,3707.0, Россия,Москва,
 2016,Male,Finished,4:13:08,3708.0, Россия,Москва,
@@ -15187,7 +15187,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:13:26,3727.0, Россия,Москва,
 2016,Male,Finished,4:13:27,3729.0, Россия,Москва,
 2016,Male,Finished,4:13:28,3730.0, Россия,Москва,GEPARD
-2016,Male,Finished,4:13:29,3731.0, Россия,Москва,Братство 
+2016,Male,Finished,4:13:29,3731.0, Россия,Москва,Братство
 2016,Male,Finished,4:13:29,3731.0, Россия,Калуга,
 2016,Male,Finished,4:13:29,3731.0, Россия,Москва,
 2016,Male,Finished,4:13:29,3731.0, Россия,Москва,
@@ -15359,7 +15359,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:16:45,3900.0, Россия,Сергиев Посад,
 2016,Male,Finished,4:16:46,3901.0, Россия,Москва,Кобаны
 2016,Male,Finished,4:16:48,3902.0, Россия,Москва,
-2016,Male,Finished,4:16:49,3903.0, Колумбия,Богота,Nike Running Moscow 
+2016,Male,Finished,4:16:49,3903.0, Колумбия,Богота,Nike Running Moscow
 2016,Male,Finished,4:16:50,3904.0, Россия,Москва,
 2016,Male,Finished,4:16:54,3905.0, Россия,Москва,
 2016,Male,Finished,4:16:55,3906.0, Россия,Москва,Adidas
@@ -15429,21 +15429,21 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:18:01,3970.0, Россия,Москва,ФИКСАН
 2016,Male,Finished,4:18:01,3970.0, Россия,Москва,
 2016,Male,Finished,4:18:02,3972.0, Россия,Санкт-Петербург,Газпром нефть
-2016,Male,Finished,4:18:03,3973.0, Россия,ОБНИНСК,ФОК 
+2016,Male,Finished,4:18:03,3973.0, Россия,ОБНИНСК,ФОК
 2016,Male,Finished,4:18:05,3974.0, Россия,Москва,
 2016,Male,Finished,4:18:05,3974.0, Россия,Москва,
 2016,Male,Finished,4:18:07,3976.0, Россия,Москва,
 2016,Male,Finished,4:18:07,3976.0, Россия,Москва,
 2016,Male,Finished,4:18:07,3976.0, Россия,Москва,
 2016,Male,Finished,4:18:07,3976.0, Россия,Москва,
-2016,Male,Finished,4:18:08,3980.0, Россия,Москва,Iloverunning 
+2016,Male,Finished,4:18:08,3980.0, Россия,Москва,Iloverunning
 2016,Male,Finished,4:18:09,3981.0, Россия,Москва,
 2016,Male,Finished,4:18:10,3982.0, Россия,Москва,
-2016,Male,Finished,4:18:10,3982.0, Россия,Курск,КЛБ 
+2016,Male,Finished,4:18:10,3982.0, Россия,Курск,КЛБ
 2016,Male,Finished,4:18:13,3984.0, Россия,Москва,
 2016,Male,Finished,4:18:14,3985.0, Россия,Москва,Wake&Run
 2016,Male,Finished,4:18:14,3985.0, Россия,Москва,
-2016,Male,Finished,4:18:14,3985.0, Россия,Москва,DMagic 
+2016,Male,Finished,4:18:14,3985.0, Россия,Москва,DMagic
 2016,Male,Finished,4:18:15,3988.0, Россия,Москва,
 2016,Male,Finished,4:18:16,3989.0, Россия,Москва,
 2016,Male,Finished,4:18:16,3989.0, Россия,Москва,
@@ -15548,7 +15548,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:20:07,4088.0, Нидерланды,Амстердам,Max
 2016,Male,Finished,4:20:09,4090.0, Россия,Москва,
 2016,Male,Finished,4:20:10,4091.0, Германия,Биберах-на-Рисе,Team Fahrrad und Fashion Shop
-2016,Male,Finished,4:20:10,4091.0, Германия,Биберах-на-Рисе,Team Fahrrad und Fashion Shop 
+2016,Male,Finished,4:20:10,4091.0, Германия,Биберах-на-Рисе,Team Fahrrad und Fashion Shop
 2016,Male,Finished,4:20:12,4093.0, Россия,Москва,
 2016,Male,Finished,4:20:12,4093.0, Россия,Москва,Пегас
 2016,Male,Finished,4:20:13,4095.0, Россия,Москва,RUN IT!
@@ -15568,9 +15568,9 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:20:36,4109.0, Россия,Тула,
 2016,Male,Finished,4:20:37,4110.0, Россия,Химки,
 2016,Male,Finished,4:20:37,4110.0, Россия,Омск,Lumen Team
-2016,Male,Finished,4:20:38,4112.0, Россия,Петрозаводск,КЛБ 
+2016,Male,Finished,4:20:38,4112.0, Россия,Петрозаводск,КЛБ
 2016,Male,Finished,4:20:39,4113.0, Россия,Москва,
-2016,Male,Finished,4:20:41,4114.0, Россия,Москва,PSB Running Team 
+2016,Male,Finished,4:20:41,4114.0, Россия,Москва,PSB Running Team
 2016,Male,Finished,4:20:42,4115.0, Россия,Москва,
 2016,Male,Finished,4:20:44,4116.0, Россия,Москва,
 2016,Male,Finished,4:20:44,4116.0, Россия,Екатеринбург,ЕКАТЕРИНБУРГ
@@ -15644,7 +15644,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:22:01,4185.0, Россия,Москва,
 2016,Male,Finished,4:22:04,4186.0, Россия,Москва,Old School
 2016,Male,Finished,4:22:04,4186.0, Россия,Москва,
-2016,Male,Finished,4:22:04,4186.0, Россия,Москва,ЛБ 
+2016,Male,Finished,4:22:04,4186.0, Россия,Москва,ЛБ
 2016,Male,Finished,4:22:04,4186.0, Россия,Москва,
 2016,Male,Finished,4:22:06,4190.0, Россия,Москва,
 2016,Male,Finished,4:22:09,4191.0, Россия,Москва,Кунцевская семёрка
@@ -15811,7 +15811,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:24:53,4352.0, Россия,Москва,
 2016,Male,Finished,4:24:55,4353.0, Россия,Санкт-Петербург,C2B consulting group
 2016,Male,Finished,4:24:56,4354.0, Кыргызстан,Бишкек,I LOVE RUNNING
-2016,Male,Finished,4:24:58,4355.0, Россия,Москва,Орехово-Зуево 
+2016,Male,Finished,4:24:58,4355.0, Россия,Москва,Орехово-Зуево
 2016,Male,Finished,4:24:59,4356.0, Россия,Москва,
 2016,Male,Finished,4:25:02,4357.0, Россия,Москва,ButovoTeam
 2016,Male,Finished,4:25:02,4357.0, Россия,Одинцово,
@@ -15850,7 +15850,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:25:39,4391.0, Россия,Пермь,Perm runners
 2016,Male,Finished,4:25:40,4392.0, Россия,Москва,Локомотив
 2016,Male,Finished,4:25:40,4392.0, Россия,КРАСНОКАМСК,
-2016,Male,Finished,4:25:41,4394.0, Россия,Москва,Тригалия 
+2016,Male,Finished,4:25:41,4394.0, Россия,Москва,Тригалия
 2016,Male,Finished,4:25:42,4395.0, Россия,Москва,
 2016,Male,Finished,4:25:42,4395.0, Россия,Челябинск,
 2016,Male,Finished,4:25:42,4395.0, Россия,Москва,
@@ -15933,7 +15933,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:26:59,4473.0, Россия,Москва,
 2016,Male,Finished,4:27:00,4475.0, Россия,Москва,Осеченки
 2016,Male,Finished,4:27:00,4475.0, Россия,Москва,
-2016,Male,Finished,4:27:01,4477.0, Россия,Москва,ВИК 
+2016,Male,Finished,4:27:01,4477.0, Россия,Москва,ВИК
 2016,Male,Finished,4:27:01,4477.0, Россия,Москва,
 2016,Male,Finished,4:27:02,4479.0, Нидерланды,Алсмер,Dutch Runners *
 2016,Male,Finished,4:27:03,4480.0, Молдова,Кишинёв,Sporter
@@ -16050,7 +16050,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:29:10,4589.0, Великобритания,Солсбери,None
 2016,Male,Finished,4:29:11,4592.0, Россия,Санкт-Петербург,
 2016,Male,Finished,4:29:12,4593.0, Россия,Москва,
-2016,Male,Finished,4:29:13,4594.0, Россия,Москва,Хромая черепаха 
+2016,Male,Finished,4:29:13,4594.0, Россия,Москва,Хромая черепаха
 2016,Male,Finished,4:29:13,4594.0, Россия,Москва,
 2016,Male,Finished,4:29:14,4596.0, Россия,Воронеж,Бегущий Воронеж
 2016,Male,Finished,4:29:14,4596.0, Россия,Москва,
@@ -16080,10 +16080,10 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:29:37,4621.0, Венгрия,Дебрецен,
 2016,Male,Finished,4:29:37,4621.0, Россия,Москва,Run Studio
 2016,Male,Finished,4:29:39,4623.0, Россия,Зеленоград,
-2016,Male,Finished,4:29:42,4624.0, Россия,Киржач, с/к им. Михаила Серегина
+2016,Male,Finished,4:29:42,4624.0, Россия,Киржач,с/к им. Михаила Серегина
 2016,Male,Finished,4:29:43,4625.0, Россия,Москва,
 2016,Male,Finished,4:29:47,4626.0, Россия,Санкт-Петербург,
-2016,Male,Finished,4:29:47,4626.0, Россия,Москва,ООО 
+2016,Male,Finished,4:29:47,4626.0, Россия,Москва,ООО
 2016,Male,Finished,4:29:50,4628.0, Россия,Москва,
 2016,Male,Finished,4:29:50,4628.0, Россия,Москва,
 2016,Male,Finished,4:29:51,4630.0, Россия,Москва,
@@ -16100,7 +16100,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:30:00,4641.0, Россия,Санкт-Петербург,
 2016,Male,Finished,4:30:03,4642.0, Россия,Тверь,
 2016,Male,Finished,4:30:04,4643.0, Россия,Москва,
-2016,Male,Finished,4:30:04,4643.0, Россия,Москва,СК 
+2016,Male,Finished,4:30:04,4643.0, Россия,Москва,СК
 2016,Male,Finished,4:30:06,4645.0, Россия,Москва,Кроме шила и гвоздя!
 2016,Male,Finished,4:30:07,4646.0, Россия,Красноярск,I love running Красноярск
 2016,Male,Finished,4:30:08,4647.0, Россия,Кемерово,I Love Running
@@ -16120,7 +16120,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:30:28,4660.0, Россия,Москва,Нет
 2016,Male,Finished,4:30:28,4660.0, Россия,Москва,
 2016,Male,Finished,4:30:30,4663.0, Россия,Москва,
-2016,Male,Finished,4:30:30,4663.0, Россия,УДОМЛЯ,ОАО 
+2016,Male,Finished,4:30:30,4663.0, Россия,УДОМЛЯ,ОАО
 2016,Male,Finished,4:30:31,4665.0, Россия,Москва,
 2016,Male,Finished,4:30:32,4666.0, Россия,Брянск,
 2016,Male,Finished,4:30:34,4667.0, Россия,Москва,
@@ -16262,7 +16262,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:33:19,4802.0, Россия,Рязань,parkrun ryazan
 2016,Male,Finished,4:33:21,4804.0, Россия,Владимир,Бодрость
 2016,Male,Finished,4:33:21,4804.0, Россия,Москва,
-2016,Male,Finished,4:33:21,4804.0, Россия,Москва,ЛБ 
+2016,Male,Finished,4:33:21,4804.0, Россия,Москва,ЛБ
 2016,Male,Finished,4:33:22,4807.0, Россия,Москва,Гонка Героев
 2016,Male,Finished,4:33:23,4808.0, Россия,Москва,
 2016,Male,Finished,4:33:23,4808.0, Россия,Краснознаменск,
@@ -16278,7 +16278,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:33:30,4818.0, Россия,Москва,0
 2016,Male,Finished,4:33:30,4818.0, Гонконг,Гонконг,
 2016,Male,Finished,4:33:31,4821.0, Россия,Москва,
-2016,Male,Finished,4:33:31,4821.0, Россия,ЙОШКАР-ОЛА,КЛБ 
+2016,Male,Finished,4:33:31,4821.0, Россия,ЙОШКАР-ОЛА,КЛБ
 2016,Male,Finished,4:33:33,4823.0, Россия,Москва,
 2016,Male,Finished,4:33:33,4823.0, Россия,Раменское,
 2016,Male,Finished,4:33:34,4825.0, Россия,Москва,Finolog
@@ -16349,7 +16349,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:35:15,4890.0, Россия,Москва,
 2016,Male,Finished,4:35:16,4891.0, Россия,Москва,
 2016,Male,Finished,4:35:21,4892.0, Россия,РЕУТОВ,
-2016,Male,Finished,4:35:21,4892.0, Южная Корея,Сеул,moscow  Korea maraton 
+2016,Male,Finished,4:35:21,4892.0, Южная Корея,Сеул,moscow  Korea maraton
 2016,Male,Finished,4:35:28,4894.0, Россия,Москва,I Love Running
 2016,Male,Finished,4:35:30,4895.0, Россия,Москва,
 2016,Male,Finished,4:35:30,4895.0, Россия,Москва,
@@ -16372,9 +16372,9 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:35:57,4913.0, Россия,Москва,БИМ
 2016,Male,Finished,4:36:00,4914.0, Россия,Москва,
 2016,Male,Finished,4:36:01,4915.0, Россия,Москва,
-2016,Male,Finished,4:36:02,4916.0, Россия,Ростов-на-Дону,Ростов Дон Бегущий 
+2016,Male,Finished,4:36:02,4916.0, Россия,Ростов-на-Дону,Ростов Дон Бегущий
 2016,Male,Finished,4:36:02,4916.0, Россия,Москва,
-2016,Male,Finished,4:36:04,4918.0, Россия,Москва,БИН 
+2016,Male,Finished,4:36:04,4918.0, Россия,Москва,БИН
 2016,Male,Finished,4:36:08,4919.0, Россия,Ульяновск,
 2016,Male,Finished,4:36:08,4919.0, Россия,Москва,
 2016,Male,Finished,4:36:09,4921.0, Россия,Москва,
@@ -16452,10 +16452,10 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:37:40,4993.0, Россия,Москва,
 2016,Male,Finished,4:37:45,4994.0, Россия,Москва,
 2016,Male,Finished,4:37:46,4995.0, Россия,Москва,
-2016,Male,Finished,4:37:47,4996.0, Россия,Москва,НТЦ 
+2016,Male,Finished,4:37:47,4996.0, Россия,Москва,НТЦ
 2016,Male,Finished,4:37:49,4997.0, Россия,Москва,ХОРС
 2016,Male,Finished,4:37:49,4997.0, Россия,Москва,Jaxtor
-2016,Male,Finished,4:37:50,4999.0, Россия,Москва,Solitary 
+2016,Male,Finished,4:37:50,4999.0, Россия,Москва,Solitary
 2016,Male,Finished,4:37:54,5000.0, Россия,КРАСНОГОРСК,LION CROCUS
 2016,Male,Finished,4:37:55,5001.0, Россия,Москва,I.B.O.SEIBUKAI
 2016,Male,Finished,4:37:57,5002.0, Россия,Москва,
@@ -16486,7 +16486,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:38:39,5027.0, Россия,Королев,
 2016,Male,Finished,4:38:42,5028.0, Россия,Москва,IRC
 2016,Male,Finished,4:38:48,5029.0, Россия,ФРЯЗИНО,Спутник
-2016,Male,Finished,4:38:49,5030.0, Россия,ДОЛГОПРУДНЫЙ,СК 
+2016,Male,Finished,4:38:49,5030.0, Россия,ДОЛГОПРУДНЫЙ,СК
 2016,Male,Finished,4:38:50,5031.0, Россия,Москва,JusTTri
 2016,Male,Finished,4:38:53,5032.0, Россия,Москва,
 2016,Male,Finished,4:38:54,5033.0, Россия,Москва,
@@ -16502,7 +16502,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:39:05,5043.0, Италия,Милан,Marciatori San Giorgio
 2016,Male,Finished,4:39:05,5043.0, Италия,Милан,Marciatori San Giorgio
 2016,Male,Finished,4:39:07,5045.0, Россия,Москва,
-2016,Male,Finished,4:39:08,5046.0, Россия,КИМРЫ,КЛБ 
+2016,Male,Finished,4:39:08,5046.0, Россия,КИМРЫ,КЛБ
 2016,Male,Finished,4:39:08,5046.0, Россия,Балашиха,
 2016,Male,Finished,4:39:09,5048.0, Россия,Москва,
 2016,Male,Finished,4:39:10,5049.0, Россия,Москва,
@@ -16539,7 +16539,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:39:56,5079.0, Гонконг,Гонконг,
 2016,Male,Finished,4:39:57,5081.0, Россия,Санкт-Петербург,
 2016,Male,Finished,4:40:01,5082.0, Россия,Москва,
-2016,Male,Finished,4:40:01,5082.0, Россия,Псков,СКО 
+2016,Male,Finished,4:40:01,5082.0, Россия,Псков,СКО
 2016,Male,Finished,4:40:03,5084.0, Россия,Москва,
 2016,Male,Finished,4:40:04,5085.0, Нидерланды,Амстердам,
 2016,Male,Finished,4:40:13,5086.0, Россия,Санкт-Петербург,
@@ -16647,7 +16647,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:42:26,5188.0, Великобритания,Лондон,
 2016,Male,Finished,4:42:27,5189.0, Россия,Москва,Шайка-Лейка
 2016,Male,Finished,4:42:32,5190.0, Россия,Москва,
-2016,Male,Finished,4:42:33,5191.0, Россия,Москва,Клуб тайского бокса 
+2016,Male,Finished,4:42:33,5191.0, Россия,Москва,Клуб тайского бокса
 2016,Male,Finished,4:42:33,5191.0, Россия,Москва,
 2016,Male,Finished,4:42:34,5193.0, Россия,Москва,
 2016,Male,Finished,4:42:34,5193.0, Россия,Нижний Новгород,
@@ -16698,7 +16698,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:43:42,5239.0, Россия,Москва,
 2016,Male,Finished,4:43:43,5240.0, Россия,Москва,
 2016,Male,Finished,4:43:48,5241.0, Россия,Наро-Фоминск,
-2016,Male,Finished,4:43:49,5242.0, Швеция,Гётеборг,SWEDEN 
+2016,Male,Finished,4:43:49,5242.0, Швеция,Гётеборг,SWEDEN
 2016,Male,Finished,4:43:50,5243.0, Россия,Нижний Новгород,
 2016,Male,Finished,4:43:53,5244.0, Россия,Белоозёрский,#побежали же
 2016,Male,Finished,4:43:54,5245.0, Россия,Москва,
@@ -16734,7 +16734,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:44:45,5273.0, Россия,Москва,Мельдоний 14-й
 2016,Male,Finished,4:44:45,5273.0, Гонконг,Гонконг,
 2016,Male,Finished,4:44:49,5277.0, Россия,Москва,
-2016,Male,Finished,4:44:49,5277.0, Россия,Москва,smilerunners 
+2016,Male,Finished,4:44:49,5277.0, Россия,Москва,smilerunners
 2016,Male,Finished,4:44:49,5277.0, Россия,Москва,
 2016,Male,Finished,4:44:50,5280.0, Россия,Москва,smilerunners
 2016,Male,Finished,4:44:51,5281.0, Россия,Москва,
@@ -16778,7 +16778,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:45:58,5319.0, Россия,Москва,
 2016,Male,Finished,4:45:59,5320.0, Россия,КУБИНКА,
 2016,Male,Finished,4:45:59,5320.0, Россия,Тула,
-2016,Male,Finished,4:46:01,5322.0, Россия,Железнодорожный,Железный морж 
+2016,Male,Finished,4:46:01,5322.0, Россия,Железнодорожный,Железный морж
 2016,Male,Finished,4:46:02,5323.0, Россия,Санкт-Петербург,
 2016,Male,Finished,4:46:03,5324.0, Россия,ОБНИНСК,
 2016,Male,Finished,4:46:06,5325.0, Россия,Москва,
@@ -16788,10 +16788,10 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:46:13,5329.0, Россия,Москва,
 2016,Male,Finished,4:46:14,5330.0, Россия,Чебоксары,
 2016,Male,Finished,4:46:18,5331.0, Россия,Москва,
-2016,Male,Finished,4:46:20,5332.0, Россия,Москва,GAZPROMNEFT 
+2016,Male,Finished,4:46:20,5332.0, Россия,Москва,GAZPROMNEFT
 2016,Male,Finished,4:46:21,5333.0, Россия,Москва,
 2016,Male,Finished,4:46:23,5334.0, Россия,Москва,
-2016,Male,Finished,4:46:24,5335.0, Россия,Москва,Наметкина 
+2016,Male,Finished,4:46:24,5335.0, Россия,Москва,Наметкина
 2016,Male,Finished,4:46:27,5336.0, Россия,Москва,Лунный скороход
 2016,Male,Finished,4:46:28,5337.0, Россия,Москва,
 2016,Male,Finished,4:46:31,5338.0, Россия,Москва,35PHOTO
@@ -17022,7 +17022,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,4:52:08,5563.0, Россия,Рязань,RRUNS
 2016,Male,Finished,4:52:10,5564.0, Россия,Тула,
 2016,Male,Finished,4:52:11,5565.0, Россия,Москва,
-2016,Male,Finished,4:52:13,5566.0, Россия,СТРЕЖЕВОЙ,- 
+2016,Male,Finished,4:52:13,5566.0, Россия,СТРЕЖЕВОЙ,-
 2016,Male,Finished,4:52:15,5567.0, Беларусь,Минск,
 2016,Male,Finished,4:52:15,5567.0, Россия,Москва,
 2016,Male,Finished,4:52:17,5569.0, Россия,Белгород,
@@ -17298,7 +17298,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:01:36,5839.0, Россия,Москва,0
 2016,Male,Finished,5:01:43,5840.0, Россия,Москва,
 2016,Male,Finished,5:01:44,5841.0, Россия,Москва,
-2016,Male,Finished,5:01:44,5841.0, Россия,Москва,С К 
+2016,Male,Finished,5:01:44,5841.0, Россия,Москва,С К
 2016,Male,Finished,5:01:45,5843.0, Россия,Химки,
 2016,Male,Finished,5:01:49,5844.0, Россия,ТОЛЬЯТТИ,ЛюБлины
 2016,Male,Finished,5:01:50,5845.0, Россия,Москва,
@@ -17316,7 +17316,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:02:18,5857.0, Россия,Москва,Aerograd-Kolomna
 2016,Male,Finished,5:02:22,5858.0, Россия,Краснодар,Top Liga Club
 2016,Male,Finished,5:02:24,5859.0, Россия,Москва,
-2016,Male,Finished,5:02:27,5860.0, Россия,Уфа,КЛБ 
+2016,Male,Finished,5:02:27,5860.0, Россия,Уфа,КЛБ
 2016,Male,Finished,5:02:27,5860.0, Россия,НИЖНЕКАМСК,
 2016,Male,Finished,5:02:27,5860.0, Россия,КАЗАНЬ,runclubkzn adidas
 2016,Male,Finished,5:02:28,5863.0, Россия,Москва,
@@ -17347,7 +17347,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:03:41,5888.0, Россия,Москва,Турклуб МИЭМ НИУ ВШЭ
 2016,Male,Finished,5:03:41,5888.0, Россия,Москва,
 2016,Male,Finished,5:03:44,5890.0, Россия,Москва,Stream Trail Russia
-2016,Male,Finished,5:03:46,5891.0, Россия,ДУБНА,ФК 
+2016,Male,Finished,5:03:46,5891.0, Россия,ДУБНА,ФК
 2016,Male,Finished,5:03:46,5891.0, Россия,Москва,
 2016,Male,Finished,5:03:47,5893.0, Россия,Санкт-Петербург,
 2016,Male,Finished,5:03:48,5894.0, Россия,Москва,
@@ -17383,7 +17383,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:05:20,5923.0, Россия,Москва,
 2016,Male,Finished,5:05:23,5925.0, Россия,Ульяновск,
 2016,Male,Finished,5:05:24,5926.0, Россия,Санкт-Петербург,
-2016,Male,Finished,5:05:30,5927.0, Россия,Москва,I love running 
+2016,Male,Finished,5:05:30,5927.0, Россия,Москва,I love running
 2016,Male,Finished,5:05:32,5928.0, Россия,Москва,
 2016,Male,Finished,5:05:35,5929.0, Россия,Одинцово,Бобры и Отвага!
 2016,Male,Finished,5:05:35,5929.0, Россия,Москва,
@@ -17457,9 +17457,9 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:08:59,5998.0, Россия,Москва,
 2016,Male,Finished,5:09:00,5999.0, Россия,Москва,
 2016,Male,Finished,5:09:00,5999.0, Россия,Москва,
-2016,Male,Finished,5:09:02,6001.0, Россия,Москва,Планета Фитнес 
+2016,Male,Finished,5:09:02,6001.0, Россия,Москва,Планета Фитнес
 2016,Male,Finished,5:09:03,6002.0, Россия,Москва,
-2016,Male,Finished,5:09:05,6003.0, Россия,Москва,   
+2016,Male,Finished,5:09:05,6003.0, Россия,Москва,
 2016,Male,Finished,5:09:08,6004.0, Россия,Москва,Простоквашино
 2016,Male,Finished,5:09:10,6005.0, Россия,Москва,0
 2016,Male,Finished,5:09:10,6005.0, Россия,Москва,
@@ -17600,7 +17600,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:16:28,6141.0, Россия,Москва,
 2016,Male,Finished,5:16:31,6142.0, Россия,Москва,ЮСИН-Недвижимость
 2016,Male,Finished,5:16:38,6143.0, Россия,Москва,
-2016,Male,Finished,5:16:40,6144.0, Россия,Москва,KOREAN MARATHON CLUB 
+2016,Male,Finished,5:16:40,6144.0, Россия,Москва,KOREAN MARATHON CLUB
 2016,Male,Finished,5:16:44,6145.0, Россия,Москва,
 2016,Male,Finished,5:16:44,6145.0, Россия,Орёл,
 2016,Male,Finished,5:16:44,6145.0, Россия,Белгород,
@@ -17707,7 +17707,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:22:22,6247.0, Россия,Москва,
 2016,Male,Finished,5:22:25,6249.0, Россия,Москва,Три лайф
 2016,Male,Finished,5:22:26,6250.0, Тайланд,Бангкок,
-2016,Male,Finished,5:22:27,6251.0, Россия,Москва,Благотворительный фонд 
+2016,Male,Finished,5:22:27,6251.0, Россия,Москва,Благотворительный фонд
 2016,Male,Finished,5:22:28,6252.0, Россия,Москва,Megafon Running
 2016,Male,Finished,5:22:32,6253.0, Россия,ЙОШКАР-ОЛА,
 2016,Male,Finished,5:22:33,6254.0, Россия,Москва,
@@ -17717,7 +17717,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:22:41,6258.0, Россия,Москва,RRUNS
 2016,Male,Finished,5:22:46,6259.0, Россия,Севастополь,
 2016,Male,Finished,5:22:48,6260.0, Россия,Ульяновск,
-2016,Male,Finished,5:22:52,6261.0, Россия,ЛОБНЯ,СОК 
+2016,Male,Finished,5:22:52,6261.0, Россия,ЛОБНЯ,СОК
 2016,Male,Finished,5:23:03,6262.0, Россия,Москва,
 2016,Male,Finished,5:23:05,6263.0, Россия,Москва,
 2016,Male,Finished,5:23:06,6264.0, Россия,Тюмень,Строительный двор
@@ -17787,11 +17787,11 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:29:10,6328.0, Россия,Москва,Пушель
 2016,Male,Finished,5:29:24,6329.0, Россия,Балашиха,
 2016,Male,Finished,5:29:26,6330.0, Испания,Валенсия,Universidad de Valencia
-2016,Male,Finished,5:29:33,6331.0, Россия,Москва,Спартак Москва 
+2016,Male,Finished,5:29:33,6331.0, Россия,Москва,Спартак Москва
 2016,Male,Finished,5:29:48,6332.0, Россия,Москва,Sluggish Runners
 2016,Male,Finished,5:29:50,6333.0, Россия,Москва,
 2016,Male,Finished,5:29:55,6334.0, Россия,Москва,
-2016,Male,Finished,5:30:16,6335.0, Россия,Москва,"МИФИ, НПФ "
+2016,Male,Finished,5:30:16,6335.0, Россия,Москва,"МИФИ, НПФ"
 2016,Male,Finished,5:30:24,6336.0, Россия,Москва,
 2016,Male,Finished,5:30:28,6337.0, Россия,Москва,
 2016,Male,Finished,5:30:28,6337.0, Россия,Москва,
@@ -17812,7 +17812,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:31:52,6353.0, Россия,Озерск,
 2016,Male,Finished,5:31:52,6353.0, Россия,Москва,
 2016,Male,Finished,5:31:55,6355.0, Россия,Москва,Марафонская команда Шри Чинмоя
-2016,Male,Finished,5:31:59,6356.0, Россия,Нижний Новгород,клуб 
+2016,Male,Finished,5:31:59,6356.0, Россия,Нижний Новгород,клуб
 2016,Male,Finished,5:32:13,6357.0, Мексика,Монтеррей,
 2016,Male,Finished,5:32:19,6358.0, Гонконг,Гонконг,Nil
 2016,Male,Finished,5:32:20,6359.0, Россия,Москва,СК Лохино
@@ -17820,7 +17820,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:32:21,6360.0, США,Миннеаполис,
 2016,Male,Finished,5:32:22,6362.0, People's Republic of China,Renqiu,MoskvaChineseRunners
 2016,Male,Finished,5:32:31,6363.0, Россия,Москва,Лею Солли
-2016,Male,Finished,5:32:34,6364.0, Россия,Москва,seibukai ibuki 
+2016,Male,Finished,5:32:34,6364.0, Россия,Москва,seibukai ibuki
 2016,Male,Finished,5:32:35,6365.0, Россия,Москва,Emperor's Finest
 2016,Male,Finished,5:32:38,6366.0, Россия,Москва,AR
 2016,Male,Finished,5:32:41,6367.0, Россия,Подольск,
@@ -17848,7 +17848,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:34:17,6389.0, Россия,Москва,"Runners,Новосибирск"
 2016,Male,Finished,5:34:19,6390.0, Россия,Москва,
 2016,Male,Finished,5:34:26,6391.0, Россия,Москва,
-2016,Male,Finished,5:34:36,6392.0, Россия,Москва,Power style 
+2016,Male,Finished,5:34:36,6392.0, Россия,Москва,Power style
 2016,Male,Finished,5:34:40,6393.0, Россия,Москва,
 2016,Male,Finished,5:34:43,6394.0, Россия,Москва,Капитан улитка
 2016,Male,Finished,5:34:44,6395.0, Россия,Москва,#motiv_igz
@@ -17905,7 +17905,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:42:11,6446.0, Россия,Москва,
 2016,Male,Finished,5:42:12,6447.0, Россия,Ярославль,
 2016,Male,Finished,5:42:13,6448.0, Россия,Москва,
-2016,Male,Finished,5:42:22,6449.0, Австрия,Вена,Humanitas 
+2016,Male,Finished,5:42:22,6449.0, Австрия,Вена,Humanitas
 2016,Male,Finished,5:42:23,6450.0, Россия,ОРЕХОВО-ЗУЕВО,
 2016,Male,Finished,5:42:26,6451.0, Россия,Москва,Кентавр
 2016,Male,Finished,5:42:28,6452.0, Россия,Самара,
@@ -17923,7 +17923,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:43:52,6464.0, Гонконг,Гонконг,
 2016,Male,Finished,5:43:52,6464.0, Гонконг,Гонконг,
 2016,Male,Finished,5:44:10,6466.0, Россия,Москва,PSB Running Team
-2016,Male,Finished,5:44:12,6467.0, Россия,Москва,Благотворительный фонд 
+2016,Male,Finished,5:44:12,6467.0, Россия,Москва,Благотворительный фонд
 2016,Male,Finished,5:44:17,6468.0, Россия,Москва,
 2016,Male,Finished,5:44:22,6469.0, Россия,Москва,
 2016,Male,Finished,5:44:57,6470.0, Россия,Самара,
@@ -17941,7 +17941,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,5:46:08,6482.0, Россия,Москва,
 2016,Male,Finished,5:46:25,6483.0, Россия,Москва,
 2016,Male,Finished,5:46:25,6483.0, Россия,Москва,
-2016,Male,Finished,5:46:31,6485.0, Россия,Москва, LR health& beauty
+2016,Male,Finished,5:46:31,6485.0, Россия,Москва,LR health& beauty
 2016,Male,Finished,5:46:32,6486.0, Россия,Москва,
 2016,Male,Finished,5:46:35,6487.0, Россия,Москва,
 2016,Male,Finished,5:46:40,6488.0, Россия,Москва,
@@ -18030,7 +18030,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Finished,6:01:44,6571.0, Россия,Москва,
 2016,Male,Finished,6:02:36,6572.0, Тайвань,Тайбэй,Taipei Marathon Association
 2016,Male,Finished,6:02:52,6573.0, Россия,Москва,
-2016,Male,Finished,6:02:53,6574.0, Россия,Москва,ТКУПБ 
+2016,Male,Finished,6:02:53,6574.0, Россия,Москва,ТКУПБ
 2016,Male,Finished,6:03:46,6575.0, Россия,Оренбург,Урал
 2016,Male,Finished,6:03:56,6576.0, Россия,Санкт-Петербург,
 2016,Male,Finished,6:03:57,6577.0, Россия,Москва,
@@ -18101,18 +18101,18 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Did not finished,,, Россия,Москва,BotSad Runners
 2016,Male,Did not finished,,, Россия,Москва,
 2016,Male,Did not finished,,, Россия,Москва,Опоссумы
-2016,Male,Did not finished,,, Россия,Саратов,КЛБ 
+2016,Male,Did not finished,,, Россия,Саратов,КЛБ
 2016,Male,Did not finished,,, Россия,Москва,
 2016,Male,Did not finished,,, Россия,Москва,TBWA run team
 2016,Male,Did not finished,,, Россия,Москва,
 2016,Male,Did not finished,,, Россия,ОЗЕРЫ,
 2016,Male,Did not finished,,, Россия,Москва,
-2016,Male,Did not finished,,, Россия,Москва,I Love running 
+2016,Male,Did not finished,,, Россия,Москва,I Love running
 2016,Male,Did not finished,,, Россия,Москва,
 2016,Male,Did not finished,,, Россия,Москва,Spurt
 2016,Male,Did not finished,,, Россия,Москва,WinSelf
 2016,Male,Did not finished,,, Россия,Москва,VPOXOD.RU
-2016,Male,Did not finished,,, Россия,Нижний Новгород,CASTORAMA RUN NIZHNY NOVGOROD 
+2016,Male,Did not finished,,, Россия,Нижний Новгород,CASTORAMA RUN NIZHNY NOVGOROD
 2016,Male,Did not finished,,, Россия,Москва,Альпклуб МГУ
 2016,Male,Did not finished,,, Россия,Москва,RUNNING VRN
 2016,Male,Did not finished,,, Россия,Москва,
@@ -18128,7 +18128,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Did not finished,,, Россия,Москва,
 2016,Male,Did not finished,,, Россия,Москва,Безумие и отвага!
 2016,Male,Did not finished,,, Россия,Москва,
-2016,Male,Did not finished,,, Россия,Железнодорожный,КЛБ 
+2016,Male,Did not finished,,, Россия,Железнодорожный,КЛБ
 2016,Male,Did not finished,,, Россия,Москва,Siz Crew
 2016,Male,Did not finished,,, Россия,Москва,
 2016,Male,Did not finished,,, Россия,Москва,
@@ -18150,7 +18150,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Did not finished,,, Россия,Москва,
 2016,Male,Did not finished,,, Россия,ДЗЕРЖИНСК,
 2016,Male,Did not finished,,, Россия,Москва,
-2016,Male,Did not finished,,, Россия,Москва,Беговой клуб 
+2016,Male,Did not finished,,, Россия,Москва,Беговой клуб
 2016,Male,Disqualified,,, Россия,Москва,fokProBeg (fok2501)
 2016,Male,Did not finished,,, Россия,Москва,World Class
 2016,Male,Did not finished,,, Россия,Москва,SBERBANK TRIATHLON TEAM
@@ -18165,10 +18165,10 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Did not finished,,, Россия,Москва,
 2016,Male,Disqualified,,, Россия,Москва,
 2016,Male,Did not finished,,, Россия,Москва,Wake&Run
-2016,Male,Did not finished,,, Россия,ТОРЖОК,Новотор 
+2016,Male,Did not finished,,, Россия,ТОРЖОК,Новотор
 2016,Male,Did not finished,,, Россия,Москва,
 2016,Male,Did not finished,,, Россия,Москва,
-2016,Male,Did not finished,,, Россия,Москва,Корчма Тарас Бульба 
+2016,Male,Did not finished,,, Россия,Москва,Корчма Тарас Бульба
 2016,Male,Did not finished,,, Россия,Москва,
 2016,Male,Did not finished,,, Германия,Франкфурт-на-Майне,Cheetah Running Club
 2016,Male,Did not finished,,, Россия,Москва,IloveSwimming))
@@ -18274,7 +18274,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Did not finished,,, Россия,Москва,Rosatom running Club
 2016,Male,Did not finished,,, Россия,Москва,
 2016,Male,Did not finished,,, Россия,Москва,I Love Running
-2016,Male,Did not finished,,, Россия,Москва,Найк 
+2016,Male,Did not finished,,, Россия,Москва,Найк
 2016,Male,Did not finished,,, Россия,Москва,
 2016,Male,Did not finished,,, Израиль,Иерусалим,
 2016,Male,Did not finished,,, Россия,Москва,
@@ -18285,7 +18285,7 @@ year,gender,status,resultTime,genderPosition,country,city,team
 2016,Male,Did not finished,,, Россия,Пермь,
 2016,Male,Did not finished,,, Россия,Москва,
 2016,Male,Did not finished,,, Россия,Москва,
-2016,Male,Did not finished,,, Россия,Москва,ЮСИН НЕДВИЖИМОСТЬ 
+2016,Male,Did not finished,,, Россия,Москва,ЮСИН НЕДВИЖИМОСТЬ
 2016,Male,Did not finished,,, Россия,Москва,R-team
 2016,Male,Did not finished,,, Россия,Санкт-Петербург,
 2016,Male,Did not finished,,, Россия,Оренбург,

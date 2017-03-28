@@ -34,6 +34,14 @@ def get_cleaned_time(value):
     else:
         return value.strip()
 
+def get_cleaned_team(value):
+    value = value.strip()
+    if value == '':
+        return np.nan
+
+    # todo implement additional celaning rules
+    return value
+
 def get_file_info(file_name):
     year = None
     gender = GENDER_UNKNOWN
@@ -97,15 +105,16 @@ def load_new_format_file_frame(file_name):
     result_df['first_name'] = result_df['first_name'].str.strip()
     result_df['last_name'] = result_df['last_name'].str.strip()
 
+    result_df['team'] = result_df['team'].map(get_cleaned_team)
+
     result_df['resultTime'] = result_df['resultTime'].map(get_cleaned_time)
-    time_columns = ['5000', '10000', '21100', '30000', '40000']
+    time_columns = ['5000', '10000', '15000', '21100', '25000', '30000', '35000', '40000']
     for column in time_columns:
         if column in result_df.columns:
             result_df[column] = result_df[column].map(get_cleaned_time)
 
-    # todo clean data from DNF & DNS & DSQ results
+    # Data cleaning for runners without finish time
     result_df['status'] = STATUS_FINISHED
-
     special_statuses = {
         'DNF': STATUS_DNF,
         'DNS': STATUS_DNS,
