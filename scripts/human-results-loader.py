@@ -27,12 +27,12 @@ class HumanReadableResulsSpider(scrapy.Spider):
 
             yield {
                 'name': self._get_cleaned_text(name_raw),
-                'result': self._get_cleaned_text(result_raw),
+                'resultTime': self._get_cleaned_text(result_raw),
                 'age': self._get_cleaned_age(age_raw),
                 'city': self._get_cleaned_text(city_raw),
                 'gender': result_gender,
-                'gender_position': self._get_cleaned_text(gender_position_raw),
-                'absolute_position': self._get_cleaned_text(absolute_position_raw),
+                'genderPosition': self._get_cleaned_text(gender_position_raw),
+                'absolutePosition': self._get_cleaned_text(absolute_position_raw),
                 'number': self._get_cleaned_int(bib_raw),
             }
 

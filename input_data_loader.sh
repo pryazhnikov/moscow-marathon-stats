@@ -18,4 +18,5 @@ $CURL 'http://2015.moscowmarathon.org/static/protocols/42km-female.json' > $DATA
 
 # 2013
 # There is no machine readable results for this year
+echo -n '' > $DATA_DIR/2013_42km.json
 $SCRAPY runspider scripts/human-results-loader.py -o $DATA_DIR/2013_42km.json
