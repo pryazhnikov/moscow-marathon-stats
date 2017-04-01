@@ -26,6 +26,8 @@ These results are available at human readable format only.
 
 ## How to fetch new data
 
+You should install `Python 3` to use scripts from this repo.
+
 ```bash
 # Python requirements installing
 pip3 install -r requirements.txt
