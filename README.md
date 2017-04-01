@@ -26,6 +26,13 @@ These results are available at human readable format only.
 
 # How to fetch new data
 
-> pip3 install -r requirements.txt
-> ./input_data_loader.sh
-> ./input_data_parser.py
+```bash
+# Python requirements installing
+pip3 install -r requirements.txt
+
+# Results loading from data sources
+./input_data_loader.sh
+
+# Loaded results processing and aggregation
+./input_data_parser.py
+```
