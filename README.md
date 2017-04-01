@@ -24,7 +24,7 @@ Results for *2013* are not available at official site, but you can get them from
 
 These results are available at human readable format only.
 
-# How to fetch new data
+## How to fetch new data
 
 ```bash
 # Python requirements installing
