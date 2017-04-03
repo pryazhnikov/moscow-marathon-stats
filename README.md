@@ -4,6 +4,27 @@
 
 This repo contains combined, cleaned and anonymized results of this marathon for 2013-2016. You can find out these results at [data/all_results.csv](data/all_results.csv) file.
 
+## Results visualization
+
+This visualization is a final project of [Applied Plotting, Charting & Data Representation in Python course](https://www.coursera.org/learn/python-plotting).
+
+![Moscow Marathon results visualization](images/by_year_visualization.png)
+
+## How to fetch new data
+
+You should install `Python 3` to use scripts from this repo.
+
+```bash
+# Python requirements installing
+pip3 install -r requirements.txt
+
+# Results loading from data sources
+./input_data_loader.sh
+
+# Loaded results processing and aggregation
+./input_data_parser.py
+```
+
 ## Data sources
 
 There are two datasources for past marathon results.
@@ -23,18 +44,3 @@ Results for *2013* are not available at official site, but you can get them from
 * http://newrunners.ru/race/moskovskij-marafon/past/results/?city=&gender=2&protocol=0&club=&distance=19&text=#mMenu
 
 These results are available at human readable format only.
-
-## How to fetch new data
-
-You should install `Python 3` to use scripts from this repo.
-
-```bash
-# Python requirements installing
-pip3 install -r requirements.txt
-
-# Results loading from data sources
-./input_data_loader.sh
-
-# Loaded results processing and aggregation
-./input_data_parser.py
-```
