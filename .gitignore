@@ -3,4 +3,5 @@ __pycache__
 data/temporary/*
 !data/temporary/.gitkeep
 .ipynb_checkpoints/
+.DS_Store
 
