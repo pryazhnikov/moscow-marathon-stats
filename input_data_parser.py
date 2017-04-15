@@ -42,8 +42,44 @@ def get_cleaned_team(value):
     if value == '':
         return np.nan
 
-    # todo implement additional cleaning rules
     return value
+
+def get_normalized_team_name_filters(team_names):
+    team_name_filter = team_names.fillna('').str.replace(' ', '').str.lower()
+    if len(team_name_filter) == 0:
+        return []
+
+    return [
+        ('I Love Running', team_name_filter.str.startswith('ilover') | team_name_filter.str.startswith('ilr')),
+        ('Adidas', team_name_filter.str.contains('adidas') | team_name_filter.str.contains('адидас')),
+        ('Трилайф', team_name_filter.str.contains('trilife') | team_name_filter.str.contains('трилайф')),
+        ('МГУ', team_name_filter.str.contains('мгу') & (team_name_filter != 'самгу')),
+        ('World Class', team_name_filter.str.contains('world') & team_name_filter.str.contains('class')),
+        ('Orange Polska', team_name_filter.str.contains('orange') & team_name_filter.str.contains('polska')),
+        ('Gorky Park Runners', team_name_filter.str.contains('gorky') & team_name_filter.str.contains('park')),
+        ('Run studio', team_name_filter.str.contains('runstudio')),
+        ('Running Expert', team_name_filter.str.contains('expert') & team_name_filter.str.contains('run')),
+        ('Гепард', team_name_filter.str.contains('gepard') | team_name_filter.str.contains('гепард')),
+        ('Moskva River Runners', team_name_filter.str.contains('river') & team_name_filter.str.contains('run')),
+        ('21runners', team_name_filter.str.contains('21') & team_name_filter.str.contains('runners')),
+        ('Парсек', team_name_filter.str.contains('parsek') | team_name_filter.str.contains('парсек')),
+        ('Girl&Sole', team_name_filter.str.contains('girl') & team_name_filter.str.contains('sole')),
+        ('42Trip', team_name_filter.str.contains('42trip')),
+        ('42km.ru', team_name_filter.str.contains('42км.ru') | team_name_filter.str.contains('42km.ru')),
+        ('Nike+', team_name_filter.str.contains('nike') & (team_name_filter.str.contains('\+') | team_name_filter.str.contains('plus'))),
+        ('Nike+', team_name_filter.str.contains('найк')),
+        ('Лыжный клуб Измайлово', team_name_filter.str.contains('измайлово') & (team_name_filter.str.contains('лыжный') | team_name_filter.str.contains('лк'))),
+        ('Московский беговой клуб', team_name_filter.str.contains('московскийбеговойклуб')),
+        ('EY', team_name_filter.str.startswith('ey')),
+        ('IRC', team_name_filter.str.startswith('irc')),
+        ('БИМ', team_name_filter.str.startswith('бим')),
+        ('Факел', team_name_filter.str.startswith('факел')),
+        ('Энергия', team_name_filter.str.startswith('энергия')),
+        ('Сенеж', team_name_filter.str.startswith('сенеж')),
+
+        (np.nan, (team_name_filter == '') | (team_name_filter == 'лично') | (team_name_filter == 'нет')),
+        (np.nan, (team_name_filter == '-') | (team_name_filter == '0')),
+    ]
 
 def get_full_name(runner_info):
     first_name = runner_info['first_name']
@@ -156,6 +192,10 @@ def get_processed_data_frame(result_df):
     result_df['genderPosition'] = result_df['genderPosition'] \
         .dropna() \
         .apply(lambda x: int(x))
+
+    team_names = result_df['team']
+    for team_name, team_filter in get_normalized_team_name_filters(team_names):
+        result_df.loc[team_filter, 'team'] = team_name
 
     fields = ['year', 'gender', 'status', 'resultTime', 'genderPosition', 'country', 'city', 'team']
     return result_df[fields]
