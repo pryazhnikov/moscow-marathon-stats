@@ -10,7 +10,7 @@ This repo contains combined, cleaned and anonymized results of this marathon for
 
 This visualization is my final project for [Applied Plotting, Charting & Data Representation in Python course](https://www.coursera.org/learn/python-plotting).
 
-![Moscow Marathon results visualization](images/by_year_visualization.png)
+![Moscow Marathon results visualization](images/by_year_visualization-en.png)
 
 ## How to fetch new data
 
