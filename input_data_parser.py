@@ -193,11 +193,22 @@ def get_processed_data_frame(result_df):
         .dropna() \
         .apply(lambda x: int(x))
 
+    result_df['teamNormalized'] = result_df['team']
     team_names = result_df['team']
     for team_name, team_filter in get_normalized_team_name_filters(team_names):
-        result_df.loc[team_filter, 'team'] = team_name
+        result_df.loc[team_filter, 'teamNormalized'] = team_name
 
-    fields = ['year', 'gender', 'status', 'resultTime', 'genderPosition', 'country', 'city', 'team']
+    fields = [
+        'year',
+        'gender',
+        'status',
+        'resultTime',
+        'genderPosition',
+        'country',
+        'city',
+        'team',
+        'teamNormalized',
+    ]
     return result_df[fields]
 
 def load_old_format_file_frame(file_name):
