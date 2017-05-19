@@ -82,10 +82,19 @@ class DatasetStructureTest(unittest.TestCase):
 
     def test_country_should_be_trimmed(self):
         df = self.load_dataset()
-        unique_countries = df['country'].unique()
-        non_trimmed_countries = self.get_non_trimmed_names(unique_countries)
-        fail_message = "Non trimmed countries found: {}".format(non_trimmed_countries)
-        self.assertEqual(0, len(non_trimmed_countries), fail_message)
+        unique_countries = df['country'].dropna().unique()
+        self.assert_trimmed_names(unique_countries, "Non trimmed countries found")
+
+    def test_city_should_be_trimmed(self):
+        df = self.load_dataset()
+        unique_cities = df['city'].dropna().unique()
+        self.assert_trimmed_names(unique_cities, "Non trimmed countries found")
+
+    def assert_trimmed_names(self, values_list, fail_prefix):
+        failed_names_list = self.get_non_trimmed_names(values_list)
+        failed_names_count = len(failed_names_list)
+        fail_message = "{}: {}".format(fail_prefix, failed_names_list)
+        self.assertEqual(0, failed_names_count, fail_message)
 
     def get_non_trimmed_names(self, names_list):
         name_serie = pd.Series(names_list)
