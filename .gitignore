@@ -2,6 +2,8 @@ __pycache__
 *.pyc
 data/temporary/*
 !data/temporary/.gitkeep
+data/backup/*
+!data/backup/.gitkeep
 .ipynb_checkpoints/
 .DS_Store
 
