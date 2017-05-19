@@ -165,6 +165,8 @@ def load_new_format_file_frame(file_name):
     return get_processed_data_frame(result_df)
 
 def get_processed_data_frame(result_df):
+    result_df['country'] = result_df['country'].str.strip()
+
     result_df['team'] = result_df['team'].map(get_cleaned_team)
 
     result_df['resultTime'] = result_df['resultTime'].map(get_cleaned_time)
