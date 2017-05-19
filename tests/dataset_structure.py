@@ -80,5 +80,18 @@ class DatasetStructureTest(unittest.TestCase):
                 fail_message = "Wrong number of unique gender positions ({year}, {gender})".format(**info_args)
                 self.assertGreaterEqual(finishers_count, unique_positions_count, fail_message)
 
+    def test_country_should_be_trimmed(self):
+        df = self.load_dataset()
+        unique_countries = df['country'].unique()
+        non_trimmed_countries = self.get_non_trimmed_names(unique_countries)
+        fail_message = "Non trimmed countries found: {}".format(non_trimmed_countries)
+        self.assertEqual(0, len(non_trimmed_countries), fail_message)
+
+    def get_non_trimmed_names(self, names_list):
+        name_serie = pd.Series(names_list)
+        bad_filter = name_serie.str.startswith(' ') | name_serie.str.endswith(' ')
+        return name_serie[bad_filter].values
+
+
 if __name__ == '__main__':
     unittest.main()
