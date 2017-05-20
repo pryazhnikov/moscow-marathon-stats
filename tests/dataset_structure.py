@@ -101,6 +101,27 @@ class DatasetStructureTest(unittest.TestCase):
         bad_filter = name_serie.str.startswith(' ') | name_serie.str.endswith(' ')
         return name_serie[bad_filter].values
 
+    def test_country_should_not_have_duplicates(self):
+        df = self.load_dataset()
+        unique_countries = df['country'].dropna().unique()
+        countries_hash = map(self.get_name_hash, unique_countries)
+        country_series = pd.Series(unique_countries, index=countries_hash)
+
+        country_counters = country_series.groupby(country_series.index.tolist()).count()
+        duplicated_hashes = country_counters[country_counters > 1].index.tolist()
+        duplicated_countries = country_series.loc[duplicated_hashes].tolist()
+
+        failed_names_count = len(duplicated_countries)
+        fail_message = "Duplicated countries found: {}".format(duplicated_countries)
+        self.assertEqual(0, failed_names_count, fail_message)
+
+    def get_name_hash(self, name):
+        name_hash = str(name)
+        name_hash = name_hash.lower()
+        name_hash = name_hash.replace(' ', '')
+        name_hash = name_hash.replace("\'", '')
+        return name_hash
+
 
 if __name__ == '__main__':
     unittest.main()
