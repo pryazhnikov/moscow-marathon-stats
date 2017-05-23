@@ -164,8 +164,18 @@ def load_new_format_file_frame(file_name):
 
     return get_processed_data_frame(result_df)
 
+def get_country_misprints():
+    return {
+        "People'sRepublicofChina": "People's Republic of China",
+        "UnitedKingdom": "United Kingdom",
+        "ОбъединенныеАрабскиеЭмираты": "Объединенные Арабские Эмираты"
+    }
+
 def get_processed_data_frame(result_df):
     result_df['country'] = result_df['country'].str.strip()
+    country_misprints = get_country_misprints()
+    if country_misprints:
+        result_df['country'].replace(country_misprints, inplace=True)
 
     result_df['team'] = result_df['team'].map(get_cleaned_team)
 
