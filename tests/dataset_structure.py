@@ -115,12 +115,37 @@ class DatasetStructureTest(unittest.TestCase):
         fail_message = "Duplicated countries found: {}".format(duplicated_countries)
         self.assertEqual(0, failed_names_count, fail_message)
 
+    def test_city_should_not_have_duplicates(self):
+        df = self.load_dataset()
+        unique_cities = df['city'].dropna().unique()
+        cities_hash = map(self.get_name_hash, unique_cities)
+        city_series = pd.Series(unique_cities, index=cities_hash)
+
+        city_counters = city_series.groupby(city_series.index.tolist()).count()
+        duplicated_hashes = city_counters[city_counters > 1].index.tolist()
+        duplicated_cities = city_series.loc[duplicated_hashes].tolist()
+
+        failed_names_count = len(duplicated_cities)
+        fail_message = "Duplicated cities found: {}".format(duplicated_cities)
+        self.assertEqual(0, failed_names_count, fail_message)
+
     def get_name_hash(self, name):
         name_hash = str(name)
         name_hash = name_hash.lower()
         name_hash = name_hash.replace(' ', '')
         name_hash = name_hash.replace("\'", '')
         return name_hash
+
+    def test_city_should_not_be_uppercase(self):
+        df = self.load_dataset()
+        unique_cities = df['city'].dropna().unique()
+        unique_cities = pd.Series(unique_cities)
+
+        upper_case_cities = unique_cities[unique_cities == unique_cities.str.upper()]
+
+        failed_names_count = len(upper_case_cities)
+        fail_message = "Uppercase city names found: {}".format(upper_case_cities.values)
+        self.assertEqual(0, failed_names_count, fail_message)
 
 
 if __name__ == '__main__':
