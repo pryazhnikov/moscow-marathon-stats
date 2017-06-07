@@ -171,11 +171,42 @@ def get_country_misprints():
         "ОбъединенныеАрабскиеЭмираты": "Объединенные Арабские Эмираты"
     }
 
+
+def get_normalized_city_name(city_name):
+    if not city_name:
+        return city_name
+
+    capitalized_stop_list = [
+        'на', #  Ростов-на-Дону
+        'де', #  Рио-де-Жанейро
+        'de', #  Rio de Janeiro
+        'дель', # Коста-дель-Соль
+        'del', #  Costa del Sol]
+        'al',
+        'ле', #  Экс-ле-Бен
+        'сюр', #  Аньер-сюр-Сен
+    ]
+
+    city_name_words = re.split(r'([\s-]+)', str(city_name))
+    normalized_city_name_words = []
+    for word in city_name_words:
+        word = word.lower()
+        if word not in capitalized_stop_list:
+            word = word.capitalize()
+
+        normalized_city_name_words.append(word)
+
+    return ''.join(normalized_city_name_words)
+
+
 def get_processed_data_frame(result_df):
     result_df['country'] = result_df['country'].str.strip()
     country_misprints = get_country_misprints()
     if country_misprints:
         result_df['country'].replace(country_misprints, inplace=True)
+
+    result_df['city'] = result_df['city'].str.strip()
+    result_df['city'] = result_df['city'].dropna().map(get_normalized_city_name)
 
     result_df['team'] = result_df['team'].map(get_cleaned_team)
 
