@@ -1,0 +1,18 @@
+#!/bin/sh
+
+remote="$1"
+url="$2"
+
+echo "PEP8 requirements check before push..."
+pep8 --ignore=E501 --statistics .
+pep8_exit_code=$?
+if [[ $pep8_exit_code == "1" ]]; then
+    echo
+    echo "There are some failures at PEP8 requirements check! Push is not allowed"
+    exit 1
+fi
+
+echo
+echo "All tests are passed!"
+echo "Pushing to $remote ($url)"
+exit 0

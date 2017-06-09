@@ -4,8 +4,6 @@ python:
   - "3.6"
 install:
   - pip install -r requirements.txt
-  # pep8 is a mandatory package, it's not required for data processing
-  - pip install pep8
 script:
   # Run dataset checks
   - python tests/dataset_structure.py -v
