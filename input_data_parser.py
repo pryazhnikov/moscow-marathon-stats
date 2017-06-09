@@ -11,14 +11,15 @@ import os.path
 INPUT_FILE_NAMES_PATTERN = 'data/temporary/*_42km.json'
 OUTPUT_FILE_NAME = 'data/all_results.csv'
 
-GENDER_MALE    = 'Male'
-GENDER_FEMALE  = 'Female'
+GENDER_MALE = 'Male'
+GENDER_FEMALE = 'Female'
 GENDER_UNKNOWN = 'Unknown'
 
 STATUS_FINISHED = 'Finished'
 STATUS_DNS = 'Did not started'
 STATUS_DNF = 'Did not finished'
 STATUS_DSQ = 'Disqualified'
+
 
 def get_gender_by_code(code):
     code = int(code)
@@ -29,11 +30,13 @@ def get_gender_by_code(code):
     else:
         return GENDER_UNKNOWN
 
+
 def get_cleaned_time(value):
     if value == '':
         return np.nan
     else:
         return value.strip()
+
 
 def get_cleaned_team(value):
     if value is None:
@@ -44,6 +47,7 @@ def get_cleaned_team(value):
         return np.nan
 
     return value
+
 
 def get_normalized_team_name_filters(team_names):
     team_name_filter = team_names.fillna('').str.replace(' ', '').str.lower()
@@ -82,6 +86,7 @@ def get_normalized_team_name_filters(team_names):
         (np.nan, (team_name_filter == '-') | (team_name_filter == '0')),
     ]
 
+
 def get_full_name(runner_info):
     first_name = runner_info['first_name']
     last_name = runner_info['last_name']
@@ -93,6 +98,7 @@ def get_full_name(runner_info):
         return first_name
     else:
         return str(first_name) + ' ' + str(last_name)
+
 
 def get_file_info(file_name):
     year = None
@@ -113,9 +119,10 @@ def get_file_info(file_name):
 
     return {
         'year': year,
-        'gender' : gender,
-        'distance' : distance,
+        'gender': gender,
+        'distance': distance,
     }
+
 
 def load_new_format_file_frame(file_name):
     '''
@@ -165,6 +172,7 @@ def load_new_format_file_frame(file_name):
 
     return get_processed_data_frame(result_df)
 
+
 def get_normalized_country_name(country_name):
     name_misprints = {
         "People'sRepublicofChina": "People's Republic of China",
@@ -203,14 +211,14 @@ def get_normalized_city_name(city_name):
         return city_name
 
     capitalized_stop_list = [
-        'на', #  Ростов-на-Дону
-        'де', #  Рио-де-Жанейро
-        'de', #  Rio de Janeiro
-        'дель', # Коста-дель-Соль
-        'del', #  Costa del Sol]
+        'на',    # Ростов-на-Дону
+        'де',    # Рио-де-Жанейро
+        'de',    # Rio de Janeiro
+        'дель',  # Коста-дель-Соль
+        'del',   # Costa del Sol]
         'al',
-        'ле', #  Экс-ле-Бен
-        'сюр', #  Аньер-сюр-Сен
+        'ле',    # Экс-ле-Бен
+        'сюр',   # Аньер-сюр-Сен
     ]
 
     city_name_words = re.split(r'([\s-]+)', str(city_name))
@@ -278,22 +286,25 @@ def get_processed_data_frame(result_df):
     ]
     return result_df[fields]
 
+
 def load_old_format_file_frame(file_name):
     file_info = get_file_info(file_name)
 
     result_df = pd.read_json(file_name)
     result_df['year'] = file_info['year']
-    result_df['team'] = None # There is no such data at old format
+    result_df['team'] = None  # There is no such data at old format
 
     result_df = result_df.apply(add_country_to_runner, axis=1)
 
     return get_processed_data_frame(result_df)
+
 
 def add_country_to_runner(runner_row):
     (city, country) = split_long_city_name(runner_row['city'])
     runner_row['city'] = city
     runner_row['country'] = country
     return runner_row
+
 
 def split_long_city_name(full_city_name):
     if full_city_name is None:
@@ -309,6 +320,7 @@ def split_long_city_name(full_city_name):
     else:
         city, country = map(str.strip, parts_list)
         return (city, country)
+
 
 def main():
     files_list = glob.glob(INPUT_FILE_NAMES_PATTERN)
