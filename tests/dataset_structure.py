@@ -1,6 +1,7 @@
 import unittest
 import os.path
 import pandas as pd
+import re
 
 
 class DatasetStructureTest(unittest.TestCase):
@@ -114,6 +115,20 @@ class DatasetStructureTest(unittest.TestCase):
         failed_names_count = len(duplicated_countries)
         fail_message = "Duplicated countries found: {}".format(duplicated_countries)
         self.assertEqual(0, failed_names_count, fail_message)
+
+
+    def test_country_names_should_not_use_latin_symbols(self):
+        df = self.load_dataset()
+        unique_cities = df['country'].dropna().unique()
+        unique_cities = pd.Series(unique_cities)
+
+        latin_names_filter = unique_cities.str.match(r'[a-z]', flags=re.IGNORECASE)
+        latin_city_names = unique_cities[latin_names_filter]
+
+        failed_names_count = len(latin_city_names)
+        fail_message = "Non latin country names found: {}".format(latin_city_names.values)
+        self.assertEqual(0, failed_names_count, fail_message)
+
 
     def test_city_should_not_have_duplicates(self):
         df = self.load_dataset()

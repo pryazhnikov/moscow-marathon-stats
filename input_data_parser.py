@@ -165,12 +165,37 @@ def load_new_format_file_frame(file_name):
 
     return get_processed_data_frame(result_df)
 
-def get_country_misprints():
-    return {
+def get_normalized_country_name(country_name):
+    name_misprints = {
         "People'sRepublicofChina": "People's Republic of China",
         "UnitedKingdom": "United Kingdom",
         "ОбъединенныеАрабскиеЭмираты": "Объединенные Арабские Эмираты"
     }
+    if country_name in name_misprints:
+        country_name = name_misprints[country_name]
+
+    name_translations = {
+        'Belgium': 'Бельгия',
+        'Brazil': 'Бразилия',
+        'Germany': 'Германия',
+        'Greece': 'Греция',
+        'Iceland': 'Исландия',
+        'Italy': 'Италия',
+        'Japan': 'Япония',
+        'Mexico': 'Мексика',
+        'Netherlands': 'Нидерланды',
+        'Norway': 'Норвегия',
+        "People's Republic of China": 'Китай',
+        'Poland': 'Польша',
+        'United Kingdom': 'Великобритания',
+        'Slovenia': 'Словения',
+        'Spain': 'Испания',
+        'Sweden': 'Швеция',
+    }
+    if country_name in name_translations:
+        country_name = name_translations[country_name]
+
+    return country_name
 
 
 def get_normalized_city_name(city_name):
@@ -202,9 +227,7 @@ def get_normalized_city_name(city_name):
 
 def get_processed_data_frame(result_df):
     result_df['country'] = result_df['country'].str.strip()
-    country_misprints = get_country_misprints()
-    if country_misprints:
-        result_df['country'].replace(country_misprints, inplace=True)
+    result_df['country'] = result_df['country'].dropna().map(get_normalized_country_name)
 
     result_df['city'] = result_df['city'].str.strip()
     result_df['city'] = result_df['city'].dropna().map(get_normalized_city_name)
