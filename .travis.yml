@@ -7,6 +7,9 @@ install:
   # pep8 is a mandatory package, it's not required for data processing
   - pip install pep8
 script:
+  # Run dataset checks
   - python tests/dataset_structure.py -v
-  - find . -type f -name "*.py" -exec pep8 --ignore=E501 {} \;
 
+  # Run codestyle checks
+  - cd "$TRAVIS_BUILD_DIR"
+  - find . -type f -name "*.py" -exec pep8 --ignore=E501 {} \;
