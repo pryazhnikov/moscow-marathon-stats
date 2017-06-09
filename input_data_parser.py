@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 import numpy as np
 import pandas as pd
 import sys
@@ -164,7 +165,73 @@ def load_new_format_file_frame(file_name):
 
     return get_processed_data_frame(result_df)
 
+def get_normalized_country_name(country_name):
+    name_misprints = {
+        "People'sRepublicofChina": "People's Republic of China",
+        "UnitedKingdom": "United Kingdom",
+        "ОбъединенныеАрабскиеЭмираты": "Объединенные Арабские Эмираты"
+    }
+    if country_name in name_misprints:
+        country_name = name_misprints[country_name]
+
+    name_translations = {
+        'Belgium': 'Бельгия',
+        'Brazil': 'Бразилия',
+        'Germany': 'Германия',
+        'Greece': 'Греция',
+        'Iceland': 'Исландия',
+        'Italy': 'Италия',
+        'Japan': 'Япония',
+        'Mexico': 'Мексика',
+        'Netherlands': 'Нидерланды',
+        'Norway': 'Норвегия',
+        "People's Republic of China": 'Китай',
+        'Poland': 'Польша',
+        'United Kingdom': 'Великобритания',
+        'Slovenia': 'Словения',
+        'Spain': 'Испания',
+        'Sweden': 'Швеция',
+    }
+    if country_name in name_translations:
+        country_name = name_translations[country_name]
+
+    return country_name
+
+
+def get_normalized_city_name(city_name):
+    if not city_name:
+        return city_name
+
+    capitalized_stop_list = [
+        'на', #  Ростов-на-Дону
+        'де', #  Рио-де-Жанейро
+        'de', #  Rio de Janeiro
+        'дель', # Коста-дель-Соль
+        'del', #  Costa del Sol]
+        'al',
+        'ле', #  Экс-ле-Бен
+        'сюр', #  Аньер-сюр-Сен
+    ]
+
+    city_name_words = re.split(r'([\s-]+)', str(city_name))
+    normalized_city_name_words = []
+    for word in city_name_words:
+        word = word.lower()
+        if word not in capitalized_stop_list:
+            word = word.capitalize()
+
+        normalized_city_name_words.append(word)
+
+    return ''.join(normalized_city_name_words)
+
+
 def get_processed_data_frame(result_df):
+    result_df['country'] = result_df['country'].str.strip()
+    result_df['country'] = result_df['country'].dropna().map(get_normalized_country_name)
+
+    result_df['city'] = result_df['city'].str.strip()
+    result_df['city'] = result_df['city'].dropna().map(get_normalized_city_name)
+
     result_df['team'] = result_df['team'].map(get_cleaned_team)
 
     result_df['resultTime'] = result_df['resultTime'].map(get_cleaned_time)

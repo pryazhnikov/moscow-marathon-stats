@@ -1,6 +1,7 @@
 import unittest
 import os.path
 import pandas as pd
+import re
 
 
 class DatasetStructureTest(unittest.TestCase):
@@ -79,6 +80,88 @@ class DatasetStructureTest(unittest.TestCase):
 
                 fail_message = "Wrong number of unique gender positions ({year}, {gender})".format(**info_args)
                 self.assertGreaterEqual(finishers_count, unique_positions_count, fail_message)
+
+    def test_country_should_be_trimmed(self):
+        df = self.load_dataset()
+        unique_countries = df['country'].dropna().unique()
+        self.assert_trimmed_names(unique_countries, "Non trimmed countries found")
+
+    def test_city_should_be_trimmed(self):
+        df = self.load_dataset()
+        unique_cities = df['city'].dropna().unique()
+        self.assert_trimmed_names(unique_cities, "Non trimmed countries found")
+
+    def assert_trimmed_names(self, values_list, fail_prefix):
+        failed_names_list = self.get_non_trimmed_names(values_list)
+        failed_names_count = len(failed_names_list)
+        fail_message = "{}: {}".format(fail_prefix, failed_names_list)
+        self.assertEqual(0, failed_names_count, fail_message)
+
+    def get_non_trimmed_names(self, names_list):
+        name_serie = pd.Series(names_list)
+        bad_filter = name_serie.str.startswith(' ') | name_serie.str.endswith(' ')
+        return name_serie[bad_filter].values
+
+    def test_country_should_not_have_duplicates(self):
+        df = self.load_dataset()
+        unique_countries = df['country'].dropna().unique()
+        countries_hash = map(self.get_name_hash, unique_countries)
+        country_series = pd.Series(unique_countries, index=countries_hash)
+
+        country_counters = country_series.groupby(country_series.index.tolist()).count()
+        duplicated_hashes = country_counters[country_counters > 1].index.tolist()
+        duplicated_countries = country_series.loc[duplicated_hashes].tolist()
+
+        failed_names_count = len(duplicated_countries)
+        fail_message = "Duplicated countries found: {}".format(duplicated_countries)
+        self.assertEqual(0, failed_names_count, fail_message)
+
+
+    def test_country_names_should_not_use_latin_symbols(self):
+        df = self.load_dataset()
+        unique_cities = df['country'].dropna().unique()
+        unique_cities = pd.Series(unique_cities)
+
+        latin_names_filter = unique_cities.str.match(r'[a-z]', flags=re.IGNORECASE)
+        latin_city_names = unique_cities[latin_names_filter]
+
+        failed_names_count = len(latin_city_names)
+        fail_message = "Non latin country names found: {}".format(latin_city_names.values)
+        self.assertEqual(0, failed_names_count, fail_message)
+
+
+    def test_city_should_not_have_duplicates(self):
+        df = self.load_dataset()
+        unique_cities = df['city'].dropna().unique()
+        cities_hash = map(self.get_name_hash, unique_cities)
+        city_series = pd.Series(unique_cities, index=cities_hash)
+
+        city_counters = city_series.groupby(city_series.index.tolist()).count()
+        duplicated_hashes = city_counters[city_counters > 1].index.tolist()
+        duplicated_cities = city_series.loc[duplicated_hashes].tolist()
+
+        failed_names_count = len(duplicated_cities)
+        fail_message = "Duplicated cities found: {}".format(duplicated_cities)
+        self.assertEqual(0, failed_names_count, fail_message)
+
+    def get_name_hash(self, name):
+        name_hash = str(name)
+        name_hash = name_hash.lower()
+        name_hash = name_hash.replace(' ', '')
+        name_hash = name_hash.replace("\'", '')
+        return name_hash
+
+    def test_city_should_not_be_uppercase(self):
+        df = self.load_dataset()
+        unique_cities = df['city'].dropna().unique()
+        unique_cities = pd.Series(unique_cities)
+
+        upper_case_cities = unique_cities[unique_cities == unique_cities.str.upper()]
+
+        failed_names_count = len(upper_case_cities)
+        fail_message = "Uppercase city names found: {}".format(upper_case_cities.values)
+        self.assertEqual(0, failed_names_count, fail_message)
+
 
 if __name__ == '__main__':
     unittest.main()
