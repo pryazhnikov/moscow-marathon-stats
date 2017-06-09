@@ -4,4 +4,9 @@ python:
   - "3.6"
 install:
   - pip install -r requirements.txt
-script: python tests/dataset_structure.py -v
+script:
+  # Run dataset checks
+  - python tests/dataset_structure.py -v
+
+  # Run codestyle checks
+  - pep8 --ignore=E501 "$TRAVIS_BUILD_DIR"
