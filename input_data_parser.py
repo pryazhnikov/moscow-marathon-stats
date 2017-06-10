@@ -273,6 +273,9 @@ def get_processed_data_frame(result_df):
     for team_name, team_filter in get_normalized_team_name_filters(team_names):
         result_df.loc[team_filter, 'teamNormalized'] = team_name
 
+    # Make athletes order predictable
+    result_df.sort_values(['year', 'resultTime', 'genderPosition'], inplace=True)
+
     fields = [
         'year',
         'gender',
