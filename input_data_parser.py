@@ -71,9 +71,10 @@ def get_normalized_team_name_filters(team_names):
         ('Girl&Sole', team_name_filter.str.contains('girl') & team_name_filter.str.contains('sole')),
         ('42Trip', team_name_filter.str.contains('42trip')),
         ('42km.ru', team_name_filter.str.contains('42км.ru') | team_name_filter.str.contains('42km.ru')),
-        ('Nike+', team_name_filter.str.contains('nike') & (team_name_filter.str.contains('\+') | team_name_filter.str.contains('plus'))),
+        ('Nike+', team_name_filter.str.contains('nike') & team_name_filter.str.contains(r'\+|plus')),
         ('Nike+', team_name_filter.str.contains('найк')),
-        ('Лыжный клуб Измайлово', team_name_filter.str.contains('измайлово') & (team_name_filter.str.contains('лыжный') | team_name_filter.str.contains('лк'))),
+        ('Лыжный клуб Измайлово', team_name_filter.str.contains('измайлово') & team_name_filter.str.contains('лыжный')),
+        ('Лыжный клуб Измайлово', team_name_filter.str.contains('измайлово') & team_name_filter.str.contains('лк')),
         ('Московский беговой клуб', team_name_filter.str.contains('московскийбеговойклуб')),
         ('EY', team_name_filter.str.startswith('ey')),
         ('IRC', team_name_filter.str.startswith('irc')),
@@ -135,7 +136,11 @@ def load_new_format_file_frame(file_name):
     raw_data = f.read()
     file_data = json.loads(raw_data)
     if 'meta' in file_data:
-        # ["genderPosition","absolutePosition","number","last_name", "first_name","age","country","city","team","resultTime","realStartTime","5000","10000","15000","21100","25000","30000","35000", "ageGroup", "agPlace"]
+        # Expected structure:
+        #   "genderPosition","absolutePosition","number","last_name", "first_name",
+        #   "age","country","city","team","resultTime","realStartTime",
+        #   "5000","10000","15000","21100","25000","30000","35000",
+        #   "ageGroup", "agPlace"
         data_columns = file_data['meta']
     elif file_meta['year'] == 2014:
         # There is no meta info at 2014 data files

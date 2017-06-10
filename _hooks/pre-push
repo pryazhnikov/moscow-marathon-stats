@@ -4,7 +4,7 @@ remote="$1"
 url="$2"
 
 echo "PEP8 requirements check before push..."
-pep8 --ignore=E501 --statistics .
+pep8 --config=setup.cfg --statistics .
 pep8_exit_code=$?
 if [[ $pep8_exit_code == "1" ]]; then
     echo
