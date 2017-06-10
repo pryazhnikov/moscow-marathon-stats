@@ -9,4 +9,5 @@ script:
   - python tests/dataset_structure.py -v
 
   # Run codestyle checks
-  - pep8 --ignore=E501 "$TRAVIS_BUILD_DIR"
+  - cd "$TRAVIS_BUILD_DIR"
+  - pep8 --config=setup.cfg --statistics .
