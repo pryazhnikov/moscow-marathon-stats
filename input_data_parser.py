@@ -259,6 +259,7 @@ def get_processed_data_frame(result_df):
         'DNF': STATUS_DNF,
         'DNS': STATUS_DNS,
         'DSQ': STATUS_DSQ,
+        'DQ': STATUS_DSQ,
     }
     result_times = result_df['resultTime']
     for time_value, status_value in special_statuses.items():
