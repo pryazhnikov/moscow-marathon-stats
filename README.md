@@ -4,7 +4,7 @@
 
 [Moscow Marathon](http://moscowmarathon.org/en/) is an annual marathon (42.195 km) that courses through the center of Moscow, Russia.
 
-This repo contains combined, cleaned and anonymized results of this marathon for 2013-2016. You can find out these results at [data/all_results.csv](data/all_results.csv) file.
+This repo contains combined, cleaned and anonymized results of this marathon for 2013-2017. You can find out these results at [data/all_results.csv](data/all_results.csv) file.
 
 ## Results visualization
 
@@ -31,7 +31,9 @@ pip3 install -r requirements.txt
 
 There are two datasources for past marathon results.
 
-Results for *2014-2016* are available at official marathon site:
+Results for *2014-2017* are available at official marathon site:
+* http://moscowmarathon.org/en/moscowmarathon/participants/race-results/42-km-men/
+* http://moscowmarathon.org/en/moscowmarathon/participants/race-results/42-km-women/
 * http://moscowmarathon.org/en/moscowmarathon/2016/race-results/male-42km/
 * http://moscowmarathon.org/en/moscowmarathon/2016/race-results/female-42km/
 * http://2015.moscowmarathon.org/en/marathon/results-2015/42-km-men/
