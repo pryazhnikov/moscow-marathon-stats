@@ -406,6 +406,7 @@ def main():
 
     return True
 
+
 if __name__ == '__main__':
     result = main()
     exit_code = 0 if result else 1
