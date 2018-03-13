@@ -3,12 +3,12 @@
 remote="$1"
 url="$2"
 
-echo "PEP8 requirements check before push..."
-pep8 --config=setup.cfg --statistics .
-pep8_exit_code=$?
-if [[ $pep8_exit_code == "1" ]]; then
+echo "Pycodestyle requirements check before push..."
+pycodestyle --config=setup.cfg --statistics .
+pycodestyle_exit_code=$?
+if [[ $pycodestyle_exit_code == "1" ]]; then
     echo
-    echo "There are some failures at PEP8 requirements check! Push is not allowed"
+    echo "There are some failures at Pycodestyle requirements check! Push is not allowed"
     exit 1
 fi
 
