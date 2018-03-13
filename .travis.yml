@@ -10,4 +10,4 @@ script:
 
   # Run codestyle checks
   - cd "$TRAVIS_BUILD_DIR"
-  - pep8 --config=setup.cfg --statistics .
+  - pycodestyle --config=setup.cfg --statistics -v .

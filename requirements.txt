@@ -1,4 +1,4 @@
 scrapy
 numpy
 pandas
-pep8
+pycodestyle
