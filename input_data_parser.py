@@ -195,6 +195,7 @@ def get_normalized_country_name(country_name):
         'Azerbaijan': 'Азербайджан',
         'Belarus': 'Беларусь',
         'Belgium': 'Бельгия',
+        'Bosnia and Herzegovina': 'Босния и Герцеговина',
         'Brazil': 'Бразилия',
         'Canada': 'Канада',
         'China': 'Китай',
@@ -213,26 +214,36 @@ def get_normalized_country_name(country_name):
         'Hong Kong': 'Гонконг',
         'Hungary': 'Венгрия',
         'Iceland': 'Исландия',
+        'India': 'Индия',
         'Indonesia': 'Индонезия',
+        'Iran': 'Иран',
         'Ireland': 'Ирландия',
         'Israel': 'Израиль',
         'Italy': 'Италия',
         'Japan': 'Япония',
         'Kazakhstan': 'Казахстан',
         'Kuwait': 'Кувейт',
+        'Kyrgyzstan': 'Кыргыстан',
         'Latvia': 'Латвия',
         'Lithuania': 'Литва',
+        'Luxembourg': 'Люксембург',
+        'Macao': 'Макао',
+        'Macedonia': 'Македония',
         'Malaysia': 'Малайзия',
+        'Malta': 'Мальта',
         'Mexico': 'Мексика',
         'Moldova': 'Молдова',
+        'Mongolia': 'Монголия',
         'Montenegro': 'Черногория',
         'Netherlands': 'Нидерланды',
         'Norway': 'Норвегия',
         'Philippines': 'Филиппины',
         "People's Republic of China": 'Китай',
+        'Peru': 'Перу',
         'Poland': 'Польша',
         'Portugal': 'Португалия',
         'Russia': 'Россия',
+        'Senegal': 'Сенегал',
         'Serbia': 'Сербия',
         'Singapore': 'Сингапур',
         'Slovakia': 'Словакия',
@@ -250,6 +261,7 @@ def get_normalized_country_name(country_name):
         'United Kingdom': 'Великобритания',
         'United States': 'США',
         'Uzbekistan': 'Узбекистан',
+        'Venezuela': 'Венесуэла',
     }
     if country_name in name_translations:
         country_name = name_translations[country_name]
@@ -260,6 +272,13 @@ def get_normalized_country_name(country_name):
 def get_normalized_city_name(city_name):
     if not city_name:
         return city_name
+
+    fixed_city_names = {
+        "Gomel'": 'Gomel',
+    }
+
+    if city_name in fixed_city_names:
+        city_name = fixed_city_names[city_name]
 
     capitalized_stop_list = [
         'на',    # Ростов-на-Дону
