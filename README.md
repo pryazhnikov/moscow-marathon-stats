@@ -1,7 +1,5 @@
 # Moscow Marathon Stats
 
-[![Build Status](https://travis-ci.org/pryazhnikov/moscow-marathon-stats.svg?branch=master)](https://travis-ci.org/pryazhnikov/moscow-marathon-stats)
-
 [Moscow Marathon](http://moscowmarathon.org/en/) is an annual marathon (42.195 km) that courses through the center of Moscow, Russia.
 
 This repo contains combined, cleaned and anonymized results of this marathon for 2013-2018. You can find out these results at [data/all_results.csv](data/all_results.csv) file.
