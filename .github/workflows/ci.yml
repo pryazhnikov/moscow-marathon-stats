@@ -1,4 +1,4 @@
-name: Python Tests
+name: Python Tests & Codestyle Checks
 
 on:
   - pull_request
@@ -22,3 +22,6 @@ jobs:
 
     - name: Run test suite
       run: python -m unittest discover -s tests/ -p "*.py" -v
+
+    - name: Code style check
+      run: pycodestyle --config=setup.cfg --statistics -v .
